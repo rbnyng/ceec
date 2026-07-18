@@ -27,6 +27,7 @@ MAGIC = [
     (b"PK\x03\x04", "zip"),          # docx / xlsx / audio zip
     (b"\xd0\xcf\x11\xe0", "ole"),    # legacy .doc / .xls
     (b"%PDF", "pdf"),
+    (b"7z\xbc\xaf\x27\x1c", "7z"),   # 22 of these in the special archives
 ]
 HTML_PREFIXES = (b"<!DOCTYPE", b"<!doctype", b"<html", b"<HTML", b"\r\n<!DOC", b"\n<!DOC")
 

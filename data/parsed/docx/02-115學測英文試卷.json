@@ -1,0 +1,458 @@
+{
+ "path": "mirror/file_pool/0q054532512297480494/02-115學測英文試卷.docx",
+ "sections": [
+  {
+   "heading": "第壹部分、選擇題（占62分）",
+   "first_item": null,
+   "last_item": null,
+   "points": 62
+  },
+  {
+   "heading": "一、詞彙題（占10分）",
+   "first_item": null,
+   "last_item": null,
+   "points": 10
+  },
+  {
+   "heading": "說明︰第1題至第10題為單選題，每題1分。",
+   "first_item": 1,
+   "last_item": 10,
+   "points": null
+  },
+  {
+   "heading": "二、綜合測驗（占10分）",
+   "first_item": null,
+   "last_item": null,
+   "points": 10
+  },
+  {
+   "heading": "說明︰第11題至第20題為單選題，每題1分。",
+   "first_item": 11,
+   "last_item": 20,
+   "points": null
+  },
+  {
+   "heading": "三、文意選填（占10分）",
+   "first_item": null,
+   "last_item": null,
+   "points": 10
+  },
+  {
+   "heading": "說明：第21題至第30題為單選題，每題1分。",
+   "first_item": 21,
+   "last_item": 30,
+   "points": null
+  },
+  {
+   "heading": "四、篇章結構（占8分）",
+   "first_item": null,
+   "last_item": null,
+   "points": 8
+  },
+  {
+   "heading": "說明︰第31題至第34題為單選題，每題2分。",
+   "first_item": 31,
+   "last_item": 34,
+   "points": null
+  },
+  {
+   "heading": "五、閱讀測驗（占24分）",
+   "first_item": null,
+   "last_item": null,
+   "points": 24
+  },
+  {
+   "heading": "說明︰第35題至第46題為單選題，每題2分。",
+   "first_item": 35,
+   "last_item": 46,
+   "points": null
+  },
+  {
+   "heading": "第貳部分、混合題（占10分）",
+   "first_item": null,
+   "last_item": null,
+   "points": 10
+  },
+  {
+   "heading": "說明︰本部分共有1題組，每一子題配分標於題末。限在答題卷標示題號的作答區內作答，並以規定用筆作答。",
+   "first_item": null,
+   "last_item": null,
+   "points": null
+  },
+  {
+   "heading": "第參部分、非選擇題（占28分）",
+   "first_item": null,
+   "last_item": null,
+   "points": 28
+  },
+  {
+   "heading": "說明：本部分共有二大題，請依各題指示作答，答案必須寫在「答題卷」標示題號之作答區內，作答時不必抄題。",
+   "first_item": null,
+   "last_item": null,
+   "points": null
+  },
+  {
+   "heading": "一、中譯英（占8分）",
+   "first_item": null,
+   "last_item": null,
+   "points": 8
+  },
+  {
+   "heading": "說明：依題號將以下中文句子譯成正確、通順、達意的英文。每題4分，共8分。",
+   "first_item": null,
+   "last_item": null,
+   "points": null
+  },
+  {
+   "heading": "二、英文作文（占20分）",
+   "first_item": null,
+   "last_item": null,
+   "points": 20
+  },
+  {
+   "heading": "說明︰依提示寫一篇英文作文，文長至少120個單詞（words）。",
+   "first_item": null,
+   "last_item": null,
+   "points": null
+  }
+ ],
+ "items": [
+  {
+   "number": 11,
+   "stem": "(A) what is more\t(B) it turns out\t(C) in other words\t(D) all in all",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 12,
+   "stem": "(A) demonstrate\t(B) immigrate\t(C) communicate\t(D) manipulate",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 13,
+   "stem": "(A) doubts\t(B) icons\t(C) matches\t(D) clues",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 14,
+   "stem": "(A) hardly surprising\t(B) more acceptable\t(C) truly important\t(D) less likely",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 15,
+   "stem": "(A) responsive to\t(B) annoyed at\t(C) considerate of\t(D) tolerant with",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [
+    "第16至20題為題組",
+    "The history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade routes connecting the East and the West. Those who traveled along the routes through China needed places to rest. Teahouses thus sprang up to   16   the weary travelers, offering them a cup of tea to help them regain energy. But the culinary art of dim sum   17  , for it was considered inappropriate to pair tea with food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners therefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese delicacies was born.",
+    "Dim sum is more than just an example of Chinese cuisine. It is   18   an enjoyable dining experience that can span hours. The small portions were designed to merely “touch the heart,” as the name literally means, and   19   were first enjoyed as snacks. The small size allows the customer to order a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big groups to enjoy simple dishes together as   20  . Ultimately, dim sum—the food—is only a small part of the dim sum experience."
+   ],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 16,
+   "stem": "(A) accommodate\t(B) compensate\t(C) anticipate\t(D) reinforce",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 17,
+   "stem": "(A) would hardly develop\t(B) had yet to develop",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": null,
+   "stem": "(C) was fast developing\t\t(D) had almost developed",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 18,
+   "stem": "(A) passed on to\t(B) brought up as\t(C) thought to have\t(D) meant to be",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 19,
+   "stem": "(A) if so\t(B) as such\t(C) by then\t(D) in that",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 20,
+   "stem": "(A) a widely known delicacy\t(B) an intimate romantic dinner",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": null,
+   "stem": "(C) a joyful social activity\t\t(D) an amazing local cuisine",
+   "options": {},
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第11題至第20題為單選題，每題1分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 35,
+   "stem": "What is this passage mainly about?",
+   "options": {
+    "A": "A renowned Antarctic explorer.",
+    "B": "The extreme weather in Antarctica.",
+    "C": "A challenging voyage to Antarctica.",
+    "D": "The amazing discovery of a sunken ship."
+   },
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 36,
+   "stem": "Which of the following idioms is closest in meaning to “exacerbated the situation” in the third paragraph?",
+   "options": {
+    "A": "Broke the ice.",
+    "B": "Cost an arm and a leg.",
+    "C": "Missed the boat.",
+    "D": "Added fuel to the fire."
+   },
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 37,
+   "stem": "According to the passage, which of the following is true about Shackleton and his Antarctic expedition?",
+   "options": {
+    "A": "His journey lasted more than two years.",
+    "B": "He was the first man to cross over the Antarctic.",
+    "C": "His team camped out on Elephant Island for five months.",
+    "D": "He sent five crew members on a lifeboat to get help from a whaling station."
+   },
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 38,
+   "stem": "Which of the following shows the correct route of the Endurance after leaving South Georgia?",
+   "options": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+   },
+   "option_source": "table",
+   "passage": null,
+   "stimulus": [
+    "第39至42題為題組",
+    "In many old castles in Europe, visitors often find a fantastic spiral staircase, which provides a captivating focal point as it winds up the building. This prominent structure actually has a long and rich heritage.",
+    "In the Old Testament, reference is made to spiral staircases in the Temple of Solomon, suggesting that they were already in use by around 1,000 BC. The oldest spiral staircase still standing today is at Trajan’s Column in Rome. The staircase was built in 113 AD, with a total of 185 steps carved in stone and marble. Around this time, spiral staircases began to find much wider use in Roman architecture and across Europe.",
+    "Throughout the Middle Ages, winding staircases became a well-established feature of European castles, mainly for their advantages in helping to defend against attackers. To begin with, these staircases were quite narrow, so attackers would have to ascend one at a time, making it impossible to launch a mass attack. Also, the stairs were designed to turn clockwise upwards. This means that ascenders would have their right hand tight against the narrowest part of the staircases, close to the central pole, and as a result were unable to use their sword effectively. The attackers’ challenge was further complicated by the uneven steps of the staircase, often strategically designed by the castle owners. The defenders, living in the castles, were familiar with the stair pattern and could retreat up them very swiftly; while the attackers were much more likely to stumble and fall, particularly in the dimly lit confines of the staircase.",
+    "Being associated with medieval castles and kings, spiral staircases gradually won popularity in European architecture, with new materials emerging to cope with customers’ needs. In Victorian times, cast iron spiral staircases were popular for public buildings and homes for the rich. In the latter half of the 20th century, steel frames became cost-effective, and thus affordable for a much wider staircase market. Then, steel spiral staircases as fire escape stairs appeared in many buildings. Today, spiral staircases come in a wide variety of materials: steel, wood, concrete, and recently even glass. The timeless appeal of their classical design makes spiral staircases a much-desired feature in luxury homes, offices, and public buildings nowadays."
+   ],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 39,
+   "stem": "Which question can the passage answer?",
+   "options": {
+    "A": "Where was the first spiral staircase constructed?",
+    "B": "Who was the first designer of the spiral staircase?",
+    "C": "What is the world’s most famous spiral staircase?",
+    "D": "Why is the spiral staircase popular in modern times?"
+   },
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 40,
+   "stem": "What does “them” in the third paragraph refer to?",
+   "options": {
+    "A": "Stairs.",
+    "B": "Confines.",
+    "C": "Attackers.",
+    "D": "Defenders."
+   },
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 41,
+   "stem": "According to the passage, which is a correct time sequence of the materials used in making spiral\nstaircases?",
+   "options": {
+    "A": "stone  iron  steel  glass",
+    "B": "stone  wood iron  steel",
+    "C": "iron  marble  wood  glass",
+    "D": "marble  wood  stone  concrete"
+   },
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 42,
+   "stem": "Which of the following statements can be inferred about spiral staircases in the Medieval Ages?",
+   "options": {
+    "A": "The staircase was too narrow to allow any quick retreat.",
+    "B": "The clockwise design favored right-handed castle defenders.",
+    "C": "The uneven steps made it easier to ascend than descend the stairs.",
+    "D": "The staircase was dark enough for defenders to hide from attackers."
+   },
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [
+    "第43至46題為題組",
+    "Have you ever wondered why north comes at the top of a map? Well, north may seem a natural choice for the top spot today, but that wasn’t always the case.",
+    "Documents from ancient times indicate that many maps in early ages were pointing to the east, where the sun rose. In ancient India, for example, maps were most likely oriented to the east. Though there is no physical evidence to support this, the word dakshina “south” in Indian languages also means “right,” suggesting that ancient Indians were oriented toward the east, and therefore south was on their right-hand side. Ample evidences from the Old Testament also suggest that east was at the top of maps in pre-Biblical and Biblical eras, a reason why east is still referred to as the “Orient” today.",
+    "In the oldest surviving maps, south is at the top, and north points down. Early Egyptian maps showed south on top, most likely because the Nile, vital to Egyptian livelihood, originated in the south. As rivers were believed to flow downward, “up” was therefore south. Map makers in Arabia also drew maps with south on top since the earliest Muslims lived north of Mecca, and a south-oriented map would show the followers looking up toward their holy city.",
+    "The preference for north arose during the European age of exploration. At the time, sailors relied on the North Star to find their way across the Mediterranean and later the Atlantic. By the 16th century, when Europe’s search for trading routes was at its peak, maps became Eurocentric, with north on top. The expansion of European imperialism in the following centuries further established the “north up” practice as the standard.",
+    "Today, map orientation is taking on a new perspective. In perhaps our most common interaction with maps—the use of GPS systems on our phones and in our cars, directions have ceased to be as important. The layouts are dynamic, oriented toward our travel path.",
+    "So, perhaps the north-on-top practice is less a rule and more a blip. After centuries of technological advancements, it seems we’ve ended up right where we began in ancient times: with ourselves in the middle, and our destinations at the top."
+   ],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 43,
+   "stem": "What is the passage mainly about?",
+   "options": {
+    "A": "Why east is referred to as the “Orient.”",
+    "B": "How maps differ from GPS in function.",
+    "C": "How map orientation evolved over time.",
+    "D": "Why maps were important during the age of exploration."
+   },
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 44,
+   "stem": "What does “this” refer to in the second paragraph?",
+   "options": {
+    "A": "The word dakshina.",
+    "B": "Physical evidence.",
+    "C": "Ancient India.",
+    "D": "East-orientation of maps."
+   },
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 45,
+   "stem": "Which of the following is closest in meaning to “a blip” in the last paragraph?",
+   "options": {
+    "A": "A temporary state.",
+    "B": "An urgent need.",
+    "C": "A critical decision.",
+    "D": "An advanced system."
+   },
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": 46,
+   "stem": "Which of the following statements is true?",
+   "options": {
+    "A": "Sailors took the North Star as their final destination.",
+    "B": "The GPS system has a fixed direction for orientation.",
+    "C": "South was placed at the top of maps in the pre-Biblical era.",
+    "D": "Old Islamic maps put south at the top for religious purposes."
+   },
+   "option_source": "inline",
+   "passage": null,
+   "stimulus": [],
+   "section": "說明︰第35題至第46題為單選題，每題2分。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  },
+  {
+   "number": null,
+   "stem": "Wonder Village, a famous tourist site, is characterized by its diversity and uniqueness. It is a place where the old meets the new—where tradition coexists harmoniously with   47  , and local features are perfectly   48   with foreign elements.",
+   "options": {},
+   "option_source": "inline",
+   "passage": "A. Oh Eco\nGreatly concerned about the presence of fake “green” products on the market, Alice Bao decided to open this shop. She sells environmentally friendly items such as reusable bottles, bamboo toothbrushes, and soy candles. “Here everyone looks out for each other and the neighborhood,” she says. “There’s a sense of community in the area.”\tB. After Work\nNeighborhood beer lovers rejoiced when After Work moved in last summer. “We knew we were coming into a really cool neighborhood,” says co-owner Joey Ma. Aside from handcrafted beer, the menu boasts hand-made gourmet pizzas such as the Yummy Duck n’ Cheese, loaded with roast duck and, yes, creamy delicious cheese. A truly unique blend!\tC. Aroma Paradise\nThe fragrances at this scent shop are largely customized to meet the individual shopper’s taste. Owner Joseph Tang says he knew the idea would work well in this unique district: “Each store is one of a kind in Wonder Village,” he states. “Aroma Paradise wants to create a paradise for those who are looking for fragrance made for their special preferences.”\tD. Something Different\nLooking for something unique? Yes, at this tiny antique store you can always find, as promised, something different. Open since 1996, the store features traditional-style home accessories, ranging from cabinets and chairs to picture frames and decorative mirrors.\tE. Beyond World\nOwner Foting Mayaw opened this boutique in what he calls “the most fascinating area in Taiwan.” The shop focuses on selling various “good goods” that showcase the skill and spirit of neighborhood artisans. From fashion items to rice snacks, it carries products only from local makers and small businesses owned by indigenous people.\tF. The Pinery\nThis restaurant got its name from the pineapple farms that once populated the area. Indeed, the fruit appears in some innovative menu items (e.g., pineapple jam on the burger). “Wonder Village is much more than just a tourist destination,” says owner Carol Hon. “It is a place where the old meets the new: diverse, unique, and always full of surprises.”",
+   "stimulus": [
+    "While visiting Wonder Village, the Chen family decide to buy the following items as souvenirs:",
+    "(1) a 19th century oil lamp",
+    "(2) recycled plastic sunglasses",
+    "(3) an aboriginal wooden beads necklace",
+    "Which stores should they go to for these items?",
+    "請選出商店名稱前的英文大寫字母（如A、B、C等），並劃記在「答題卷」作答區內。\n（多選題，4分）",
+    "Which phrase is used by Joseph Tang to describe the “uniqueness” of the stores in Wonder Village?（簡答題，2分）",
+    "_________________________________________________________________________________"
+   ],
+   "section": "說明︰本部分共有1題組，每一子題配分標於題末。限在答題卷標示題號的作答區內作答，並以規定用筆作答。",
+   "style": "樣式 TIT1 + 左:  0 cm 凸出:  3.69 字元"
+  }
+ ]
+}
