@@ -1,2 +1,6 @@
 progress 100/3273 ok=100 skip=0 fail=0
 progress 200/3273 ok=200 skip=0 fail=0
+progress 300/3273 ok=300 skip=0 fail=0
+progress 400/3273 ok=400 skip=0 fail=0
+progress 500/3273 ok=500 skip=0 fail=0
+progress 600/3273 ok=600 skip=0 fail=0

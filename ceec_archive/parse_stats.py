@@ -123,6 +123,55 @@ def parse_sheet(sheet) -> dict:
     return out
 
 
+def parse_pd_workbook(path: str | Path) -> dict:
+    """Parse 42-46_各科答對率及鑑別度表 workbooks (official per-item P and D).
+
+    Verified layout (113 學測): header 題號,P,Ph,Pl,Pa..Pe,T,D,D1..D4.
+    The sheet's own footnotes define Ph=高分組(前33%), Pl=低分組(後33%),
+    Pa–Pe = 20% ability quintiles (verified: mean(Pa..Pe)≈P, D=Ph−Pl).
+    Multi-select P is a partial-credit 得分率, not an all-correct rate
+    (footer formula: Σ得分/(考生人數×題分), blanks scored 0).
+    """
+    book = xlrd.open_workbook(str(path))
+    out = {"path": str(path), "sheets": []}
+    for sh in book.sheets():
+        if sh.nrows == 0:
+            continue
+        header_row = None
+        cols = {}
+        for r in range(min(sh.nrows, 12)):
+            vals = [_norm(sh.cell_value(r, c)) for c in range(sh.ncols)]
+            if "題號" in [v.replace(" ", "") for v in vals]:
+                header_row = r
+                for c, v in enumerate(vals):
+                    cols[v.replace(" ", "")] = c
+                break
+        if header_row is None:
+            out["sheets"].append({"subject": sh.name, "items": [],
+                                  "flags": ["no_header_row"]})
+            continue
+        items = []
+        for r in range(header_row + 1, sh.nrows):
+            q = _norm(sh.cell_value(r, cols["題號"]))
+            multi = q.startswith(("*", "＊"))
+            q = q.lstrip("*＊").strip()
+            if not re.fullmatch(r"\d{1,3}", q):
+                continue
+            def cell(name):
+                if name not in cols:
+                    return None
+                v, _ = _pct(sh.cell_value(r, cols[name]))
+                return v
+            items.append({
+                "number": int(q), "multi_select": multi,
+                "P": cell("P"), "Ph": cell("Ph"), "Pl": cell("Pl"),
+                "D": cell("D"),
+                "quintiles": [cell(k) for k in ("Pa", "Pb", "Pc", "Pd", "Pe")],
+            })
+        out["sheets"].append({"subject": sh.name, "items": items, "flags": []})
+    return out
+
+
 def parse_workbook(path: str | Path) -> dict:
     book = xlrd.open_workbook(str(path), formatting_info=False)
     sheets = []

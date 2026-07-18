@@ -1,0 +1,105 @@
+{
+ "processed": 3,
+ "skipped_no_files": 4,
+ "parse_errors": 0,
+ "papers": [
+  {
+   "title": "115學年度學科能力測驗－國綜",
+   "year_roc": 115,
+   "year_ce": 2026,
+   "exam_system": "學測",
+   "subject_zh": "國綜",
+   "subject_key": "chinese_reading",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0q054337448417166461/01-115學測國綜試卷.pdf",
+    "docx": "mirror/file_pool/0q054337628051045498/01-115學測國綜試卷.docx",
+    "key": "mirror/file_pool/0q040596675162309932/01-115學測國語文綜合能力測驗答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 36,
+    "n_both": 36
+   }
+  },
+  {
+   "title": "115學年度學科能力測驗－國寫",
+   "year_roc": 115,
+   "year_ce": 2026,
+   "exam_system": "學測",
+   "subject_zh": "國寫",
+   "subject_key": "chinese_writing",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0q054338512775247597/07-115學測國寫試卷.pdf",
+    "docx": "mirror/file_pool/0q054338692319116515/07-115學測國寫試卷.docx"
+   },
+   "flags": [],
+   "checks": {},
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 0,
+    "n_both": 0
+   }
+  },
+  {
+   "title": "115學年度學科能力測驗－英文",
+   "year_roc": 115,
+   "year_ce": 2026,
+   "exam_system": "學測",
+   "subject_zh": "英文",
+   "subject_key": "english",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0q054532302653501476/02-115學測英文試卷.pdf",
+    "docx": "mirror/file_pool/0q054532512297480494/02-115學測英文試卷.docx"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true
+   },
+   "cross_check": {
+    "pdf_only": [
+     49,
+     50
+    ],
+    "docx_only": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34
+    ],
+    "option_set_disagree": [
+     17,
+     20
+    ],
+    "n_agree": 30,
+    "n_both": 32
+   }
+  }
+ ],
+ "flag_counts": {},
+ "mean_pdf_docx_agreement": 0.9688
+}

@@ -1,0 +1,551 @@
+{
+ "path": "mirror/file_pool/0q054532302653501476/02-115學測英文試卷.pdf",
+ "margin_x": 64.0,
+ "sections": [
+  {
+   "heading": "第 壹 部 分 、 選 擇 題 （ 占 62分 ）",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "一 、 詞 彙 題 （ 占 10分 ）",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "說明︰第1題至第10題為單選題，每題1分。",
+   "first_item": 1,
+   "last_item": 10
+  },
+  {
+   "heading": "二 、 綜 合 測 驗 （ 占 10分 ）",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "說明︰第11題至第20題為單選題，每題1分。",
+   "first_item": 11,
+   "last_item": 20
+  },
+  {
+   "heading": "三 、 文 意 選 填 （ 占 10分 ）",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "說明：第21題至第30題為單選題，每題1分。",
+   "first_item": 21,
+   "last_item": 30
+  },
+  {
+   "heading": "四 、 篇 章 結 構 （ 占 8分 ）",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "說明︰第31題至第34題為單選題，每題2分。",
+   "first_item": 31,
+   "last_item": 34
+  },
+  {
+   "heading": "五 、 閱 讀 測 驗 （ 占 24分 ）",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "說明︰第35題至第46題為單選題，每題2分。",
+   "first_item": 35,
+   "last_item": 46
+  },
+  {
+   "heading": "第 貳 部 分 、 混 合 題 （ 占 10分 ）",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "說明︰本部分共有1題組，每一子題配分標於題末。限在答題卷標示題號的作答區內作答，",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "第 參 部 分 、 非 選 擇 題 （ 占 28分 ）",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "說明：本部分共有二大題，請依各題指示作答，答案必須寫在「答題卷」標示題號之作答",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "一 、 中 譯 英 （ 占 8分 ）",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "說明：依題號將以下中文句子譯成正確、通順、達意的英文。每題4分，共8分。",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "二 、 英 文 作 文 （ 占 20分 ）",
+   "first_item": null,
+   "last_item": null
+  },
+  {
+   "heading": "說明︰依提示寫一篇英文作文，文長至少120個單詞（words）。",
+   "first_item": null,
+   "last_item": null
+  }
+ ],
+ "items": [
+  {
+   "number": 1,
+   "page": 2,
+   "top": 177.4,
+   "group_id": null,
+   "stem": "The mayor has such a ______ schedule that it takes weeks to arrange an interview with her.",
+   "options": {
+    "A": "hasty",
+    "B": "tight",
+    "C": "diligent",
+    "D": "routine"
+   }
+  },
+  {
+   "number": 2,
+   "page": 2,
+   "top": 213.4,
+   "group_id": null,
+   "stem": "Jane started as an ______ art designer, but now she has a professional studio of her own.",
+   "options": {
+    "A": "official",
+    "B": "instant",
+    "C": "amateur",
+    "D": "elementary"
+   }
+  },
+  {
+   "number": 3,
+   "page": 2,
+   "top": 252.4,
+   "group_id": null,
+   "stem": "The teaching ______ at the famous high school soon attracted more than a dozen well-qualified\napplicants.",
+   "options": {
+    "A": "career",
+    "B": "vacancy",
+    "C": "expectation",
+    "D": "inspiration"
+   }
+  },
+  {
+   "number": 4,
+   "page": 2,
+   "top": 309.4,
+   "group_id": null,
+   "stem": "Designed by a young engineer, the new product has created far more profit than ______ expected.",
+   "options": {
+    "A": "initially",
+    "B": "genuinely",
+    "C": "alternatively",
+    "D": "fundamentally"
+   }
+  },
+  {
+   "number": 5,
+   "page": 2,
+   "top": 348.4,
+   "group_id": null,
+   "stem": "It has been confirmed that a balanced ______ of fruit and vegetables is a key element to good health.",
+   "options": {
+    "A": "dimension",
+    "B": "integration",
+    "C": "provision",
+    "D": "consumption"
+   }
+  },
+  {
+   "number": 6,
+   "page": 2,
+   "top": 387.4,
+   "group_id": null,
+   "stem": "As a shy boy afraid of making public appearances, Timmy ______ the thought of speaking before\nlarge audiences.",
+   "options": {
+    "A": "dreads",
+    "B": "stresses",
+    "C": "wanders",
+    "D": "escapes"
+   }
+  },
+  {
+   "number": 7,
+   "page": 2,
+   "top": 444.4,
+   "group_id": null,
+   "stem": "To the newly-crowned winner of the piano competition, music is his life’s ______, which he has\ndevoted himself to whole-heartedly.",
+   "options": {
+    "A": "resource",
+    "B": "impact",
+    "C": "passion",
+    "D": "emphasis"
+   }
+  },
+  {
+   "number": 8,
+   "page": 2,
+   "top": 501.4,
+   "group_id": null,
+   "stem": "The drunk driver who shouted at passers-by and ______ them with glass bottles was quickly arrested\nby the police.",
+   "options": {
+    "A": "shattered",
+    "B": "assaulted",
+    "C": "overturned",
+    "D": "condemned"
+   }
+  },
+  {
+   "number": 9,
+   "page": 2,
+   "top": 558.4,
+   "group_id": null,
+   "stem": "There were so many people at the bus station that I had to ______ my way through the crowd to board\nthe bus in time.",
+   "options": {
+    "A": "crash",
+    "B": "tumble",
+    "C": "elbow",
+    "D": "struggle"
+   }
+  },
+  {
+   "number": 10,
+   "page": 2,
+   "top": 612.4,
+   "group_id": null,
+   "stem": "Deadly shootings on US campuses have raised ______ concerns about how to prevent such tragic\nincidents from happening again.",
+   "options": {
+    "A": "swift",
+    "B": "brutal",
+    "C": "harsh",
+    "D": "grave"
+   }
+  },
+  {
+   "number": 11,
+   "page": 3,
+   "top": 336.0,
+   "group_id": "11-15",
+   "stem": "",
+   "options": {
+    "A": "what is more",
+    "B": "it turns out",
+    "C": "in other words",
+    "D": "all in all"
+   }
+  },
+  {
+   "number": 12,
+   "page": 3,
+   "top": 353.0,
+   "group_id": "11-15",
+   "stem": "",
+   "options": {
+    "A": "demonstrate",
+    "B": "immigrate",
+    "C": "communicate",
+    "D": "manipulate"
+   }
+  },
+  {
+   "number": 13,
+   "page": 3,
+   "top": 370.0,
+   "group_id": "11-15",
+   "stem": "",
+   "options": {
+    "A": "doubts",
+    "B": "icons",
+    "C": "matches",
+    "D": "clues"
+   }
+  },
+  {
+   "number": 14,
+   "page": 3,
+   "top": 387.0,
+   "group_id": "11-15",
+   "stem": "",
+   "options": {
+    "A": "hardly surprising",
+    "B": "more acceptable",
+    "C": "truly important",
+    "D": "less likely"
+   }
+  },
+  {
+   "number": 15,
+   "page": 3,
+   "top": 403.9,
+   "group_id": "11-15",
+   "stem": "",
+   "options": {
+    "A": "responsive to",
+    "B": "annoyed at",
+    "C": "considerate of",
+    "D": "tolerant with"
+   }
+  },
+  {
+   "number": 16,
+   "page": 3,
+   "top": 669.9,
+   "group_id": "16-20",
+   "stem": "",
+   "options": {
+    "A": "accommodate",
+    "B": "compensate",
+    "C": "anticipate",
+    "D": "reinforce"
+   }
+  },
+  {
+   "number": 17,
+   "page": 3,
+   "top": 686.9,
+   "group_id": "16-20",
+   "stem": "",
+   "options": {
+    "A": "would hardly develop",
+    "B": "had yet to develop",
+    "C": "was fast developing",
+    "D": "had almost developed"
+   }
+  },
+  {
+   "number": 18,
+   "page": 3,
+   "top": 720.9,
+   "group_id": "16-20",
+   "stem": "",
+   "options": {
+    "A": "passed on to",
+    "B": "brought up as",
+    "C": "thought to have",
+    "D": "meant to be"
+   }
+  },
+  {
+   "number": 19,
+   "page": 3,
+   "top": 737.9,
+   "group_id": "16-20",
+   "stem": "",
+   "options": {
+    "A": "if so",
+    "B": "as such",
+    "C": "by then",
+    "D": "in that"
+   }
+  },
+  {
+   "number": 20,
+   "page": 3,
+   "top": 754.8,
+   "group_id": "16-20",
+   "stem": "",
+   "options": {
+    "A": "a widely known delicacy",
+    "B": "an intimate romantic dinner",
+    "C": "a joyful social activity",
+    "D": "an amazing local cuisine\n- 2 -\n第 3 頁 請記得在答題卷簽名欄位以正楷簽全名 115年學測\n共 11 頁 英文考科"
+   }
+  },
+  {
+   "number": 35,
+   "page": 6,
+   "top": 594.2,
+   "group_id": "35-38",
+   "stem": "What is this passage mainly about?",
+   "options": {
+    "A": "A renowned Antarctic explorer.",
+    "B": "The extreme weather in Antarctica.",
+    "C": "A challenging voyage to Antarctica.",
+    "D": "The amazing discovery of a sunken ship."
+   }
+  },
+  {
+   "number": 36,
+   "page": 6,
+   "top": 679.0,
+   "group_id": "35-38",
+   "stem": "Which of the following idioms is closest in meaning to “exacerbated the situation” in the third\nparagraph?",
+   "options": {
+    "A": "Broke the ice.",
+    "B": "Cost an arm and a leg.",
+    "C": "Missed the boat.",
+    "D": "Added fuel to the fire.\n- 5 -\n115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 6 頁\n英文考科 共 11 頁"
+   }
+  },
+  {
+   "number": 37,
+   "page": 7,
+   "top": 90.4,
+   "group_id": "35-38",
+   "stem": "According to the passage, which of the following is true about Shackleton and his Antarctic\nexpedition?",
+   "options": {
+    "A": "His journey lasted more than two years.",
+    "B": "He was the first man to cross over the Antarctic.",
+    "C": "His team camped out on Elephant Island for five months.",
+    "D": "He sent five crew members on a lifeboat to get help from a whaling station."
+   }
+  },
+  {
+   "number": 38,
+   "page": 7,
+   "top": 193.3,
+   "group_id": "35-38",
+   "stem": "Which of the following shows the correct route of the Endurance after leaving South Georgia?",
+   "options": {
+    "A": "",
+    "B": "South Georgia South Georgia\nElephant Island Elephant Island\nWE D D E LL WE D D E LL\nP A C IF I C S E A P A C IF I C\nO C E A N ATLANTIC O C E A N S E A ATLANTIC\nOCEAN OCEAN\nANTARCTICA ANTARCTICA",
+    "C": "",
+    "D": "South Georgia South Georgia\nElephant Island Elephant Island\nWEDDELL WEDDELL\nP A C IF I C SEA P A C IF I C\nO C E A N SEA\nATLANTIC O C E A N ATLANTIC\nOCEAN OCEAN\nANTARCTICA ANTARCTICA\n- 6 -\n第 7 頁 請記得在答題卷簽名欄位以正楷簽全名 115年學測\n共 11 頁 英文考科"
+   }
+  },
+  {
+   "number": 39,
+   "page": 8,
+   "top": 504.1,
+   "group_id": "39-42",
+   "stem": "Which question can the passage answer?",
+   "options": {
+    "A": "Where was the first spiral staircase constructed?",
+    "B": "Who was the first designer of the spiral staircase?",
+    "C": "What is the world’s most famous spiral staircase?",
+    "D": "Why is the spiral staircase popular in modern times?"
+   }
+  },
+  {
+   "number": 40,
+   "page": 8,
+   "top": 584.1,
+   "group_id": "39-42",
+   "stem": "What does “them” in the third paragraph refer to?",
+   "options": {
+    "A": "Stairs.",
+    "B": "Confines.",
+    "C": "Attackers.",
+    "D": "Defenders."
+   }
+  },
+  {
+   "number": 41,
+   "page": 8,
+   "top": 617.4,
+   "group_id": "39-42",
+   "stem": "According to the passage, which is a correct time sequence of the materials used in making spiral\nstaircases?",
+   "options": {
+    "A": "stone  iron  steel  glass",
+    "B": "stone  wood iron  steel",
+    "C": "iron  marble  wood  glass",
+    "D": "marble  wood  stone  concrete"
+   }
+  },
+  {
+   "number": 42,
+   "page": 8,
+   "top": 681.9,
+   "group_id": "39-42",
+   "stem": "Which of the following statements can be inferred about spiral staircases in the Medieval Ages?",
+   "options": {
+    "A": "The staircase was too narrow to allow any quick retreat.",
+    "B": "The clockwise design favored right-handed castle defenders.",
+    "C": "The uneven steps made it easier to ascend than descend the stairs.",
+    "D": "The staircase was dark enough for defenders to hide from attackers.\n- 7 -\n115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 8 頁\n英文考科 共 11 頁"
+   }
+  },
+  {
+   "number": 43,
+   "page": 9,
+   "top": 496.1,
+   "group_id": "43-46",
+   "stem": "What is the passage mainly about?",
+   "options": {
+    "A": "Why east is referred to as the “Orient.”",
+    "B": "How maps differ from GPS in function.",
+    "C": "How map orientation evolved over time.",
+    "D": "Why maps were important during the age of exploration."
+   }
+  },
+  {
+   "number": 44,
+   "page": 9,
+   "top": 582.0,
+   "group_id": "43-46",
+   "stem": "What does “this” refer to in the second paragraph?",
+   "options": {
+    "A": "The word dakshina.",
+    "B": "Physical evidence.",
+    "C": "Ancient India.",
+    "D": "East-orientation of maps."
+   }
+  },
+  {
+   "number": 45,
+   "page": 9,
+   "top": 631.0,
+   "group_id": "43-46",
+   "stem": "Which of the following is closest in meaning to “a blip” in the last paragraph?",
+   "options": {
+    "A": "A temporary state.",
+    "B": "An urgent need.",
+    "C": "A critical decision.",
+    "D": "An advanced system."
+   }
+  },
+  {
+   "number": 46,
+   "page": 9,
+   "top": 679.8,
+   "group_id": "43-46",
+   "stem": "Which of the following statements is true?",
+   "options": {
+    "A": "Sailors took the North Star as their final destination.",
+    "B": "The GPS system has a fixed direction for orientation.",
+    "C": "South was placed at the top of maps in the pre-Biblical era.",
+    "D": "Old Islamic maps put south at the top for religious purposes.\n- 8 -\n第 9 頁 請記得在答題卷簽名欄位以正楷簽全名 115年學測\n共 11 頁 英文考科"
+   }
+  },
+  {
+   "number": 49,
+   "page": 11,
+   "top": 464.2,
+   "group_id": "47-50",
+   "stem": "While visiting Wonder Village, the Chen family decide to buy the following items as souvenirs:\n(1) a 19th century oil lamp\n(2) recycled plastic sunglasses\n(3) an aboriginal wooden beads necklace\nWhich stores should they go to for these items?\n請選出商店名稱前的英文大寫字母（如A、B、C等），並劃記在「答題卷」作答區內。\n（多選題，4分）",
+   "options": {}
+  },
+  {
+   "number": 50,
+   "page": 11,
+   "top": 596.2,
+   "group_id": "47-50",
+   "stem": "Which phrase is used by Joseph Tang to describe the “uniqueness” of the stores in Wonder Village?\n（簡答題，2分）\n_________________________________________________________________________________\n- 10 -\n第 11 頁 請記得在答題卷簽名欄位以正楷簽全名 115年學測\n共 11 頁 英文考科",
+   "options": {}
+  },
+  {
+   "number": 1,
+   "page": 12,
+   "top": 212.3,
+   "group_id": null,
+   "stem": "現在越來越多高中英文老師已經增加在課堂上使用英文的百分比。",
+   "options": {}
+  },
+  {
+   "number": 2,
+   "page": 12,
+   "top": 234.4,
+   "group_id": null,
+   "stem": "他們將學生依英語能力分成不同組別，進行多樣的聽、說活動。",
+   "options": {}
+  }
+ ]
+}
