@@ -24,6 +24,7 @@ SUBJECT_KEYS = {
     "物理": "physics", "化學": "chemistry", "生物": "biology",
     "歷史": "history", "地理": "geography", "公民與社會": "civics",
     "國語文綜合能力測驗": "chinese_reading", "國語文寫作能力測驗": "chinese_writing",
+    "國文（選擇題）": "chinese_reading",   # 107–110 transition naming
 }
 # stats sheet name -> paper subject aliases
 SHEET_ALIAS = {"國文": ["國綜", "國文"], "數學A": ["數學A"], "數學B": ["數學B"]}

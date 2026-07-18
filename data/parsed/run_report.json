@@ -1,6 +1,6 @@
 {
- "processed": 21,
- "skipped_no_files": 15,
+ "processed": 35,
+ "skipped_no_files": 29,
  "parse_errors": 0,
  "papers": [
   {
@@ -661,10 +661,459 @@
     "n_agree": 56,
     "n_both": 56
    }
+  },
+  {
+   "title": "112學年度學科能力測驗－國綜",
+   "year_roc": 112,
+   "year_ce": 2023,
+   "exam_system": "學測",
+   "subject_zh": "國綜",
+   "subject_key": "chinese_reading",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0n045361284386617720/01-1-112學測國文(國綜)試卷.pdf",
+    "docx": "mirror/file_pool/0n045361414921596757/01-2-112學測國文(國綜)試卷定稿.docx",
+    "key": "mirror/file_pool/0n045361875009344702/01-112學測國語文綜合能力測驗選擇題答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [
+     14,
+     17
+    ],
+    "option_set_disagree": [],
+    "n_agree": 35,
+    "n_both": 35
+   }
+  },
+  {
+   "title": "112學年度學科能力測驗－國寫",
+   "year_roc": 112,
+   "year_ce": 2023,
+   "exam_system": "學測",
+   "subject_zh": "國寫",
+   "subject_key": "chinese_writing",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0n045360424111183163/01-2-112學測國文(國寫)試卷.pdf",
+    "docx": "mirror/file_pool/0n045360630662426621/01-1 112學測國文(國寫)試卷定稿.docx"
+   },
+   "flags": [],
+   "checks": {},
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 0,
+    "n_both": 0
+   }
+  },
+  {
+   "title": "112學年度學科能力測驗－英文",
+   "year_roc": 112,
+   "year_ce": 2023,
+   "exam_system": "學測",
+   "subject_zh": "英文",
+   "subject_key": "english",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0n045359274947649605/02-112學測英文試卷.pdf",
+    "docx": "mirror/file_pool/0n045359405581528633/02-112學測英文試卷(定稿).docx",
+    "key": "mirror/file_pool/0n045359936769376687/02-112學測英文選擇題答案.pdf"
+   },
+   "flags": [
+    "key_letter_not_in_options:[49]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": false,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34
+    ],
+    "option_set_disagree": [],
+    "n_agree": 34,
+    "n_both": 34
+   }
+  },
+  {
+   "title": "112學年度學科能力測驗－數學A",
+   "year_roc": 112,
+   "year_ce": 2023,
+   "exam_system": "學測",
+   "subject_zh": "數學A",
+   "subject_key": "math_a",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0n045358375872115148/03-112學測數學a試卷.pdf",
+    "docx": "mirror/file_pool/0n045358465416084175/03-112學測數學a試卷(定稿).docx",
+    "key": "mirror/file_pool/0n045358876595832120/03-112學測數學a選擇(填)題答案.pdf"
+   },
+   "flags": [
+    "keyed_but_no_options:[1, 2, 3, 4, 5, 6, 18]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [
+     20
+    ],
+    "option_set_disagree": [],
+    "n_agree": 19,
+    "n_both": 19
+   }
+  },
+  {
+   "title": "112學年度學科能力測驗－數學B",
+   "year_roc": 112,
+   "year_ce": 2023,
+   "exam_system": "學測",
+   "subject_zh": "數學B",
+   "subject_key": "math_b",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0n045357250979165004/04-112學測數學b試卷.pdf",
+    "docx": "mirror/file_pool/0n045357361513034021/04-112學測數b試卷定稿.docx",
+    "key": "mirror/file_pool/0n045357541158913049/04-112學測數學b選擇(填)題答案.pdf"
+   },
+   "flags": [
+    "keyed_but_no_options:[1, 2, 3, 4, 5, 6, 7]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 20,
+    "n_both": 20
+   }
+  },
+  {
+   "title": "112學年度學科能力測驗－社會",
+   "year_roc": 112,
+   "year_ce": 2023,
+   "exam_system": "學測",
+   "subject_zh": "社會",
+   "subject_key": "social",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0n045355860270752519/05-112學測社會試卷.pdf",
+    "docx": "mirror/file_pool/0n045355970814621547/05-112學測社會試卷(定稿).docx",
+    "key": "mirror/file_pool/0n045356351993479581/05-112學測社會選擇題答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [
+     45,
+     60
+    ],
+    "option_set_disagree": [],
+    "n_agree": 64,
+    "n_both": 64
+   }
+  },
+  {
+   "title": "112學年度學科能力測驗－自然",
+   "year_roc": 112,
+   "year_ce": 2023,
+   "exam_system": "學測",
+   "subject_zh": "自然",
+   "subject_key": "science",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0n045354345199955411/06-112學測自然試卷.pdf",
+    "docx": "mirror/file_pool/0n045354024555086493/06-112學測自然試卷定稿.docx",
+    "key": "mirror/file_pool/0n045354876377703465/06-112學測自然選擇題答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [
+     16,
+     54,
+     56
+    ],
+    "option_set_disagree": [],
+    "n_agree": 57,
+    "n_both": 57
+   }
+  },
+  {
+   "title": "111學年度學科能力測驗－國綜",
+   "year_roc": 111,
+   "year_ce": 2022,
+   "exam_system": "學測",
+   "subject_zh": "國綜",
+   "subject_key": "chinese_reading",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0m053395009167828203/01-1-111學測國綜試卷.pdf",
+    "docx": "mirror/file_pool/0m052627478366216534/01-1-111學測國綜試卷定稿.docx",
+    "key": "mirror/file_pool/0m052627939544064589/01-111學測國語文綜合能力測驗選擇題答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 37,
+    "n_both": 37
+   }
+  },
+  {
+   "title": "111學年度學科能力測驗－國寫",
+   "year_roc": 111,
+   "year_ce": 2022,
+   "exam_system": "學測",
+   "subject_zh": "國寫",
+   "subject_key": "chinese_writing",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0m052630661359500564/01-2-111學測國寫試卷定稿.pdf",
+    "docx": "mirror/file_pool/0m052626343839398563/01-2-111學測國寫試卷定稿.docx"
+   },
+   "flags": [],
+   "checks": {},
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 0,
+    "n_both": 0
+   }
+  },
+  {
+   "title": "111學年度學科能力測驗－英文",
+   "year_roc": 111,
+   "year_ce": 2022,
+   "exam_system": "學測",
+   "subject_zh": "英文",
+   "subject_key": "english",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0m053357638065462325/02-111學測英文試卷.pdf",
+    "docx": "mirror/file_pool/0m052625333586016950/02-111學測英文試卷定稿.docx",
+    "key": "mirror/file_pool/0m052625594764853905/02-111學測英文選擇題答案..pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34
+    ],
+    "option_set_disagree": [
+     47
+    ],
+    "n_agree": 34,
+    "n_both": 35
+   }
+  },
+  {
+   "title": "111學年度學科能力測驗－數學A",
+   "year_roc": 111,
+   "year_ce": 2022,
+   "exam_system": "學測",
+   "subject_zh": "數學A",
+   "subject_key": "math_a",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0m052633042401295651/03-111學測數學a試卷定稿.pdf",
+    "docx": "mirror/file_pool/0m052624011054976493/03-111學測數學a試卷定稿.docx",
+    "key": "mirror/file_pool/0m053361187672613478/03-111學測數學a選擇(填)題答案.pdf"
+   },
+   "flags": [
+    "keyed_but_no_options:[1, 2, 3, 4, 5, 6, 18]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 20,
+    "n_both": 20
+   }
+  },
+  {
+   "title": "111學年度學科能力測驗－數學B",
+   "year_roc": 111,
+   "year_ce": 2022,
+   "exam_system": "學測",
+   "subject_zh": "數學B",
+   "subject_key": "math_b",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0m053362985668390981/04-111學測數學b試卷.pdf",
+    "docx": "mirror/file_pool/0m052617381836846849/04-111學測數學b試卷定稿.docx",
+    "key": "mirror/file_pool/0m053363176747148935/04-111學測數學b選擇(填)題答案.pdf"
+   },
+   "flags": [
+    "keyed_but_no_options:[1, 2, 3, 4, 5, 6, 7, 9, 18]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 20,
+    "n_both": 20
+   }
+  },
+  {
+   "title": "111學年度學科能力測驗－社會",
+   "year_roc": 111,
+   "year_ce": 2022,
+   "exam_system": "學測",
+   "subject_zh": "社會",
+   "subject_key": "social",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0m053364108279287592/05-111學測社會試卷.pdf",
+    "docx": "mirror/file_pool/0m052614188947111283/05-111學測社會試卷定稿.docx",
+    "key": "mirror/file_pool/0m052614459126969237/05-111學測社會選擇題答案..pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [
+     25
+    ],
+    "option_set_disagree": [],
+    "n_agree": 66,
+    "n_both": 66
+   }
+  },
+  {
+   "title": "111學年度學科能力測驗－自然",
+   "year_roc": 111,
+   "year_ce": 2022,
+   "exam_system": "學測",
+   "subject_zh": "自然",
+   "subject_key": "science",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0m053364692537358519/06-111學測自然試卷.pdf",
+    "docx": "mirror/file_pool/0m052612301798465239/06-111學測自然試卷定稿.docx",
+    "key": "mirror/file_pool/0m052612982976213284/06-111學測自然選擇題答案..pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 60,
+    "n_both": 60
+   }
   }
  ],
  "flag_counts": {
-  "keyed_but_no_options": 8
+  "keyed_but_no_options": 12,
+  "key_letter_not_in_options": 1
  },
- "mean_pdf_docx_agreement": 1.0
+ "mean_pdf_docx_agreement": 0.999
 }
