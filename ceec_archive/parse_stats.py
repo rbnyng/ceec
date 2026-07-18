@@ -77,6 +77,17 @@ def parse_sheet(sheet) -> dict:
         out["flags"].append("no_header_row")
         return out
 
+    if group_col is None:
+        # flat-era (≤97) workbooks leave the 組別 header blank: sniff the
+        # column whose data values are T/H/L
+        for c in range(sheet.ncols):
+            vals = {_norm(sheet.cell_value(r, c)).upper()
+                    for r in range(header_row + 1, min(header_row + 30, sheet.nrows))}
+            vals.discard("")
+            if vals and vals <= {"T", "H", "L"}:
+                group_col = c
+                break
+
     cur = None
     for r in range(header_row + 1, sheet.nrows):
         vals = [sheet.cell_value(r, c) for c in range(sheet.ncols)]
