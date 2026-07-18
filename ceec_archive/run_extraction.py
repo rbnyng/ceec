@@ -25,6 +25,27 @@ from .parse_stats import parse_workbook, parse_pd_workbook
 
 TITLE = re.compile(r"^(\d{2,3})學年度(.+?)[－\-—](.+?)\s*$")
 EXAM_SYSTEM = {"學科能力測驗": "學測", "指定科目考試": "指考", "分科測驗": "分科"}
+CONVERT_DIR = Path("mirror/_converted")
+
+
+def ensure_docx(path: str) -> str | None:
+    """Convert a legacy OLE .doc to .docx via LibreOffice (cached).
+    Semantic styles are lost in conversion (HANDOFF §2a) but the tab
+    conventions survive, which the content-fallback heuristics handle."""
+    if path.endswith(".docx"):
+        return path
+    import subprocess
+    CONVERT_DIR.mkdir(parents=True, exist_ok=True)
+    out = CONVERT_DIR / (Path(path).stem + ".docx")
+    if out.exists():
+        return str(out)
+    try:
+        subprocess.run(["soffice", "--headless", "--convert-to", "docx",
+                        "--outdir", str(CONVERT_DIR), path],
+                       capture_output=True, timeout=120, check=True)
+    except Exception:
+        return None
+    return str(out) if out.exists() else None
 
 
 def parse_title(title: str):
@@ -124,8 +145,14 @@ def run(records_path="data/index/records.jsonl", collections=("gsat_regular", "a
                  "flags": [], "checks": {}}
         try:
             pdf_parsed = parse_pdf(files["pdf"]) if files["pdf"] else None
-            docx_parsed = (parse_docx(files["docx"])
-                           if files["docx"] and files["docx"].endswith(".docx") else None)
+            docx_parsed = None
+            word_src = "docx"
+            if files["docx"]:
+                usable = ensure_docx(files["docx"])
+                if usable:
+                    docx_parsed = parse_docx(usable)
+                    if not files["docx"].endswith(".docx"):
+                        word_src = "doc_converted"
             keys = parse_answers(files["key"]) if files["key"] else None
 
             stats_sheet = None
@@ -144,7 +171,12 @@ def run(records_path="data/index/records.jsonl", collections=("gsat_regular", "a
                     wb_cache[pd_path] = parse_pd_workbook(pd_path)
                 pd_sheet = find_stats_sheet(wb_cache[pd_path], meta["subject_zh"])
 
-            primary = docx_parsed or pdf_parsed
+            # true docx is richest; converted .doc lost its styles, so the
+            # PDF is the better primary there (conversion still cross-checks)
+            if docx_parsed and word_src == "docx":
+                primary = docx_parsed
+            else:
+                primary = pdf_parsed or docx_parsed
             v = validate_paper(primary, keys, stats_sheet["items"] if stats_sheet else None)
             entry["checks"] = v["checks"]
             entry["flags"] = v["flags"]
@@ -179,7 +211,7 @@ def run(records_path="data/index/records.jsonl", collections=("gsat_regular", "a
                     "section": it.get("section"),
                     "keys": keys.get(n_join) if keys else None,
                     "item_flags": it.get("flags", []),
-                    "extracted_by": "docx" if primary is docx_parsed else "pdf",
+                    "extracted_by": word_src if primary is docx_parsed else "pdf",
                 }
                 si = stats_by_num.get(n_join)
                 if si:

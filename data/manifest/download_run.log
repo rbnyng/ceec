@@ -6,3 +6,4 @@ progress 500/3273 ok=500 skip=0 fail=0
 progress 600/3273 ok=600 skip=0 fail=0
 progress 700/3273 ok=700 skip=0 fail=0
 progress 900/3273 ok=888 skip=12 fail=0
+progress 1000/3273 ok=988 skip=12 fail=0

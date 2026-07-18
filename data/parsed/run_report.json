@@ -1,6 +1,6 @@
 {
- "processed": 14,
- "skipped_no_files": 8,
+ "processed": 21,
+ "skipped_no_files": 15,
  "parse_errors": 0,
  "papers": [
   {
@@ -446,10 +446,225 @@
     "n_agree": 57,
     "n_both": 57
    }
+  },
+  {
+   "title": "113學年度學科能力測驗－國綜",
+   "year_roc": 113,
+   "year_ce": 2024,
+   "exam_system": "學測",
+   "subject_zh": "國綜",
+   "subject_key": "chinese_reading",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0o051429609806157906/01-113學測國綜試題定稿.pdf",
+    "docx": "mirror/file_pool/0o051429700441026933/01-113學測國綜試題定稿.docx",
+    "key": "mirror/file_pool/0o051429991629874988/01-113學測國語文綜合能力測驗答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 36,
+    "n_both": 36
+   }
+  },
+  {
+   "title": "113學年度學科能力測驗－國寫",
+   "year_roc": 113,
+   "year_ce": 2024,
+   "exam_system": "學測",
+   "subject_zh": "國寫",
+   "subject_key": "chinese_writing",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0o051428628384018349/07-113學測國寫定稿.pdf",
+    "docx": "mirror/file_pool/0o051428764835350817/07-113學測國寫(定稿).docx"
+   },
+   "flags": [],
+   "checks": {},
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 0,
+    "n_both": 0
+   }
+  },
+  {
+   "title": "113學年度學科能力測驗－英文",
+   "year_roc": 113,
+   "year_ce": 2024,
+   "exam_system": "學測",
+   "subject_zh": "英文",
+   "subject_key": "english",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0o051427482769341323/02-113學測英文科定稿.pdf",
+    "docx": "mirror/file_pool/0o051427602203220350/02-113學測英文科(定稿).docx",
+    "key": "mirror/file_pool/0o051427843482078305/02-113學測英文答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34
+    ],
+    "option_set_disagree": [],
+    "n_agree": 34,
+    "n_both": 34
+   }
+  },
+  {
+   "title": "113學年度學科能力測驗－數學A",
+   "year_roc": 113,
+   "year_ce": 2024,
+   "exam_system": "學測",
+   "subject_zh": "數學A",
+   "subject_key": "math_a",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0o051426180137211766/03-113學測數a試題定稿.pdf",
+    "docx": "mirror/file_pool/0o051426281771180794/03-113學測數a試題定稿.docx",
+    "key": "mirror/file_pool/0o051426632950938748/03-113學測數學a答案.pdf"
+   },
+   "flags": [
+    "keyed_but_no_options:[1, 2, 3, 4, 5, 6, 9, 18]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 20,
+    "n_both": 20
+   }
+  },
+  {
+   "title": "113學年度學科能力測驗－數學B",
+   "year_roc": 113,
+   "year_ce": 2024,
+   "exam_system": "學測",
+   "subject_zh": "數學B",
+   "subject_key": "math_b",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0o051423705511545740/04-113學測數學b試題定稿.pdf",
+    "docx": "mirror/file_pool/0o051423795156414778/04-113學測數學b試題(定稿).docx",
+    "key": "mirror/file_pool/0o051424006334262722/04-113學測數學b答案.pdf"
+   },
+   "flags": [
+    "keyed_but_no_options:[1, 2, 3, 4, 5, 6, 7, 18]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 20,
+    "n_both": 20
+   }
+  },
+  {
+   "title": "113學年度學科能力測驗－社會",
+   "year_roc": 113,
+   "year_ce": 2024,
+   "exam_system": "學測",
+   "subject_zh": "社會",
+   "subject_key": "social",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0o051421699906768624/05-113學測社會科試題定稿.pdf",
+    "docx": "mirror/file_pool/0o051421799540647652/05-113學測社會科試題(定稿).docx",
+    "key": "mirror/file_pool/0o051422000729495697/05-113學測社會答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 64,
+    "n_both": 64
+   }
+  },
+  {
+   "title": "113學年度學科能力測驗－自然",
+   "year_roc": 113,
+   "year_ce": 2024,
+   "exam_system": "學測",
+   "subject_zh": "自然",
+   "subject_key": "science",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0o051419133380092609/06-113學測自然試題定稿.pdf",
+    "docx": "mirror/file_pool/0o051420033825971626/06-113學測自然試題定稿.docx",
+    "key": "mirror/file_pool/0o051420394003729671/06-113學測自然答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 56,
+    "n_both": 56
+   }
   }
  ],
  "flag_counts": {
-  "keyed_but_no_options": 6
+  "keyed_but_no_options": 8
  },
  "mean_pdf_docx_agreement": 1.0
 }
