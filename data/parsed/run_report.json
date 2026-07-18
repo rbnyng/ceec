@@ -1,6 +1,6 @@
 {
- "processed": 3,
- "skipped_no_files": 33,
+ "processed": 14,
+ "skipped_no_files": 8,
  "parse_errors": 0,
  "papers": [
   {
@@ -64,11 +64,18 @@
    "curriculum": "108課綱",
    "files": {
     "pdf": "mirror/file_pool/0q054532302653501476/02-115學測英文試卷.pdf",
-    "docx": "mirror/file_pool/0q054532512297480494/02-115學測英文試卷.docx"
+    "docx": "mirror/file_pool/0q054532512297480494/02-115學測英文試卷.docx",
+    "key": "mirror/file_pool/0q040594609847120321/02-115學測英文答案.pdf"
    },
-   "flags": [],
+   "flags": [
+    "keyed_but_no_options:[49]"
+   ],
    "checks": {
-    "declared_range_covered": true
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
    },
    "cross_check": {
     "pdf_only": [
@@ -91,15 +98,358 @@
      33,
      34
     ],
-    "option_set_disagree": [
-     17,
+    "option_set_disagree": [],
+    "n_agree": 32,
+    "n_both": 32
+   }
+  },
+  {
+   "title": "115學年度學科能力測驗－數學A",
+   "year_roc": 115,
+   "year_ce": 2026,
+   "exam_system": "學測",
+   "subject_zh": "數學A",
+   "subject_key": "math_a",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0q054344158947111283/03-115學測數學a試卷.pdf",
+    "docx": "mirror/file_pool/0q054340325654973044/03-115學測數學a試卷.docx",
+    "key": "mirror/file_pool/0q040592802409726233/03-115學測數學a答案.pdf"
+   },
+   "flags": [
+    "keyed_but_no_options:[1, 2, 3, 4, 5, 6, 18]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 20,
+    "n_both": 20
+   }
+  },
+  {
+   "title": "115學年度學科能力測驗－數學B",
+   "year_roc": 115,
+   "year_ce": 2026,
+   "exam_system": "學測",
+   "subject_zh": "數學B",
+   "subject_key": "math_b",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0q054533256912682493/04-115學測數學b試卷.pdf",
+    "docx": "mirror/file_pool/0q054533556556551510/04-115學測數學b試卷.docx",
+    "key": "mirror/file_pool/0q040592403413040721/04-115學測數學b答案.pdf"
+   },
+   "flags": [
+    "keyed_but_no_options:[1, 2, 3, 4, 5, 6, 7, 18]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 20,
+    "n_both": 20
+   }
+  },
+  {
+   "title": "115學年度學科能力測驗－社會",
+   "year_roc": 115,
+   "year_ce": 2026,
+   "exam_system": "學測",
+   "subject_zh": "社會",
+   "subject_key": "social",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0q054534130270752519/05-115學測社會試卷.pdf",
+    "docx": "mirror/file_pool/0q054534340814621547/05-115學測社會試卷.docx",
+    "key": "mirror/file_pool/0q040582211712162219/05-115學測社會答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 65,
+    "n_both": 65
+   }
+  },
+  {
+   "title": "115學年度學科能力測驗－自然",
+   "year_roc": 115,
+   "year_ce": 2026,
+   "exam_system": "學測",
+   "subject_zh": "自然",
+   "subject_key": "science",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0q054346117821958325/06-115學測自然試卷.pdf",
+    "docx": "mirror/file_pool/0q054342548074264140/06-115學測自然試卷.docx",
+    "key": "mirror/file_pool/0q040579122726476606/06-115學測自然答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 56,
+    "n_both": 56
+   }
+  },
+  {
+   "title": "114學年度學科能力測驗－國綜",
+   "year_roc": 114,
+   "year_ce": 2025,
+   "exam_system": "學測",
+   "subject_zh": "國綜",
+   "subject_key": "chinese_reading",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0p056424313827932684/01-114學測國綜試題.pdf",
+    "docx": "mirror/file_pool/0p056424384006780639/01-114學測國綜試題.docx",
+    "key": "mirror/file_pool/0p051548831591816379/01-114學測國語文綜合能力測驗答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 36,
+    "n_both": 36
+   }
+  },
+  {
+   "title": "114學年度學科能力測驗－國寫",
+   "year_roc": 114,
+   "year_ce": 2025,
+   "exam_system": "學測",
+   "subject_zh": "國寫",
+   "subject_key": "chinese_writing",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0p056425983094832020/07-114學測國寫試題.pdf",
+    "docx": "mirror/file_pool/0p056426054638701047/07-114學測國寫試題.docx"
+   },
+   "flags": [],
+   "checks": {},
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 0,
+    "n_both": 0
+   }
+  },
+  {
+   "title": "114學年度學科能力測驗－英文",
+   "year_roc": 114,
+   "year_ce": 2025,
+   "exam_system": "學測",
+   "subject_zh": "英文",
+   "subject_key": "english",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0p056425554473267580/02-114學測英文試題.pdf",
+    "docx": "mirror/file_pool/0p056425600380530021/02-114學測英文試題.docx",
+    "key": "mirror/file_pool/0p051545433631383724/02-114學測英文答案.pdf"
+   },
+   "flags": [
+    "keyed_but_no_options:[49]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [
+     49,
+     50
+    ],
+    "docx_only": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34
+    ],
+    "option_set_disagree": [],
+    "n_agree": 32,
+    "n_both": 32
+   }
+  },
+  {
+   "title": "114學年度學科能力測驗－數學A",
+   "year_roc": 114,
+   "year_ce": 2025,
+   "exam_system": "學測",
+   "subject_zh": "數學A",
+   "subject_key": "math_a",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0p056503510203248955/03-114學測數學a試題.pdf",
+    "docx": "mirror/file_pool/0p056427236348688659/03-114學測數學a試題.docx",
+    "key": "mirror/file_pool/0p051544393000727284/03-114學測數學a答案.pdf"
+   },
+   "flags": [
+    "keyed_but_no_options:[1, 2, 3, 4, 5, 6, 18]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 20,
+    "n_both": 20
+   }
+  },
+  {
+   "title": "114學年度學科能力測驗－數學B",
+   "year_roc": 114,
+   "year_ce": 2025,
+   "exam_system": "學測",
+   "subject_zh": "數學B",
+   "subject_key": "math_b",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0p056503860912551449/04-114學測數學b試題.pdf",
+    "docx": "mirror/file_pool/0p056428071785517620/04-114學測數學b試題.docx",
+    "key": "mirror/file_pool/0p051541901400830673/04-114學測數學b答案.pdf"
+   },
+   "flags": [
+    "keyed_but_no_options:[1, 2, 3, 4, 5, 6, 18]"
+   ],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [
+     18,
+     19,
      20
     ],
-    "n_agree": 30,
-    "n_both": 32
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 17,
+    "n_both": 17
+   }
+  },
+  {
+   "title": "114學年度學科能力測驗－社會",
+   "year_roc": 114,
+   "year_ce": 2025,
+   "exam_system": "學測",
+   "subject_zh": "社會",
+   "subject_key": "social",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0p056429479567292230/05-114學測社會試題.pdf",
+    "docx": "mirror/file_pool/0p056429569001161258/05-114學測社會試題.docx",
+    "key": "mirror/file_pool/0p051540219978700116/05-114學測社會答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 64,
+    "n_both": 64
+   }
+  },
+  {
+   "title": "114學年度學科能力測驗－自然",
+   "year_roc": 114,
+   "year_ce": 2025,
+   "exam_system": "學測",
+   "subject_zh": "自然",
+   "subject_key": "science",
+   "curriculum": "108課綱",
+   "files": {
+    "pdf": "mirror/file_pool/0p080497875174268441/114學測自然試題定稿.pdf",
+    "docx": "mirror/file_pool/0p080497439623925983/114學測自然試題定稿.docx",
+    "key": "mirror/file_pool/0p051538671981014603/06-114學測自然答案.pdf"
+   },
+   "flags": [],
+   "checks": {
+    "declared_range_covered": true,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true,
+    "multiselect_agreement": true,
+    "stats_key_matches_answer_key": true
+   },
+   "cross_check": {
+    "pdf_only": [],
+    "docx_only": [],
+    "option_set_disagree": [],
+    "n_agree": 57,
+    "n_both": 57
    }
   }
  ],
- "flag_counts": {},
- "mean_pdf_docx_agreement": 0.9688
+ "flag_counts": {
+  "keyed_but_no_options": 6
+ },
+ "mean_pdf_docx_agreement": 1.0
 }

@@ -50,7 +50,20 @@ def validate_paper(parsed: dict, keys: dict[int, str] | None,
                    stats_items: list[dict] | None) -> dict:
     """Run the §6 checks on one parsed paper. Returns a findings dict."""
     findings = {"checks": {}, "flags": []}
-    items = {i["number"]: i for i in parsed["items"] if i.get("number") is not None}
+    # numbering restarts in the 非選擇題 part (中譯英 is numbered 1,2 again):
+    # exclude free-response parts from number-keyed joins, and on remaining
+    # collisions prefer the item that carries options
+    items: dict[int, dict] = {}
+    for i in parsed["items"]:
+        n = i.get("number")
+        if n is None:
+            continue
+        part = i.get("part") or ""
+        if "非選" in part and "混合" not in part:
+            continue
+        if n in items and items[n].get("options") and not i.get("options"):
+            continue
+        items[n] = i
 
     declared = set()
     for s in parsed.get("sections", []):
@@ -96,7 +109,10 @@ def validate_paper(parsed: dict, keys: dict[int, str] | None,
     if stats_items is not None and keys:
         stats_multi = {i["number"] for i in stats_items if i.get("multi_select")}
         key_multi = {n for n, k in keys.items() if k.isalpha() and len(k) > 1}
-        joint = {i["number"] for i in stats_items} & set(keys)
+        # letter keys only: math numeric keys ('13' = options 1+3, but also
+        # '48' = a fill-in answer) are ambiguous about multi-select
+        joint = ({i["number"] for i in stats_items} & set(keys)
+                 & {n for n, k in keys.items() if k.isalpha()})
         disagree = sorted((stats_multi ^ key_multi) & joint)
         findings["checks"]["multiselect_agreement"] = not disagree
         if disagree:

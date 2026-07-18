@@ -160,21 +160,28 @@ def run(records_path="data/index/records.jsonl", collections=("gsat_regular", "a
                          if pd_sheet else {})
             for it in primary["items"]:
                 n = it.get("number")
+                part = it.get("part") or ""
+                in_free_part = "非選" in part and "混合" not in part
+                if in_free_part:
+                    n_join = None   # numbering restarts; don't join keys/stats
+                else:
+                    n_join = n
                 row = {
                     **{k: meta[k] for k in ("exam_system", "year_roc", "year_ce",
                                             "subject_key", "subject_zh", "curriculum")},
                     "number": n,
+                    "part": it.get("part"),
                     "stem": it.get("stem"),
                     "options": it.get("options"),
                     "option_source": it.get("option_source"),
                     "group_id": it.get("group_id"),
                     "group_passage": it.get("group_passage"),
                     "section": it.get("section"),
-                    "keys": keys.get(n) if keys else None,
+                    "keys": keys.get(n_join) if keys else None,
                     "item_flags": it.get("flags", []),
                     "extracted_by": "docx" if primary is docx_parsed else "pdf",
                 }
-                si = stats_by_num.get(n)
+                si = stats_by_num.get(n_join)
                 if si:
                     row.update({
                         "multi_select": si["multi_select"],
@@ -183,7 +190,7 @@ def run(records_path="data/index/records.jsonl", collections=("gsat_regular", "a
                         "option_dist_L": si["dist"].get("L"),
                         "omit_rate": si["omit"].get("T"),
                     })
-                pi = pd_by_num.get(n)
+                pi = pd_by_num.get(n_join)
                 if pi:
                     # official values; groups are top/bottom 33%, quintiles 20%
                     # (definition printed in the workbook's own footnotes)

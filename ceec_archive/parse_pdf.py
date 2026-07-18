@@ -62,6 +62,7 @@ def parse_pdf(path: str | Path) -> dict:
     sections: list[dict] = []
     cur = None
     cur_group = None
+    cur_part = None
 
     with pdfplumber.open(str(path)) as pdf:
         pages_words = [p.extract_words(use_text_flow=False, keep_blank_chars=False)
@@ -104,6 +105,8 @@ def parse_pdf(path: str | Path) -> dict:
                         "first_item": int(decl.group(1)) if decl else None,
                         "last_item": int(decl.group(2)) if decl else None,
                     })
+                    if re.match(r"第[壹貳參肆伍]+部分", flat):
+                        cur_part = flat[:30]
                     if not flat.startswith("說明"):
                         cur_group = None
                     continue
@@ -124,6 +127,7 @@ def parse_pdf(path: str | Path) -> dict:
                         "page": pageno,
                         "top": round(opener["top"], 1),
                         "group_id": grp["id"] if grp else None,
+                        "part": cur_part,
                         "_buf": rest,
                     }
                 elif cur is not None:

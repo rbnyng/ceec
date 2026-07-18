@@ -79,6 +79,7 @@ def parse_docx(path: str | Path) -> dict:
     cur = None
     cur_section = None
     cur_group = None          # {"id": "6-8", "first":6, "last":8, "passage":[...]}
+    cur_part = None           # 第壹部分 / 第貳部分 / 第參部分 heading
     pending_passage: list[str] = []
 
     def close_item():
@@ -107,6 +108,7 @@ def parse_docx(path: str | Path) -> dict:
             "passage": "\n".join(pending_passage) if pending_passage else None,
             "stimulus": [],
             "section": cur_section["heading"] if cur_section else None,
+            "part": cur_part,
             "style": style,
             "flags": flags or [],
         }
@@ -169,6 +171,8 @@ def parse_docx(path: str | Path) -> dict:
             }
             sections.append(sec)
             cur_section = sec
+            if re.match(r"第[壹貳參肆伍]+部分", text.replace(" ", "")):
+                cur_part = text.replace(" ", "")[:30]
             if not text.startswith("說明"):
                 cur_group = None
             pending_passage = []
@@ -177,7 +181,8 @@ def parse_docx(path: str | Path) -> dict:
         m = NUM_STEM.match(text)
         if m and kind in ("unknown", "stem", "options"):
             kind = "stem"
-        elif kind == "unknown" and OPT_MARK.match(text):
+        elif OPT_MARK.match(text) and kind in ("unknown", "stem"):
+            # content trumps style: 自然 sets TIT1 on options too
             kind = "options"
 
         if kind == "stem":
@@ -185,13 +190,15 @@ def parse_docx(path: str | Path) -> dict:
                 open_item(int(m.group(1)), NUM_STEM.sub("", text, count=1).strip(), style_name)
                 pending_passage = []
             else:
-                # un-numbered stem-like line (Word auto-numbering, e.g. 英文 詞彙題)
-                if BLANK_STEM.search(text) or text.endswith(("：", ":", "？", "?")):
-                    open_item(next_expected(), text, style_name, flags=["number_inferred"])
-                    pending_passage = []
-                elif cur is not None:
+                # un-numbered TIT1-like text: passage/stimulus, never an item
+                # (number inference lives in the options branch, where the
+                # 英文 vocab pattern of ABCD-styled cloze stems is unambiguous)
+                if cur is not None and not cur["options"]:
                     cur["stimulus"].append(text)
+                elif cur_group is not None and cur is None:
+                    cur_group["passage"].append(text)
                 else:
+                    close_item()
                     pending_passage.append(text)
         elif kind == "passage":
             if cur is not None and not cur["options"]:
@@ -235,7 +242,7 @@ def parse_docx(path: str | Path) -> dict:
                         "number": n, "stem": None, "options": {},
                         "option_source": None, "group_id": None,
                         "group_passage": None, "passage": None, "stimulus": [],
-                        "section": sec["heading"], "style": None,
+                        "section": sec["heading"], "part": None, "style": None,
                         "flags": ["not_extracted_bank_or_blank"],
                     })
                     have.add(n)
