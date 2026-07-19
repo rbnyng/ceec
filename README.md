@@ -26,7 +26,10 @@ ceec_archive/          crawler + parsers (python)
   run_extraction.py    orchestrator -> items.jsonl + run_report.json
 data/index/records.jsonl      scraped index: 697 records, verbatim hrefs + labels
 data/manifest/downloads.jsonl per-file: url, sha256, size, magic, status, label
-data/parsed/                  items.jsonl (flat item table), run_report.json
+data/items/{sys}/{yr}/{subj}.jsonl  canonical per-paper item files (416 papers)
+data/parsed/                  items.jsonl (monolith), run_report.json
+data/assets/{sys}{yr}/{subj}/ figure crops (vector regions + images), item-linked
+                              index at data/assets/index.jsonl
 mirror/                       raw files (not committed; rebuild via download.py)
 ```
 
@@ -159,6 +162,23 @@ Answers to HANDOFF.md §9's open questions, established from the mirror:
 Known server-side gaps (verified, recorded in the manifest): the 93補考
 answer key 404s, and all 14 of 115 學測's audio `.7z` links return the CMS
 error page despite being listed in the index.
+
+## Working with the item database
+
+The canonical parsed data is partitioned per paper under
+`data/items/{system}/{year}/{subject}.jsonl` (makeup sittings under
+`學測補`/`指考補`). Single-file artifacts are derived on demand:
+
+```
+python3 -m ceec_archive.partition_items          # rebuild partition from monolith
+python3 -m ceec_archive.partition_items concat   # stream one big JSONL to stdout
+python3 -m ceec_archive.partition_items sqlite   # -> data/items.db (not committed)
+```
+
+Figure crops live under `data/assets/{system}{year}/{subject_key}/` with
+`data/assets/index.jsonl` mapping each crop to (exam_system, year_roc,
+subject, item, kind, bbox, raw features). Item linking is geometric
+(nearest stem above on the page) — treat it as advisory.
 
 ## Legal posture (unsettled — recorded, not resolved)
 
