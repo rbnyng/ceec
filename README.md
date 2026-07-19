@@ -180,6 +180,16 @@ Figure crops live under `data/assets/{system}{year}/{subject_key}/` with
 subject, item, kind, bbox, raw features). Item linking is geometric
 (nearest stem above on the page) — treat it as advisory.
 
+Known noise, annotated rather than deleted (`refine_assets.py`):
+- ~35% of vector regions are text blocks whose underlines/table rules
+  fooled the clusterer → `advisory: "textish"` (filter on it).
+- Old PDFs assemble one figure from many raster tiles → adjacent tiles
+  (gap ≤ 8pt) are re-rendered as whole-figure crops with
+  `kind: "image_merged"` (members' bboxes listed); the shards stay,
+  marked `advisory: "tile_of_merged"`. Merges cover raster tiles only,
+  so a mixed vector+raster figure may still be partial — re-render from
+  the stored bboxes if you need the full region.
+
 ## Legal posture (unsettled — recorded, not resolved)
 
 ROC Copyright Act Art. 9(1)(5) excludes 依法令舉行之各類考試試題及其備用試題
