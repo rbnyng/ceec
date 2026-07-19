@@ -1,0 +1,18 @@
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+{
+ "processed": 429,
+ "skipped_no_files": 0,
+ "parse_errors": 1,
+ "flag_counts": {
+  "keyed_but_no_options": 167,
+  "key_letter_not_in_options": 24,
+  "missing_declared_items": 32,
+  "stats_vs_key_mismatch": 53,
+  "multiselect_disagreement": 63,
+  "exception": 1,
+  "items_outside_declaration": 1
+ },
+ "mean_pdf_docx_agreement": 0.9988
+}
