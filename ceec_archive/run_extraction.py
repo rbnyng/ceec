@@ -82,6 +82,8 @@ def stats_index(manifest: dict, records: list[dict]) -> dict:
             p = local_for(l["href"], manifest)
             if not p:
                 continue
+            if not p.lower().endswith((".xls", ".xlsx")):
+                continue   # 91-era stats are per-subject PDFs; xlrd can't read them
             if "選項分析" in text:
                 idx.setdefault((system, year), {})["options"] = p
             elif "答對率及鑑別" in text or "鑑別指數" in text:

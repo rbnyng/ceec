@@ -13,15 +13,3 @@ FAIL [200/html_error] /files/file_pool/1/0q054509596529018371/115sat_%e8%aa%9e%e
 FAIL [200/html_error] /files/file_pool/1/0q054509727708866326/115sat_%e8%aa%9e%e9%9f%b3_%e7%a4%be%e6%9c%83_%e5%9c%96%e6%96%87%e7%89%88.7z
 FAIL [200/html_error] /files/file_pool/1/0q054500955823444267/115sat_%e8%aa%9e%e9%9f%b3_%e8%87%aa%e7%84%b6_%e6%96%87%e5%ad%97%e7%89%88.7z
 FAIL [200/html_error] /files/file_pool/1/0q054501075001292211/115sat_%e8%aa%9e%e9%9f%b3_%e8%87%aa%e7%84%b6_%e5%9c%96%e6%96%87%e7%89%88.7z
-EXC ChunkedEncodingError /files/file_pool/1/0j212355496591894465/103sat_%e8%aa%9e%e9%9f%b3_%e5%9c%8b%e6%96%87_%e9%bb%9e%e5%ad%97%e7%89%88.zip
-EXC ProxyError /files/file_pool/1/0j099673625658910709/103sat_%e8%aa%9e%e9%9f%b3_%e8%8b%b1%e6%96%87_%e6%96%87%e5%ad%97%e7%89%88.zip
-EXC ProxyError /files/file_pool/1/0j099673625292889726/103sat_%e8%aa%9e%e9%9f%b3_%e8%8b%b1%e6%96%87_%e9%bb%9e%e5%ad%97%e7%89%88.zip
-EXC ProxyError /files/file_pool/1/0j099565218128437565/103sat_%e8%aa%9e%e9%9f%b3_%e6%95%b8%e5%ad%b8_%e6%96%87%e5%ad%97%e7%89%88.zip
-EXC ProxyError /files/file_pool/1/0j099565219762306582/103sat_%e8%aa%9e%e9%9f%b3_%e6%95%b8%e5%ad%b8_%e9%bb%9e%e5%ad%97%e7%89%88.zip
-EXC ProxyError https://www.ceec.edu.tw/files/file_pool/1/0j077733312311685842/103sat_%e8%aa%9e%e9%9f%b3_%e7%a4%be%e6%9c%83_%e6%96%87%e5%ad%97%e7%89%88.zip
-EXC ProxyError https://www.ceec.edu.tw/files/file_pool/1/0j077733313956554860/103sat_%e8%aa%9e%e9%9f%b3_%e7%a4%be%e6%9c%83_%e9%bb%9e%e5%ad%97%e7%89%88.zip
-EXC ProxyError https://www.ceec.edu.tw/files/file_pool/1/0j077760948393862122/103sat_%e8%aa%9e%e9%9f%b3_%e8%87%aa%e7%84%b6_%e6%96%87%e5%ad%97%e7%89%88.zip
-EXC ProxyError https://www.ceec.edu.tw/files/file_pool/1/0j077760959937740140/103sat_%e8%aa%9e%e9%9f%b3_%e8%87%aa%e7%84%b6_%e9%bb%9e%e5%ad%97%e7%89%88.zip
-EXC ProxyError /files/file_pool/1/0j099701799282591980/102sat_%e8%aa%9e%e9%9f%b3_%e5%9c%8b%e6%96%87_%e6%96%87%e5%ad%97%e7%89%88.zip
-EXC ProxyError /files/file_pool/1/0j099701791649197989/102sat_%e8%aa%9e%e9%9f%b3_%e5%9c%8b%e6%96%87_%e9%bb%9e%e5%ad%97%e7%89%88.zip
-EXC ProxyError /files/file_pool/1/0j099701790461349934/102sat_%e8%aa%9e%e9%9f%b3_%e5%9c%8b%e6%96%87_%e5%9c%96%e6%96%87%e7%89%88.zip
