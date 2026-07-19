@@ -1,7 +1,7 @@
 {
- "processed": 410,
+ "processed": 429,
  "skipped_no_files": 0,
- "parse_errors": 20,
+ "parse_errors": 1,
  "papers": [
   {
    "title": "115學年度學科能力測驗－國綜",
@@ -3930,9 +3930,11 @@
     "key": "mirror/file_pool/0j199348847389558635/91學測補考_ans.pdf"
    },
    "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
+    "missing_declared_items:[10]"
    ],
-   "checks": {}
+   "checks": {
+    "declared_range_covered": false
+   }
   },
   {
    "title": "91學年度學科能力測驗(補考)－英文",
@@ -3947,9 +3949,7 @@
     "docx": "mirror/file_pool/0j076563954028805832/91年學測英文科(補考).doc",
     "key": "mirror/file_pool/0j199349141547628651/91學測補考_ans.pdf"
    },
-   "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
-   ],
+   "flags": [],
    "checks": {}
   },
   {
@@ -3965,9 +3965,7 @@
     "docx": "mirror/file_pool/0j076546662647615202/91年學測數學科(補考).doc",
     "key": "mirror/file_pool/0j199349419455567119/91學測補考_ans.pdf"
    },
-   "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
-   ],
+   "flags": [],
    "checks": {}
   },
   {
@@ -3983,9 +3981,7 @@
     "docx": "mirror/file_pool/0j076413409063993008/91年學測社會科(補考).doc",
     "key": "mirror/file_pool/0j199349885061333235/91學測補考_ans.pdf"
    },
-   "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
-   ],
+   "flags": [],
    "checks": {}
   },
   {
@@ -4001,9 +3997,7 @@
     "docx": "mirror/file_pool/0j076479582458497114/91年學測自然科(補考).doc",
     "key": "mirror/file_pool/0j199349577263495777/91學測補考_ans.pdf"
    },
-   "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
-   ],
+   "flags": [],
    "checks": {}
   },
   {
@@ -4020,9 +4014,13 @@
     "key": "mirror/file_pool/0j199346326428540053/91學測_ans.pdf"
    },
    "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
+    "missing_declared_items:[12, 13, 14, 15, 16, 17, 18, 21, 23, 24]"
    ],
-   "checks": {}
+   "checks": {
+    "declared_range_covered": false,
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度學科能力測驗－英文",
@@ -4037,10 +4035,11 @@
     "docx": "mirror/file_pool/0j076563501858572860/91年學測英文科.doc",
     "key": "mirror/file_pool/0j199347385414136566/91學測_ans.pdf"
    },
-   "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
-   ],
-   "checks": {}
+   "flags": [],
+   "checks": {
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度學科能力測驗－數學",
@@ -4056,9 +4055,12 @@
     "key": "mirror/file_pool/0j076545954295808727/91學測_ans.pdf"
    },
    "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
+    "keyed_but_no_options:[1, 2]"
    ],
-   "checks": {}
+   "checks": {
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度學科能力測驗－社會",
@@ -4073,10 +4075,11 @@
     "docx": "mirror/file_pool/0j076410406883671026/91年學測社會科.doc",
     "key": "mirror/file_pool/0j199348149571619177/91學測_ans.pdf"
    },
-   "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
-   ],
-   "checks": {}
+   "flags": [],
+   "checks": {
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度學科能力測驗－自然",
@@ -4092,9 +4095,12 @@
     "key": "mirror/file_pool/0j199347951664881609/91學測_ans.pdf"
    },
    "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
+    "keyed_but_no_options:[1, 2]"
    ],
-   "checks": {}
+   "checks": {
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "90學年度學科能力測驗－國文",
@@ -10598,10 +10604,11 @@
     "pdf": "mirror/file_pool/0j075819119835272712/91chinese.pdf",
     "key": "mirror/file_pool/0j075819110014020867/91指考答案.pdf"
    },
-   "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
-   ],
-   "checks": {}
+   "flags": [],
+   "checks": {
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度指定科目考試－英文",
@@ -10616,9 +10623,12 @@
     "key": "mirror/file_pool/0j075805183931866890/91指考答案.pdf"
    },
    "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
+    "keyed_but_no_options:[4]"
    ],
-   "checks": {}
+   "checks": {
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度指定科目考試－數學甲",
@@ -10633,9 +10643,12 @@
     "key": "mirror/file_pool/0j075787494313159869/91指考答案.pdf"
    },
    "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
+    "keyed_but_no_options:[4]"
    ],
-   "checks": {}
+   "checks": {
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度指定科目考試－數學乙",
@@ -10650,9 +10663,12 @@
     "key": "mirror/file_pool/0j075770138712180813/91指考答案.pdf"
    },
    "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
+    "keyed_but_no_options:[4]"
    ],
-   "checks": {}
+   "checks": {
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度指定科目考試－歷史",
@@ -10667,9 +10683,12 @@
     "key": "mirror/file_pool/0j075439364833715309/91指考答案.pdf"
    },
    "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
+    "keyed_but_no_options:[4]"
    ],
-   "checks": {}
+   "checks": {
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度指定科目考試－地理",
@@ -10684,9 +10703,12 @@
     "key": "mirror/file_pool/0j052597875119501496/91指考答案.pdf"
    },
    "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
+    "keyed_but_no_options:[4]"
    ],
-   "checks": {}
+   "checks": {
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度指定科目考試－物理",
@@ -10701,9 +10723,12 @@
     "key": "mirror/file_pool/0j075458370181412833/91指考答案.pdf"
    },
    "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
+    "keyed_but_no_options:[4]"
    ],
-   "checks": {}
+   "checks": {
+    "all_keyed_items_have_options": false,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度指定科目考試－化學",
@@ -10717,10 +10742,11 @@
     "pdf": "mirror/file_pool/0j052574932474650072/91chem.pdf",
     "key": "mirror/file_pool/0j052574933653498027/91指考答案.pdf"
    },
-   "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
-   ],
-   "checks": {}
+   "flags": [],
+   "checks": {
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true
+   }
   },
   {
    "title": "91學年度指定科目考試－生物",
@@ -10734,19 +10760,20 @@
     "pdf": "mirror/file_pool/0j075628144577204145/91bio.pdf",
     "key": "mirror/file_pool/0j075628144111183163/91指考答案.pdf"
    },
-   "flags": [
-    "exception:xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'%PDF-1.4'"
-   ],
-   "checks": {}
+   "flags": [],
+   "checks": {
+    "all_keyed_items_have_options": true,
+    "keys_within_parsed_options": true
+   }
   }
  ],
  "flag_counts": {
-  "keyed_but_no_options": 159,
+  "keyed_but_no_options": 167,
   "key_letter_not_in_options": 24,
-  "missing_declared_items": 30,
+  "missing_declared_items": 32,
   "stats_vs_key_mismatch": 29,
   "multiselect_disagreement": 43,
-  "exception": 20,
+  "exception": 1,
   "items_outside_declaration": 1
  },
  "mean_pdf_docx_agreement": 0.9988
