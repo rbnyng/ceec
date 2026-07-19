@@ -92,14 +92,26 @@ def stats_index(manifest: dict, records: list[dict]) -> dict:
     return idx
 
 
+SHEET_ALIASES = {
+    # 指考-era workbooks abbreviate sheet names
+    "國文": ["國文", "國"], "國綜": ["國文", "國"], "國文（選擇題）": ["國文", "國"],
+    "英文": ["英文", "英"], "數學甲": ["數學甲", "數甲"], "數學乙": ["數學乙", "數乙"],
+    "公民與社會": ["公民與社會", "公民"], "數學": ["數學", "數"],
+}
+
+
 def find_stats_sheet(parsed_wb: dict, subject_zh: str):
-    aliases = {subject_zh}
-    if subject_zh == "國綜":
-        aliases.add("國文")
-    for s in parsed_wb["sheets"]:
-        name = s["subject"].replace(" ", "")
-        if name in aliases or any(a in name for a in aliases):
-            return s
+    aliases = SHEET_ALIASES.get(subject_zh, [subject_zh])
+    # exact match first, then substring — longest alias first so 數學甲
+    # never falls through to a bare 數 sheet meant for another paper
+    for a in aliases:
+        for s in parsed_wb["sheets"]:
+            if s["subject"].replace(" ", "") == a:
+                return s
+    for a in aliases:
+        for s in parsed_wb["sheets"]:
+            if a in s["subject"].replace(" ", ""):
+                return s
     return None
 
 
@@ -192,18 +204,41 @@ def run(records_path="data/index/records.jsonl", collections=("gsat_regular", "a
                             if stats_sheet else {})
             pd_by_num = ({i["number"]: i for i in pd_sheet["items"]}
                          if pd_sheet else {})
+
+            # a part that restarts numbering (its numbers collide with an
+            # earlier part's) is a separate namespace — join-excluded. This
+            # catches old papers whose free-response part heading is a bare
+            # 第貳部分 with no 非選 in the text.
+            part_max: dict = {}
+            restart_parts = set()
+            seen_max = 0
             for it in primary["items"]:
+                n, part = it.get("number"), it.get("part") or ""
+                if n is None:
+                    continue
+                if part not in part_max:
+                    if n <= seen_max and part:
+                        restart_parts.add(part)
+                    part_max[part] = n
+                part_max[part] = max(part_max[part], n)
+                seen_max = max(seen_max, n)
+
+            for seq, it in enumerate(primary["items"], 1):
                 n = it.get("number")
                 part = it.get("part") or ""
-                in_free_part = "非選" in part and "混合" not in part
+                in_free_part = (("非選" in part and "混合" not in part)
+                                or part in restart_parts)
                 if in_free_part:
-                    n_join = None   # numbering restarts; don't join keys/stats
+                    n_join = None   # separate numbering namespace
                 else:
                     n_join = n
                 row = {
+                    "item_uid": f"{meta['exam_system']}{meta['year_roc']}-"
+                                f"{meta['subject_key'] or meta['subject_zh']}-{seq:03d}",
                     **{k: meta[k] for k in ("exam_system", "year_roc", "year_ce",
                                             "subject_key", "subject_zh", "curriculum")},
                     "number": n,
+                    "join_excluded": in_free_part,
                     "part": it.get("part"),
                     "stem": it.get("stem"),
                     "options": it.get("options"),
