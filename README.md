@@ -93,12 +93,51 @@ independently mark free-response and multi-select items). Failures are
 flagged per item and never silently reconciled; **thresholds are never
 relaxed to make a run pass**.
 
+Full-corpus run (all 一般試題 years): **410 papers → 14,943 items**,
+mean PDF↔DOCX option-set agreement 99.88%. Years 111+ are near-clean;
+flags concentrate in the 83–98 era where formatting conventions differ.
+Per-paper details in `data/parsed/run_report.json`.
+
 - 115 學測 國綜: 36/36 items, PDF and DOCX parses agree exactly.
 - 115 學測 英文: 46/46 accounted for; 文意選填/篇章結構 bank items carry
   `not_extracted_bank_or_blank` flags (their content is a shared passage +
   word bank, not per-item text).
 - 數學 DOCX option content lives in OMML that python-docx doesn't surface —
   routed to the known-hard bucket, PDF is the better source there.
+- Legacy `.doc` papers are converted via LibreOffice for cross-checking;
+  the PDF stays primary there because conversion strips semantic styles.
+
+## In-repo mirror
+
+`mirror/file_pool/` holds the raw archive: the full document layer and all
+audio ZIPs ≤100MB. The 29 audio files above GitHub's 100MB blob limit are
+listed in `.gitignore` and carry checksums in the manifest; they exist only
+in offline copies (candidates for GitHub Release assets, 2GB/file).
+
+## Findings vs. the exploratory handoff
+
+Answers to HANDOFF.md §9's open questions, established from the mirror:
+
+1. **Audio production method:** per-item MP3 segmentation confirmed (one
+   file per item; 對照表 track codes distinguish 題組 intros `Q0` from
+   sub-questions `S0`). Human-vs-TTS still needs one listen.
+2. **Flat-era stats layout:** same T/H/L schema back to 95, but the 組別
+   column header is blank (parser sniffs it). 91 stats are per-subject PDFs.
+3. **H/L definition:** 高分組/低分組 = top/bottom **33%** (workbook footnotes).
+4. **特殊答題卷 archives:** blank answer-sheet templates (A3/A4,
+   劃記/自填/電腦作答 variants), years 111+ only. Mirrored.
+5. **分科特殊 gap 108–110:** real — absent from the live index.
+6. **83/90 stats oddities:** "83" is a combined 83–89 bundle of aggregate
+   score tables; item-level psychometrics genuinely start at 91/92.
+7. **pagesize=50:** works (5× fewer index requests).
+8. **Word coverage** (magic-byte verified, `data/parsed/word_coverage_by_year.json`):
+   學測 has Word source for every year 83–115; 指考/分科 from 92 (91 PDF-only).
+   True `.docx` begins at 103–105 — earlier than the handoff's ~113 estimate —
+   with stragglers (`.doc`) as late as 108.
+
+Known server-side gaps (verified, recorded in the manifest): the 93補考
+answer key 404s, and all 14 of 115 學測's audio `.7z` links return the CMS
+error page despite being listed in the index.
 
 ## Legal posture (unsettled — recorded, not resolved)
 
