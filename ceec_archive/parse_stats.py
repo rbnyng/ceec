@@ -46,8 +46,23 @@ def _pct(v):
         return None, keyed
 
 
+SHEET_TITLE = re.compile(r"^(.{1,8}?)(?:科)?\s*(?:選擇題選項分析|答對率及鑑別|答對率)")
+
+
+def detect_subject(sheet) -> str | None:
+    """95/96-era sheets are named '1'..'9'; the subject is an in-sheet title
+    row like '國文科 選擇題選項分析' or '數學甲 選擇題選項分析'."""
+    for r in range(min(6, sheet.nrows)):
+        for c in range(min(3, sheet.ncols)):
+            m = SHEET_TITLE.match(_norm(sheet.cell_value(r, c)))
+            if m:
+                return m.group(1).strip()
+    return None
+
+
 def parse_sheet(sheet) -> dict:
-    out = {"subject": sheet.name, "cohort": {}, "items": [], "flags": []}
+    out = {"subject": sheet.name, "subject_detected": detect_subject(sheet),
+           "cohort": {}, "items": [], "flags": []}
     header_row = None
     opt_cols: list[tuple[int, str]] = []
     unanswered_col = None
@@ -158,8 +173,9 @@ def parse_pd_workbook(path: str | Path) -> dict:
                     cols[v.replace(" ", "")] = c
                 break
         if header_row is None:
-            out["sheets"].append({"subject": sh.name, "items": [],
-                                  "flags": ["no_header_row"]})
+            out["sheets"].append({"subject": sh.name,
+                                  "subject_detected": detect_subject(sh),
+                                  "items": [], "flags": ["no_header_row"]})
             continue
         items = []
         for r in range(header_row + 1, sh.nrows):
@@ -179,7 +195,9 @@ def parse_pd_workbook(path: str | Path) -> dict:
                 "D": cell("D"),
                 "quintiles": [cell(k) for k in ("Pa", "Pb", "Pc", "Pd", "Pe")],
             })
-        out["sheets"].append({"subject": sh.name, "items": items, "flags": []})
+        out["sheets"].append({"subject": sh.name,
+                              "subject_detected": detect_subject(sh),
+                              "items": items, "flags": []})
     return out
 
 

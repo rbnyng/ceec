@@ -56,7 +56,9 @@ def parse_title(title: str):
     system_zh = m.group(2).strip()
     subject_zh = m.group(3).strip()
     system = next((v for k, v in EXAM_SYSTEM.items() if k in system_zh), system_zh)
+    makeup = any(t in title for t in ("補考", "補救考試"))
     return {
+        "sitting": "makeup" if makeup else "regular",
         "year_roc": year,
         "year_ce": year + 1911,
         "exam_system": system,
@@ -104,13 +106,18 @@ def find_stats_sheet(parsed_wb: dict, subject_zh: str):
     aliases = SHEET_ALIASES.get(subject_zh, [subject_zh])
     # exact match first, then substring — longest alias first so 數學甲
     # never falls through to a bare 數 sheet meant for another paper
+    def names(s):
+        out = [s["subject"].replace(" ", "")]
+        if s.get("subject_detected"):
+            out.append(s["subject_detected"].replace(" ", ""))
+        return out
     for a in aliases:
         for s in parsed_wb["sheets"]:
-            if s["subject"].replace(" ", "") == a:
+            if a in names(s):
                 return s
     for a in aliases:
         for s in parsed_wb["sheets"]:
-            if a in s["subject"].replace(" ", ""):
+            if any(a in n for n in names(s)):
                 return s
     return None
 
@@ -173,7 +180,7 @@ def run(records_path="data/index/records.jsonl", collections=("gsat_regular", "a
             pd_sheet = None
             skey = ("學測" if r["collection"] == "gsat_regular" else "分科/指考",
                     meta["year_roc"])
-            paths = sidx.get(skey, {})
+            paths = sidx.get(skey, {}) if meta["sitting"] == "regular" else {}
             if paths.get("options"):
                 wb_path = paths["options"]
                 if wb_path not in wb_cache:
@@ -232,9 +239,11 @@ def run(records_path="data/index/records.jsonl", collections=("gsat_regular", "a
                     n_join = None   # separate numbering namespace
                 else:
                     n_join = n
+                uid_sys = meta['exam_system'] + ("補" if meta["sitting"] == "makeup" else "")
                 row = {
-                    "item_uid": f"{meta['exam_system']}{meta['year_roc']}-"
+                    "item_uid": f"{uid_sys}{meta['year_roc']}-"
                                 f"{meta['subject_key'] or meta['subject_zh']}-{seq:03d}",
+                    "sitting": meta["sitting"],
                     **{k: meta[k] for k in ("exam_system", "year_roc", "year_ce",
                                             "subject_key", "subject_zh", "curriculum")},
                     "number": n,
