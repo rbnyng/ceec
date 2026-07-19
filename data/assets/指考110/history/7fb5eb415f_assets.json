@@ -1,0 +1,251 @@
+{
+ "source": "mirror/file_pool/0l251621182860327020/05-110指考歷史試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "7fb5eb415f_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    69.5,
+    292.7,
+    526.0,
+    676.5
+   ],
+   "item": null,
+   "file": "7fb5eb415f_p1_vec0.png",
+   "features": {
+    "n_chars": 205,
+    "n_curves": 0,
+    "area": 168538.9,
+    "text_density": 1.216
+   }
+  },
+  {
+   "uid": "7fb5eb415f_p2_img0",
+   "page": 2,
+   "kind": "image",
+   "bbox": [
+    427.4,
+    594.4,
+    531.0,
+    691.9
+   ],
+   "item": 6,
+   "file": "7fb5eb415f_p2_img0.png"
+  },
+  {
+   "uid": "7fb5eb415f_p2_img1",
+   "page": 2,
+   "kind": "inline_glyph",
+   "bbox": [
+    454.6,
+    695.5,
+    502.9,
+    707.5
+   ],
+   "item": 6
+  },
+  {
+   "uid": "7fb5eb415f_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    423.2,
+    590.1,
+    535.2,
+    696.2
+   ],
+   "item": 5,
+   "file": "7fb5eb415f_p2_vec0.png",
+   "features": {
+    "n_chars": 0,
+    "n_curves": 0,
+    "area": 10200.1,
+    "text_density": 0.0
+   }
+  },
+  {
+   "uid": "7fb5eb415f_p2_vec2",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    120.5,
+    537.7,
+    180.8
+   ],
+   "item": null,
+   "file": "7fb5eb415f_p2_vec2.png",
+   "features": {
+    "n_chars": 90,
+    "n_curves": 0,
+    "area": 24747.1,
+    "text_density": 3.637
+   }
+  },
+  {
+   "uid": "7fb5eb415f_p3_img0",
+   "page": 3,
+   "kind": "image",
+   "bbox": [
+    454.0,
+    144.7,
+    520.3,
+    234.4
+   ],
+   "item": 8,
+   "file": "7fb5eb415f_p3_img0.png"
+  },
+  {
+   "uid": "7fb5eb415f_p3_img1",
+   "page": 3,
+   "kind": "inline_glyph",
+   "bbox": [
+    473.4,
+    236.3,
+    500.0,
+    247.8
+   ],
+   "item": 9
+  },
+  {
+   "uid": "7fb5eb415f_p3_vec0",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    449.7,
+    140.5,
+    524.6,
+    238.6
+   ],
+   "item": 8,
+   "file": "7fb5eb415f_p3_vec0.png",
+   "features": {
+    "n_chars": 10,
+    "n_curves": 0,
+    "area": 6023.6,
+    "text_density": 1.66
+   }
+  },
+  {
+   "uid": "7fb5eb415f_p4_vec0",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    257.3,
+    478.0,
+    535.1,
+    550.9
+   ],
+   "item": 20,
+   "file": "7fb5eb415f_p4_vec0.png",
+   "features": {
+    "n_chars": 144,
+    "n_curves": 0,
+    "area": 17516.1,
+    "text_density": 8.221
+   }
+  },
+  {
+   "uid": "7fb5eb415f_p5_img0",
+   "page": 5,
+   "kind": "image",
+   "bbox": [
+    400.6,
+    553.9,
+    507.6,
+    604.6
+   ],
+   "item": 27,
+   "file": "7fb5eb415f_p5_img0.png"
+  },
+  {
+   "uid": "7fb5eb415f_p5_img1",
+   "page": 5,
+   "kind": "inline_glyph",
+   "bbox": [
+    442.2,
+    606.4,
+    466.0,
+    618.1
+   ],
+   "item": 27
+  },
+  {
+   "uid": "7fb5eb415f_p6_vec0",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    264.4,
+    385.0,
+    535.1,
+    471.0
+   ],
+   "item": 33,
+   "file": "7fb5eb415f_p6_vec0.png",
+   "features": {
+    "n_chars": 182,
+    "n_curves": 0,
+    "area": 20498.2,
+    "text_density": 8.879
+   }
+  },
+  {
+   "uid": "7fb5eb415f_p6_vec1",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    589.3,
+    537.7,
+    665.3
+   ],
+   "item": 34,
+   "file": "7fb5eb415f_p6_vec1.png",
+   "features": {
+    "n_chars": 136,
+    "n_curves": 0,
+    "area": 32140.1,
+    "text_density": 4.231
+   }
+  },
+  {
+   "uid": "7fb5eb415f_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    462.0,
+    537.7,
+    537.9
+   ],
+   "item": 38,
+   "file": "7fb5eb415f_p7_vec0.png",
+   "features": {
+    "n_chars": 142,
+    "n_curves": 0,
+    "area": 32125.9,
+    "text_density": 4.42
+   }
+  },
+  {
+   "uid": "7fb5eb415f_p8_vec0",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    185.1,
+    263.7,
+    498.1,
+    321.7
+   ],
+   "item": null,
+   "file": "7fb5eb415f_p8_vec0.png",
+   "features": {
+    "n_chars": 46,
+    "n_curves": 0,
+    "area": 15239.2,
+    "text_density": 3.019
+   }
+  }
+ ]
+}

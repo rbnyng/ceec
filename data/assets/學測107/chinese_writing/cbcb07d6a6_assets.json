@@ -1,0 +1,159 @@
+{
+ "source": "mirror/file_pool/0j076575871125472306/06-107學測國語文寫作能力測驗試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "cbcb07d6a6_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    92.9,
+    225.9,
+    502.6,
+    670.7
+   ],
+   "item": null,
+   "file": "cbcb07d6a6_p1_vec0.png",
+   "features": {
+    "n_chars": 283,
+    "n_curves": 0,
+    "area": 175462.2,
+    "text_density": 1.613
+   }
+  },
+  {
+   "uid": "cbcb07d6a6_p2_img0",
+   "page": 2,
+   "kind": "image",
+   "bbox": [
+    135.0,
+    348.0,
+    434.9,
+    550.2
+   ],
+   "item": null,
+   "file": "cbcb07d6a6_p2_img0.png"
+  },
+  {
+   "uid": "cbcb07d6a6_p2_img1",
+   "page": 2,
+   "kind": "image",
+   "bbox": [
+    170.4,
+    531.0,
+    245.9,
+    561.4
+   ],
+   "item": null,
+   "file": "cbcb07d6a6_p2_img1.png"
+  },
+  {
+   "uid": "cbcb07d6a6_p2_img2",
+   "page": 2,
+   "kind": "image",
+   "bbox": [
+    243.0,
+    531.1,
+    318.6,
+    561.2
+   ],
+   "item": null,
+   "file": "cbcb07d6a6_p2_img2.png"
+  },
+  {
+   "uid": "cbcb07d6a6_p2_img3",
+   "page": 2,
+   "kind": "image",
+   "bbox": [
+    312.1,
+    531.1,
+    398.3,
+    570.0
+   ],
+   "item": null,
+   "file": "cbcb07d6a6_p2_img3.png"
+  },
+  {
+   "uid": "cbcb07d6a6_p2_img4",
+   "page": 2,
+   "kind": "image",
+   "bbox": [
+    390.5,
+    531.0,
+    477.6,
+    568.6
+   ],
+   "item": null,
+   "file": "cbcb07d6a6_p2_img4.png"
+  },
+  {
+   "uid": "cbcb07d6a6_p2_img5",
+   "page": 2,
+   "kind": "image",
+   "bbox": [
+    124.3,
+    376.6,
+    149.5,
+    510.0
+   ],
+   "item": null,
+   "file": "cbcb07d6a6_p2_img5.png"
+  },
+  {
+   "uid": "cbcb07d6a6_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    166.0,
+    354.3,
+    482.0,
+    578.0
+   ],
+   "item": null,
+   "file": "cbcb07d6a6_p2_vec0.png",
+   "features": {
+    "n_chars": 57,
+    "n_curves": 0,
+    "area": 66399.9,
+    "text_density": 0.858
+   }
+  },
+  {
+   "uid": "cbcb07d6a6_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    120.0,
+    368.6,
+    153.9,
+    517.8
+   ],
+   "item": null,
+   "file": "cbcb07d6a6_p2_vec1.png",
+   "features": {
+    "n_chars": 8,
+    "n_curves": 0,
+    "area": 3660.9,
+    "text_density": 2.185
+   }
+  },
+  {
+   "uid": "cbcb07d6a6_p2_vec2",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    57.7,
+    108.1,
+    541.8,
+    167.6
+   ],
+   "item": null,
+   "file": "cbcb07d6a6_p2_vec2.png",
+   "features": {
+    "n_chars": 92,
+    "n_curves": 0,
+    "area": 24511.5,
+    "text_density": 3.753
+   }
+  }
+ ]
+}

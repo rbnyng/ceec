@@ -1,0 +1,138 @@
+{
+ "source": "mirror/file_pool/0j075778506885529535/04-99指考數乙試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "1e689cb14e_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    65.0,
+    169.0,
+    554.4,
+    658.7
+   ],
+   "item": null,
+   "file": "1e689cb14e_p1_vec0.png",
+   "features": {
+    "n_chars": 688,
+    "n_curves": 2,
+    "area": 231900.0,
+    "text_density": 2.967
+   }
+  },
+  {
+   "uid": "1e689cb14e_p2_vec13",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    79.0,
+    169.0,
+    531.6,
+    230.2
+   ],
+   "item": null,
+   "file": "1e689cb14e_p2_vec13.png",
+   "features": {
+    "n_chars": 99,
+    "n_curves": 0,
+    "area": 23634.9,
+    "text_density": 4.189
+   }
+  },
+  {
+   "uid": "1e689cb14e_p3_vec1",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    79.0,
+    126.7,
+    542.0,
+    221.7
+   ],
+   "item": null,
+   "file": "1e689cb14e_p3_vec1.png",
+   "features": {
+    "n_chars": 159,
+    "n_curves": 0,
+    "area": 39578.0,
+    "text_density": 4.017
+   }
+  },
+  {
+   "uid": "1e689cb14e_p4_vec3",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    79.0,
+    118.3,
+    531.6,
+    162.5
+   ],
+   "item": null,
+   "file": "1e689cb14e_p4_vec3.png",
+   "features": {
+    "n_chars": 69,
+    "n_curves": 0,
+    "area": 16112.3,
+    "text_density": 4.282
+   }
+  },
+  {
+   "uid": "1e689cb14e_p6_vec2",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    212.5,
+    276.3,
+    353.2,
+    315.6
+   ],
+   "item": null,
+   "file": "1e689cb14e_p6_vec2.png",
+   "features": {
+    "n_chars": 28,
+    "n_curves": 2,
+    "area": 4156.8,
+    "text_density": 6.736
+   }
+  },
+  {
+   "uid": "1e689cb14e_p6_vec4",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    361.6,
+    276.3,
+    524.0,
+    315.6
+   ],
+   "item": null,
+   "file": "1e689cb14e_p6_vec4.png",
+   "features": {
+    "n_chars": 31,
+    "n_curves": 2,
+    "area": 4833.3,
+    "text_density": 6.414
+   }
+  },
+  {
+   "uid": "1e689cb14e_p7_vec5",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    79.0,
+    118.3,
+    531.6,
+    179.4
+   ],
+   "item": null,
+   "file": "1e689cb14e_p7_vec5.png",
+   "features": {
+    "n_chars": 86,
+    "n_curves": 0,
+    "area": 23634.9,
+    "text_density": 3.639
+   }
+  }
+ ]
+}

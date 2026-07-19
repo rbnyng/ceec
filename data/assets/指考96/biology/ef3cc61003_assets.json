@@ -1,0 +1,484 @@
+{
+ "source": "mirror/file_pool/0j075634667974766861/09-96指考生物定稿.pdf",
+ "assets": [
+  {
+   "uid": "ef3cc61003_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    278.5,
+    518.4,
+    632.4
+   ],
+   "item": null,
+   "file": "ef3cc61003_p1_vec0.png",
+   "features": {
+    "n_chars": 109,
+    "n_curves": 0,
+    "area": 149947.7,
+    "text_density": 0.727
+   }
+  },
+  {
+   "uid": "ef3cc61003_p2_img0",
+   "page": 2,
+   "kind": "image",
+   "bbox": [
+    422.9,
+    674.0,
+    524.9,
+    770.2
+   ],
+   "item": 8,
+   "file": "ef3cc61003_p2_img0.png"
+  },
+  {
+   "uid": "ef3cc61003_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    131.1,
+    537.7,
+    191.4
+   ],
+   "item": null,
+   "file": "ef3cc61003_p2_vec0.png",
+   "features": {
+    "n_chars": 98,
+    "n_curves": 0,
+    "area": 24752.6,
+    "text_density": 3.959
+   }
+  },
+  {
+   "uid": "ef3cc61003_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    77.4,
+    507.9,
+    517.9,
+    593.9
+   ],
+   "item": 6,
+   "file": "ef3cc61003_p2_vec1.png",
+   "features": {
+    "n_chars": 107,
+    "n_curves": 0,
+    "area": 33707.5,
+    "text_density": 3.174
+   }
+  },
+  {
+   "uid": "ef3cc61003_p2_vec2",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    107.7,
+    252.7,
+    189.2,
+    313.6
+   ],
+   "item": 2,
+   "file": "ef3cc61003_p2_vec2.png",
+   "features": {
+    "n_chars": 50,
+    "n_curves": 19,
+    "area": 3889.6,
+    "text_density": 12.855
+   }
+  },
+  {
+   "uid": "ef3cc61003_p2_vec3",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    216.3,
+    254.2,
+    297.2,
+    314.0
+   ],
+   "item": 2,
+   "file": "ef3cc61003_p2_vec3.png",
+   "features": {
+    "n_chars": 50,
+    "n_curves": 20,
+    "area": 3782.2,
+    "text_density": 13.22
+   }
+  },
+  {
+   "uid": "ef3cc61003_p2_vec4",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    322.2,
+    255.1,
+    403.7,
+    314.6
+   ],
+   "item": 2,
+   "file": "ef3cc61003_p2_vec4.png",
+   "features": {
+    "n_chars": 50,
+    "n_curves": 17,
+    "area": 3779.4,
+    "text_density": 13.23
+   }
+  },
+  {
+   "uid": "ef3cc61003_p2_vec5",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    429.3,
+    255.4,
+    510.2,
+    315.9
+   ],
+   "item": 2,
+   "file": "ef3cc61003_p2_vec5.png",
+   "features": {
+    "n_chars": 50,
+    "n_curves": 18,
+    "area": 3826.0,
+    "text_density": 13.068
+   }
+  },
+  {
+   "uid": "ef3cc61003_p3_img0",
+   "page": 3,
+   "kind": "image",
+   "bbox": [
+    422.1,
+    199.1,
+    528.0,
+    277.6
+   ],
+   "item": 11,
+   "file": "ef3cc61003_p3_img0.png"
+  },
+  {
+   "uid": "ef3cc61003_p3_img1",
+   "page": 3,
+   "kind": "image",
+   "bbox": [
+    428.5,
+    453.5,
+    512.5,
+    521.5
+   ],
+   "item": 14,
+   "file": "ef3cc61003_p3_img1.png"
+  },
+  {
+   "uid": "ef3cc61003_p4_img0",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    103.4,
+    118.1,
+    176.9,
+    193.3
+   ],
+   "item": 19,
+   "file": "ef3cc61003_p4_img0.png"
+  },
+  {
+   "uid": "ef3cc61003_p4_img1",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    210.0,
+    118.0,
+    283.7,
+    193.2
+   ],
+   "item": 19,
+   "file": "ef3cc61003_p4_img1.png"
+  },
+  {
+   "uid": "ef3cc61003_p4_img2",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    316.5,
+    118.1,
+    390.9,
+    193.3
+   ],
+   "item": 19,
+   "file": "ef3cc61003_p4_img2.png"
+  },
+  {
+   "uid": "ef3cc61003_p4_img3",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    423.6,
+    118.1,
+    497.3,
+    193.4
+   ],
+   "item": 19,
+   "file": "ef3cc61003_p4_img3.png"
+  },
+  {
+   "uid": "ef3cc61003_p4_vec0",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    323.9,
+    304.9,
+    392.6,
+    374.7
+   ],
+   "item": 20,
+   "file": "ef3cc61003_p4_vec0.png",
+   "features": {
+    "n_chars": 3,
+    "n_curves": 4,
+    "area": 3756.1,
+    "text_density": 0.799
+   }
+  },
+  {
+   "uid": "ef3cc61003_p4_vec1",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    215.9,
+    304.9,
+    284.9,
+    374.9
+   ],
+   "item": 20,
+   "file": "ef3cc61003_p4_vec1.png",
+   "features": {
+    "n_chars": 3,
+    "n_curves": 4,
+    "area": 3778.3,
+    "text_density": 0.794
+   }
+  },
+  {
+   "uid": "ef3cc61003_p4_vec2",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    112.3,
+    304.9,
+    181.1,
+    374.7
+   ],
+   "item": 20,
+   "file": "ef3cc61003_p4_vec2.png",
+   "features": {
+    "n_chars": 4,
+    "n_curves": 4,
+    "area": 3759.9,
+    "text_density": 1.064
+   }
+  },
+  {
+   "uid": "ef3cc61003_p4_vec3",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    452.9,
+    215.4,
+    521.6,
+    284.6
+   ],
+   "item": 19,
+   "file": "ef3cc61003_p4_vec3.png",
+   "features": {
+    "n_chars": 4,
+    "n_curves": 4,
+    "area": 3716.1,
+    "text_density": 1.076
+   }
+  },
+  {
+   "uid": "ef3cc61003_p4_vec4",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    431.9,
+    304.9,
+    500.6,
+    374.7
+   ],
+   "item": 20,
+   "file": "ef3cc61003_p4_vec4.png",
+   "features": {
+    "n_chars": 1,
+    "n_curves": 4,
+    "area": 3756.1,
+    "text_density": 0.266
+   }
+  },
+  {
+   "uid": "ef3cc61003_p4_vec5",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    57.6,
+    415.2,
+    537.7,
+    491.1
+   ],
+   "item": 20,
+   "file": "ef3cc61003_p4_vec5.png",
+   "features": {
+    "n_chars": 157,
+    "n_curves": 0,
+    "area": 32067.7,
+    "text_density": 4.896
+   }
+  },
+  {
+   "uid": "ef3cc61003_p5_img0",
+   "page": 5,
+   "kind": "image",
+   "bbox": [
+    386.6,
+    525.5,
+    531.2,
+    592.6
+   ],
+   "item": 27,
+   "file": "ef3cc61003_p5_img0.png"
+  },
+  {
+   "uid": "ef3cc61003_p5_vec2",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    407.1,
+    239.8,
+    537.6,
+    310.1
+   ],
+   "item": 25,
+   "file": "ef3cc61003_p5_vec2.png",
+   "features": {
+    "n_chars": 51,
+    "n_curves": 6,
+    "area": 7630.5,
+    "text_density": 6.684
+   }
+  },
+  {
+   "uid": "ef3cc61003_p5_vec3",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    406.0,
+    118.6,
+    532.9,
+    185.9
+   ],
+   "item": 24,
+   "file": "ef3cc61003_p5_vec3.png",
+   "features": {
+    "n_chars": 6,
+    "n_curves": 7,
+    "area": 7042.4,
+    "text_density": 0.852
+   }
+  },
+  {
+   "uid": "ef3cc61003_p6_vec0",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    327.1,
+    537.7,
+    387.4
+   ],
+   "item": 34,
+   "file": "ef3cc61003_p6_vec0.png",
+   "features": {
+    "n_chars": 99,
+    "n_curves": 0,
+    "area": 24752.6,
+    "text_density": 4.0
+   }
+  },
+  {
+   "uid": "ef3cc61003_p8_img0",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    117.7,
+    446.5,
+    213.8,
+    485.5
+   ],
+   "item": null,
+   "file": "ef3cc61003_p8_img0.png"
+  },
+  {
+   "uid": "ef3cc61003_p8_img1",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    331.3,
+    445.0,
+    431.5,
+    488.6
+   ],
+   "item": null,
+   "file": "ef3cc61003_p8_img1.png"
+  },
+  {
+   "uid": "ef3cc61003_p8_img2",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    122.0,
+    504.1,
+    209.2,
+    546.5
+   ],
+   "item": null,
+   "file": "ef3cc61003_p8_img2.png"
+  },
+  {
+   "uid": "ef3cc61003_p8_img3",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    335.1,
+    504.6,
+    423.8,
+    547.4
+   ],
+   "item": null,
+   "file": "ef3cc61003_p8_img3.png"
+  },
+  {
+   "uid": "ef3cc61003_p8_vec1",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    102.9,
+    537.7,
+    147.6
+   ],
+   "item": null,
+   "file": "ef3cc61003_p8_vec1.png",
+   "features": {
+    "n_chars": 73,
+    "n_curves": 0,
+    "area": 17372.2,
+    "text_density": 4.202
+   }
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "source": "mirror/file_pool/0j076452783122453305/02-102學測社會定稿.pdf",
+ "assets": [
+  {
+   "uid": "67634e12ab_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    99.4,
+    333.9,
+    495.9,
+    640.7
+   ],
+   "item": null,
+   "file": "67634e12ab_p1_vec0.png",
+   "features": {
+    "n_chars": 121,
+    "n_curves": 0,
+    "area": 116065.9,
+    "text_density": 1.043
+   }
+  },
+  {
+   "uid": "67634e12ab_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    111.1,
+    538.7,
+    176.6
+   ],
+   "item": null,
+   "file": "67634e12ab_p2_vec0.png",
+   "features": {
+    "n_chars": 93,
+    "n_curves": 0,
+    "area": 27245.5,
+    "text_density": 3.413
+   }
+  },
+  {
+   "uid": "67634e12ab_p4_vec0",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    86.0,
+    135.1,
+    509.3,
+    180.5
+   ],
+   "item": 10,
+   "file": "67634e12ab_p4_vec0.png",
+   "features": {
+    "n_chars": 37,
+    "n_curves": 0,
+    "area": 15550.0,
+    "text_density": 2.379
+   }
+  },
+  {
+   "uid": "67634e12ab_p5_vec0",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    81.0,
+    135.1,
+    528.8,
+    205.0
+   ],
+   "item": 15,
+   "file": "67634e12ab_p5_vec0.png",
+   "features": {
+    "n_chars": 87,
+    "n_curves": 0,
+    "area": 27232.9,
+    "text_density": 3.195
+   }
+  },
+  {
+   "uid": "67634e12ab_p10_vec0",
+   "page": 10,
+   "kind": "vector_region",
+   "bbox": [
+    75.8,
+    213.1,
+    519.5,
+    332.1
+   ],
+   "item": 43,
+   "file": "67634e12ab_p10_vec0.png",
+   "features": {
+    "n_chars": 252,
+    "n_curves": 0,
+    "area": 48364.9,
+    "text_density": 5.21
+   }
+  },
+  {
+   "uid": "67634e12ab_p11_img0",
+   "page": 11,
+   "kind": "inline_glyph",
+   "bbox": [
+    411.1,
+    450.8,
+    457.5,
+    461.9
+   ],
+   "item": 49
+  },
+  {
+   "uid": "67634e12ab_p11_img1",
+   "page": 11,
+   "kind": "image",
+   "bbox": [
+    340.0,
+    322.9,
+    513.9,
+    445.4
+   ],
+   "item": 49,
+   "file": "67634e12ab_p11_img1.png"
+  },
+  {
+   "uid": "67634e12ab_p11_img2",
+   "page": 11,
+   "kind": "image",
+   "bbox": [
+    349.3,
+    576.7,
+    515.9,
+    763.1
+   ],
+   "item": 51,
+   "file": "67634e12ab_p11_img2.png"
+  },
+  {
+   "uid": "67634e12ab_p11_img3",
+   "page": 11,
+   "kind": "inline_glyph",
+   "bbox": [
+    406.4,
+    754.7,
+    416.2,
+    760.9
+   ],
+   "item": 51
+  },
+  {
+   "uid": "67634e12ab_p11_img4",
+   "page": 11,
+   "kind": "inline_glyph",
+   "bbox": [
+    500.7,
+    697.1,
+    512.0,
+    708.4
+   ],
+   "item": 51
+  },
+  {
+   "uid": "67634e12ab_p11_img5",
+   "page": 11,
+   "kind": "inline_glyph",
+   "bbox": [
+    481.0,
+    580.4,
+    492.1,
+    588.9
+   ],
+   "item": 51
+  },
+  {
+   "uid": "67634e12ab_p11_vec1",
+   "page": 11,
+   "kind": "vector_region",
+   "bbox": [
+    335.4,
+    318.3,
+    518.1,
+    449.6
+   ],
+   "item": 48,
+   "file": "67634e12ab_p11_vec1.png",
+   "features": {
+    "n_chars": 0,
+    "n_curves": 0,
+    "area": 21531.9,
+    "text_density": 0.0
+   }
+  },
+  {
+   "uid": "67634e12ab_p11_vec2",
+   "page": 11,
+   "kind": "vector_region",
+   "bbox": [
+    353.6,
+    750.5,
+    532.6,
+    786.1
+   ],
+   "item": 51,
+   "file": "67634e12ab_p11_vec2.png",
+   "features": {
+    "n_chars": 7,
+    "n_curves": 0,
+    "area": 4725.1,
+    "text_density": 1.481
+   }
+  },
+  {
+   "uid": "67634e12ab_p12_img0",
+   "page": 12,
+   "kind": "image",
+   "bbox": [
+    221.9,
+    433.3,
+    526.8,
+    554.2
+   ],
+   "item": 55,
+   "file": "67634e12ab_p12_img0.png"
+  },
+  {
+   "uid": "67634e12ab_p12_img1",
+   "page": 12,
+   "kind": "inline_glyph",
+   "bbox": [
+    221.8,
+    557.7,
+    527.8,
+    571.0
+   ],
+   "item": 55
+  },
+  {
+   "uid": "67634e12ab_p12_img2",
+   "page": 12,
+   "kind": "image",
+   "bbox": [
+    364.9,
+    197.5,
+    508.3,
+    329.0
+   ],
+   "item": 52,
+   "file": "67634e12ab_p12_img2.png"
+  },
+  {
+   "uid": "67634e12ab_p12_img3",
+   "page": 12,
+   "kind": "inline_glyph",
+   "bbox": [
+    418.9,
+    329.2,
+    456.1,
+    339.8
+   ],
+   "item": 53
+  },
+  {
+   "uid": "67634e12ab_p12_img4",
+   "page": 12,
+   "kind": "image",
+   "bbox": [
+    365.6,
+    595.1,
+    524.1,
+    772.1
+   ],
+   "item": 56,
+   "file": "67634e12ab_p12_img4.png"
+  },
+  {
+   "uid": "67634e12ab_p12_img5",
+   "page": 12,
+   "kind": "inline_glyph",
+   "bbox": [
+    385.6,
+    772.5,
+    497.5,
+    786.2
+   ],
+   "item": 56
+  },
+  {
+   "uid": "67634e12ab_p13_img0",
+   "page": 13,
+   "kind": "inline_glyph",
+   "bbox": [
+    357.3,
+    734.8,
+    506.2,
+    747.9
+   ],
+   "item": 61
+  },
+  {
+   "uid": "67634e12ab_p13_img1",
+   "page": 13,
+   "kind": "image",
+   "bbox": [
+    327.7,
+    590.2,
+    522.0,
+    726.4
+   ],
+   "item": 61,
+   "file": "67634e12ab_p13_img1.png"
+  },
+  {
+   "uid": "67634e12ab_p13_img2",
+   "page": 13,
+   "kind": "inline_glyph",
+   "bbox": [
+    412.7,
+    564.9,
+    446.5,
+    576.9
+   ],
+   "item": 61
+  },
+  {
+   "uid": "67634e12ab_p13_img3",
+   "page": 13,
+   "kind": "image",
+   "bbox": [
+    343.4,
+    396.3,
+    506.9,
+    562.1
+   ],
+   "item": 58,
+   "file": "67634e12ab_p13_img3.png"
+  },
+  {
+   "uid": "67634e12ab_p13_vec0",
+   "page": 13,
+   "kind": "vector_region",
+   "bbox": [
+    323.2,
+    585.6,
+    526.5,
+    730.8
+   ],
+   "item": 61,
+   "file": "67634e12ab_p13_vec0.png",
+   "features": {
+    "n_chars": 0,
+    "n_curves": 0,
+    "area": 26792.4,
+    "text_density": 0.0
+   }
+  },
+  {
+   "uid": "67634e12ab_p14_img0",
+   "page": 14,
+   "kind": "image",
+   "bbox": [
+    322.8,
+    628.9,
+    426.9,
+    768.6
+   ],
+   "item": 64,
+   "file": "67634e12ab_p14_img0.png"
+  },
+  {
+   "uid": "67634e12ab_p14_img1",
+   "page": 14,
+   "kind": "image",
+   "bbox": [
+    424.2,
+    628.5,
+    529.5,
+    768.5
+   ],
+   "item": 64,
+   "file": "67634e12ab_p14_img1.png"
+  },
+  {
+   "uid": "67634e12ab_p14_img2",
+   "page": 14,
+   "kind": "image",
+   "bbox": [
+    323.0,
+    495.9,
+    424.9,
+    629.1
+   ],
+   "item": 63,
+   "file": "67634e12ab_p14_img2.png"
+  },
+  {
+   "uid": "67634e12ab_p14_img3",
+   "page": 14,
+   "kind": "image",
+   "bbox": [
+    424.5,
+    495.9,
+    529.5,
+    628.8
+   ],
+   "item": 63,
+   "file": "67634e12ab_p14_img3.png"
+  },
+  {
+   "uid": "67634e12ab_p14_img4",
+   "page": 14,
+   "kind": "inline_glyph",
+   "bbox": [
+    322.3,
+    606.1,
+    347.5,
+    624.8
+   ],
+   "item": 64
+  },
+  {
+   "uid": "67634e12ab_p14_img5",
+   "page": 14,
+   "kind": "inline_glyph",
+   "bbox": [
+    425.0,
+    605.3,
+    450.1,
+    624.1
+   ],
+   "item": 63
+  },
+  {
+   "uid": "67634e12ab_p14_img6",
+   "page": 14,
+   "kind": "inline_glyph",
+   "bbox": [
+    323.0,
+    745.7,
+    348.1,
+    764.5
+   ],
+   "item": 65
+  },
+  {
+   "uid": "67634e12ab_p14_img7",
+   "page": 14,
+   "kind": "inline_glyph",
+   "bbox": [
+    424.3,
+    745.7,
+    449.3,
+    764.5
+   ],
+   "item": 65
+  },
+  {
+   "uid": "67634e12ab_p14_img8",
+   "page": 14,
+   "kind": "inline_glyph",
+   "bbox": [
+    319.0,
+    772.4,
+    530.5,
+    786.4
+   ],
+   "item": 65
+  },
+  {
+   "uid": "67634e12ab_p14_vec2",
+   "page": 14,
+   "kind": "vector_region",
+   "bbox": [
+    315.0,
+    491.1,
+    534.4,
+    793.9
+   ],
+   "item": 63,
+   "file": "67634e12ab_p14_vec2.png",
+   "features": {
+    "n_chars": 12,
+    "n_curves": 0,
+    "area": 62306.0,
+    "text_density": 0.193
+   }
+  },
+  {
+   "uid": "67634e12ab_p14_vec3",
+   "page": 14,
+   "kind": "vector_region",
+   "bbox": [
+    308.8,
+    119.4,
+    533.8,
+    336.4
+   ],
+   "item": null,
+   "file": "67634e12ab_p14_vec3.png",
+   "features": {
+    "n_chars": 206,
+    "n_curves": 0,
+    "area": 45353.1,
+    "text_density": 4.542
+   }
+  },
+  {
+   "uid": "67634e12ab_p15_vec1",
+   "page": 15,
+   "kind": "vector_region",
+   "bbox": [
+    93.6,
+    216.1,
+    501.9,
+    453.0
+   ],
+   "item": 66,
+   "file": "67634e12ab_p15_vec1.png",
+   "features": {
+    "n_chars": 270,
+    "n_curves": 0,
+    "area": 91657.3,
+    "text_density": 2.946
+   }
+  },
+  {
+   "uid": "67634e12ab_p15_vec2",
+   "page": 15,
+   "kind": "vector_region",
+   "bbox": [
+    183.3,
+    694.1,
+    405.6,
+    757.9
+   ],
+   "item": 69,
+   "file": "67634e12ab_p15_vec2.png",
+   "features": {
+    "n_chars": 7,
+    "n_curves": 0,
+    "area": 11965.9,
+    "text_density": 0.585
+   }
+  },
+  {
+   "uid": "67634e12ab_p16_img0",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    292.4,
+    495.3,
+    329.6,
+    507.4
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img1",
+   "page": 16,
+   "kind": "image",
+   "bbox": [
+    154.4,
+    302.5,
+    464.9,
+    496.9
+   ],
+   "item": 72,
+   "file": "67634e12ab_p16_img1.png"
+  },
+  {
+   "uid": "67634e12ab_p16_img2",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    306.9,
+    299.8,
+    381.5,
+    312.4
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img3",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    452.5,
+    378.1,
+    464.5,
+    448.7
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img4",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    201.3,
+    472.3,
+    221.9,
+    485.6
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img5",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    269.2,
+    473.0,
+    290.0,
+    486.4
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img6",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    346.0,
+    472.3,
+    366.7,
+    485.6
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img7",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    408.5,
+    472.3,
+    429.2,
+    485.6
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img8",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    312.7,
+    320.5,
+    317.7,
+    325.5
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img9",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    311.5,
+    315.4,
+    323.9,
+    331.9
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img10",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    359.2,
+    410.7,
+    364.6,
+    416.1
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img11",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    358.3,
+    406.5,
+    370.7,
+    422.9
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img12",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    223.7,
+    378.2,
+    229.1,
+    383.7
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img13",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    223.4,
+    374.1,
+    235.9,
+    390.5
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img14",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    253.5,
+    435.3,
+    259.0,
+    440.8
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img15",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    253.0,
+    431.6,
+    265.5,
+    448.0
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img16",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    289.0,
+    672.2,
+    331.4,
+    684.3
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img17",
+   "page": 16,
+   "kind": "image",
+   "bbox": [
+    155.1,
+    526.7,
+    457.9,
+    669.0
+   ],
+   "item": 72,
+   "file": "67634e12ab_p16_img17.png"
+  },
+  {
+   "uid": "67634e12ab_p16_img18",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    232.1,
+    607.3,
+    276.1,
+    619.9
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img19",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    287.6,
+    591.8,
+    331.4,
+    604.3
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img20",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    339.4,
+    584.5,
+    383.2,
+    597.1
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_img21",
+   "page": 16,
+   "kind": "inline_glyph",
+   "bbox": [
+    318.7,
+    633.7,
+    362.5,
+    646.1
+   ],
+   "item": 72
+  },
+  {
+   "uid": "67634e12ab_p16_vec3",
+   "page": 16,
+   "kind": "vector_region",
+   "bbox": [
+    265.0,
+    468.7,
+    333.9,
+    515.3
+   ],
+   "item": 72,
+   "file": "67634e12ab_p16_vec3.png",
+   "features": {
+    "n_chars": 5,
+    "n_curves": 0,
+    "area": 2353.8,
+    "text_density": 2.124
+   }
+  },
+  {
+   "uid": "67634e12ab_p16_vec6",
+   "page": 16,
+   "kind": "vector_region",
+   "bbox": [
+    302.6,
+    295.4,
+    385.7,
+    331.9
+   ],
+   "item": 72,
+   "file": "67634e12ab_p16_vec6.png",
+   "features": {
+    "n_chars": 17,
+    "n_curves": 1,
+    "area": 2135.6,
+    "text_density": 7.96
+   }
+  }
+ ]
+}

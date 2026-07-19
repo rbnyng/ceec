@@ -1,0 +1,222 @@
+{
+ "source": "mirror/file_pool/0k233404793144672957/05-109指考補考歷史科試題定稿.pdf",
+ "assets": [
+  {
+   "uid": "f319740a97_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    267.7,
+    518.4,
+    651.5
+   ],
+   "item": null,
+   "file": "f319740a97_p1_vec0.png",
+   "features": {
+    "n_chars": 204,
+    "n_curves": 0,
+    "area": 162926.6,
+    "text_density": 1.252
+   }
+  },
+  {
+   "uid": "f319740a97_p2_img0",
+   "page": 2,
+   "kind": "image",
+   "bbox": [
+    379.0,
+    409.4,
+    525.8,
+    515.0
+   ],
+   "item": 3,
+   "file": "f319740a97_p2_img0.png"
+  },
+  {
+   "uid": "f319740a97_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    374.5,
+    404.8,
+    530.5,
+    519.6
+   ],
+   "item": 3,
+   "file": "f319740a97_p2_vec0.png",
+   "features": {
+    "n_chars": 0,
+    "n_curves": 2,
+    "area": 15808.5,
+    "text_density": 0.0
+   }
+  },
+  {
+   "uid": "f319740a97_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    129.5,
+    538.7,
+    195.0
+   ],
+   "item": null,
+   "file": "f319740a97_p2_vec1.png",
+   "features": {
+    "n_chars": 90,
+    "n_curves": 0,
+    "area": 27249.0,
+    "text_density": 3.303
+   }
+  },
+  {
+   "uid": "f319740a97_p4_img0",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    289.4,
+    155.0,
+    531.4,
+    298.8
+   ],
+   "item": 19,
+   "file": "f319740a97_p4_img0.png"
+  },
+  {
+   "uid": "f319740a97_p6_vec0",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    267.3,
+    538.7,
+    344.4
+   ],
+   "item": 34,
+   "file": "f319740a97_p6_vec0.png",
+   "features": {
+    "n_chars": 136,
+    "n_curves": 0,
+    "area": 32767.0,
+    "text_density": 4.151
+   }
+  },
+  {
+   "uid": "f319740a97_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    57.6,
+    224.1,
+    538.7,
+    320.1
+   ],
+   "item": 38,
+   "file": "f319740a97_p7_vec0.png",
+   "features": {
+    "n_chars": 161,
+    "n_curves": 0,
+    "area": 41670.6,
+    "text_density": 3.864
+   }
+  },
+  {
+   "uid": "f319740a97_p8_img0",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    87.4,
+    290.6,
+    301.7,
+    445.0
+   ],
+   "item": null,
+   "file": "f319740a97_p8_img0.png"
+  },
+  {
+   "uid": "f319740a97_p8_img1",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    323.3,
+    110.2,
+    533.5,
+    257.5
+   ],
+   "item": null,
+   "file": "f319740a97_p8_img1.png"
+  },
+  {
+   "uid": "f319740a97_p8_img2",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    87.6,
+    108.5,
+    303.1,
+    257.5
+   ],
+   "item": null,
+   "file": "f319740a97_p8_img2.png"
+  },
+  {
+   "uid": "f319740a97_p8_vec0",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    82.9,
+    286.1,
+    306.3,
+    449.6
+   ],
+   "item": null,
+   "file": "f319740a97_p8_vec0.png",
+   "features": {
+    "n_chars": 0,
+    "n_curves": 2,
+    "area": 33495.4,
+    "text_density": 0.0
+   }
+  },
+  {
+   "uid": "f319740a97_p8_vec1",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    318.8,
+    105.7,
+    538.0,
+    262.1
+   ],
+   "item": null,
+   "file": "f319740a97_p8_vec1.png",
+   "features": {
+    "n_chars": 0,
+    "n_curves": 2,
+    "area": 31337.9,
+    "text_density": 0.0
+   }
+  },
+  {
+   "uid": "f319740a97_p8_vec2",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    82.9,
+    104.0,
+    307.6,
+    262.1
+   ],
+   "item": null,
+   "file": "f319740a97_p8_vec2.png",
+   "features": {
+    "n_chars": 0,
+    "n_curves": 2,
+    "area": 32525.0,
+    "text_density": 0.0
+   }
+  }
+ ]
+}

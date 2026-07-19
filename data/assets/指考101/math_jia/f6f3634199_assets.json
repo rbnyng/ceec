@@ -1,0 +1,132 @@
+{
+ "source": "mirror/file_pool/0j075795882017163111/03-101指考數學甲試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "f6f3634199_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    54.4,
+    180.0,
+    547.4,
+    745.9
+   ],
+   "item": null,
+   "file": "f6f3634199_p1_vec0.png",
+   "features": {
+    "n_chars": 564,
+    "n_curves": 4,
+    "area": 270560.6,
+    "text_density": 2.085
+   }
+  },
+  {
+   "uid": "f6f3634199_p2_vec5",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    171.1,
+    536.7,
+    235.5
+   ],
+   "item": null,
+   "file": "f6f3634199_p2_vec5.png",
+   "features": {
+    "n_chars": 93,
+    "n_curves": 0,
+    "area": 26657.0,
+    "text_density": 3.489
+   }
+  },
+  {
+   "uid": "f6f3634199_p4_vec4",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    378.6,
+    537.8,
+    461.1
+   ],
+   "item": 5,
+   "file": "f6f3634199_p4_vec4.png",
+   "features": {
+    "n_chars": 138,
+    "n_curves": 0,
+    "area": 35264.3,
+    "text_density": 3.913
+   }
+  },
+  {
+   "uid": "f6f3634199_p6_img0",
+   "page": 6,
+   "kind": "image",
+   "bbox": [
+    211.4,
+    157.3,
+    384.1,
+    341.8
+   ],
+   "item": 9,
+   "file": "f6f3634199_p6_img0.png"
+  },
+  {
+   "uid": "f6f3634199_p7_vec3",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    363.6,
+    278.5,
+    416.6,
+    320.9
+   ],
+   "item": null,
+   "file": "f6f3634199_p7_vec3.png",
+   "features": {
+    "n_chars": 13,
+    "n_curves": 2,
+    "area": 1547.1,
+    "text_density": 8.403
+   }
+  },
+  {
+   "uid": "f6f3634199_p7_vec5",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    135.1,
+    537.7,
+    199.5
+   ],
+   "item": null,
+   "file": "f6f3634199_p7_vec5.png",
+   "features": {
+    "n_chars": 83,
+    "n_curves": 0,
+    "area": 26711.2,
+    "text_density": 3.107
+   }
+  },
+  {
+   "uid": "f6f3634199_p8_vec9",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    126.1,
+    537.7,
+    208.5
+   ],
+   "item": null,
+   "file": "f6f3634199_p8_vec9.png",
+   "features": {
+    "n_chars": 125,
+    "n_curves": 0,
+    "area": 35227.0,
+    "text_density": 3.548
+   }
+  }
+ ]
+}

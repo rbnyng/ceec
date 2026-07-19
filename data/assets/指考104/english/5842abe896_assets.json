@@ -1,0 +1,252 @@
+{
+ "source": "mirror/file_pool/0j075814764524406609/02-104指考英文(定稿).pdf",
+ "assets": [
+  {
+   "uid": "5842abe896_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    74.7,
+    280.9,
+    520.7,
+    664.7
+   ],
+   "item": null,
+   "file": "5842abe896_p1_vec0.png",
+   "features": {
+    "n_chars": 205,
+    "n_curves": 0,
+    "area": 164570.7,
+    "text_density": 1.246
+   }
+  },
+  {
+   "uid": "5842abe896_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    58.4,
+    700.8,
+    537.0,
+    788.8
+   ],
+   "item": 10,
+   "file": "5842abe896_p2_vec0.png",
+   "features": {
+    "n_chars": 514,
+    "n_curves": 0,
+    "area": 37668.4,
+    "text_density": 13.645
+   }
+  },
+  {
+   "uid": "5842abe896_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    627.3,
+    538.7,
+    692.8
+   ],
+   "item": 10,
+   "file": "5842abe896_p2_vec1.png",
+   "features": {
+    "n_chars": 88,
+    "n_curves": 0,
+    "area": 27253.8,
+    "text_density": 3.229
+   }
+  },
+  {
+   "uid": "5842abe896_p2_vec2",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    120.5,
+    538.7,
+    185.9
+   ],
+   "item": null,
+   "file": "5842abe896_p2_vec2.png",
+   "features": {
+    "n_chars": 101,
+    "n_curves": 0,
+    "area": 27244.4,
+    "text_density": 3.707
+   }
+  },
+  {
+   "uid": "5842abe896_p3_vec0",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    58.4,
+    684.2,
+    537.0,
+    787.2
+   ],
+   "item": 20,
+   "file": "5842abe896_p3_vec0.png",
+   "features": {
+    "n_chars": 582,
+    "n_curves": 0,
+    "area": 44727.7,
+    "text_density": 13.012
+   }
+  },
+  {
+   "uid": "5842abe896_p3_vec1",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    592.7,
+    538.7,
+    676.2
+   ],
+   "item": 20,
+   "file": "5842abe896_p3_vec1.png",
+   "features": {
+    "n_chars": 125,
+    "n_curves": 0,
+    "area": 35776.0,
+    "text_density": 3.494
+   }
+  },
+  {
+   "uid": "5842abe896_p3_vec8",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    58.4,
+    81.1,
+    537.0,
+    194.1
+   ],
+   "item": null,
+   "file": "5842abe896_p3_vec8.png",
+   "features": {
+    "n_chars": 566,
+    "n_curves": 0,
+    "area": 49415.1,
+    "text_density": 11.454
+   }
+  },
+  {
+   "uid": "5842abe896_p4_vec6",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    291.4,
+    538.7,
+    374.8
+   ],
+   "item": null,
+   "file": "5842abe896_p4_vec6.png",
+   "features": {
+    "n_chars": 142,
+    "n_curves": 0,
+    "area": 35776.0,
+    "text_density": 3.969
+   }
+  },
+  {
+   "uid": "5842abe896_p4_vec7",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    58.4,
+    81.1,
+    537.0,
+    239.1
+   ],
+   "item": null,
+   "file": "5842abe896_p4_vec7.png",
+   "features": {
+    "n_chars": 936,
+    "n_curves": 0,
+    "area": 70607.1,
+    "text_density": 13.256
+   }
+  },
+  {
+   "uid": "5842abe896_p5_vec1",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    99.3,
+    538.7,
+    164.8
+   ],
+   "item": null,
+   "file": "5842abe896_p5_vec1.png",
+   "features": {
+    "n_chars": 104,
+    "n_curves": 0,
+    "area": 27244.4,
+    "text_density": 3.817
+   }
+  },
+  {
+   "uid": "5842abe896_p8_vec0",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    57.7,
+    659.8,
+    538.7,
+    706.4
+   ],
+   "item": 2,
+   "file": "5842abe896_p8_vec0.png",
+   "features": {
+    "n_chars": 61,
+    "n_curves": 0,
+    "area": 18230.2,
+    "text_density": 3.346
+   }
+  },
+  {
+   "uid": "5842abe896_p8_vec1",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    57.7,
+    559.0,
+    538.7,
+    605.5
+   ],
+   "item": 51,
+   "file": "5842abe896_p8_vec1.png",
+   "features": {
+    "n_chars": 85,
+    "n_curves": 0,
+    "area": 18220.7,
+    "text_density": 4.665
+   }
+  },
+  {
+   "uid": "5842abe896_p8_vec2",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    477.4,
+    538.7,
+    542.9
+   ],
+   "item": 51,
+   "file": "5842abe896_p8_vec2.png",
+   "features": {
+    "n_chars": 74,
+    "n_curves": 0,
+    "area": 27258.6,
+    "text_density": 2.715
+   }
+  }
+ ]
+}

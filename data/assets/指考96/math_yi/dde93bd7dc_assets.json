@@ -1,0 +1,132 @@
+{
+ "source": "mirror/file_pool/0j075775925733834448/04-96指考數乙定稿.pdf",
+ "assets": [
+  {
+   "uid": "dde93bd7dc_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    37.5,
+    171.0,
+    557.7,
+    712.3
+   ],
+   "item": null,
+   "file": "dde93bd7dc_p1_vec0.png",
+   "features": {
+    "n_chars": 628,
+    "n_curves": 2,
+    "area": 273156.7,
+    "text_density": 2.299
+   }
+  },
+  {
+   "uid": "dde93bd7dc_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    145.8,
+    538.7,
+    211.2
+   ],
+   "item": null,
+   "file": "dde93bd7dc_p2_vec0.png",
+   "features": {
+    "n_chars": 103,
+    "n_curves": 0,
+    "area": 27249.0,
+    "text_density": 3.78
+   }
+  },
+  {
+   "uid": "dde93bd7dc_p3_vec10",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    112.6,
+    538.7,
+    196.1
+   ],
+   "item": null,
+   "file": "dde93bd7dc_p3_vec10.png",
+   "features": {
+    "n_chars": 162,
+    "n_curves": 0,
+    "area": 35782.0,
+    "text_density": 4.527
+   }
+  },
+  {
+   "uid": "dde93bd7dc_p5_vec0",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    112.6,
+    538.7,
+    160.1
+   ],
+   "item": null,
+   "file": "dde93bd7dc_p5_vec0.png",
+   "features": {
+    "n_chars": 67,
+    "n_curves": 0,
+    "area": 18715.9,
+    "text_density": 3.58
+   }
+  },
+  {
+   "uid": "dde93bd7dc_p5_vec5",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    218.9,
+    243.3,
+    375.9,
+    316.7
+   ],
+   "item": null,
+   "file": "dde93bd7dc_p5_vec5.png",
+   "features": {
+    "n_chars": 15,
+    "n_curves": 0,
+    "area": 9734.4,
+    "text_density": 1.541
+   }
+  },
+  {
+   "uid": "dde93bd7dc_p6_img0",
+   "page": 6,
+   "kind": "image",
+   "bbox": [
+    81.8,
+    103.9,
+    494.9,
+    390.4
+   ],
+   "item": null,
+   "file": "dde93bd7dc_p6_img0.png"
+  },
+  {
+   "uid": "dde93bd7dc_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    114.3,
+    538.7,
+    161.7
+   ],
+   "item": null,
+   "file": "dde93bd7dc_p7_vec0.png",
+   "features": {
+    "n_chars": 73,
+    "n_curves": 0,
+    "area": 18715.9,
+    "text_density": 3.9
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "source": "mirror/file_pool/0m052630661359500564/01-2-111學測國寫試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "0b6827a97e_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    92.8,
+    225.9,
+    502.5,
+    691.6
+   ],
+   "item": null,
+   "file": "0b6827a97e_p1_vec0.png",
+   "features": {
+    "n_chars": 274,
+    "n_curves": 0,
+    "area": 183822.6,
+    "text_density": 1.491
+   }
+  },
+  {
+   "uid": "0b6827a97e_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    323.6,
+    460.5,
+    533.4,
+    529.7
+   ],
+   "item": null,
+   "file": "0b6827a97e_p2_vec0.png",
+   "features": {
+    "n_chars": 47,
+    "n_curves": 2,
+    "area": 12352.6,
+    "text_density": 3.805
+   }
+  },
+  {
+   "uid": "0b6827a97e_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    57.7,
+    108.7,
+    541.7,
+    189.5
+   ],
+   "item": null,
+   "file": "0b6827a97e_p2_vec1.png",
+   "features": {
+    "n_chars": 132,
+    "n_curves": 0,
+    "area": 34674.8,
+    "text_density": 3.807
+   }
+  }
+ ]
+}

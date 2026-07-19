@@ -1,0 +1,139 @@
+{
+ "source": "mirror/file_pool/0j075451756629526750/05-102指考歷史試題(定稿)2.pdf",
+ "assets": [
+  {
+   "uid": "1258f592f0_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    253.5,
+    518.4,
+    662.3
+   ],
+   "item": null,
+   "file": "1258f592f0_p1_vec0.png",
+   "features": {
+    "n_chars": 204,
+    "n_curves": 0,
+    "area": 173746.8,
+    "text_density": 1.174
+   }
+  },
+  {
+   "uid": "1258f592f0_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    49.5,
+    115.3,
+    545.8,
+    175.5
+   ],
+   "item": null,
+   "file": "1258f592f0_p2_vec0.png",
+   "features": {
+    "n_chars": 90,
+    "n_curves": 0,
+    "area": 25488.2,
+    "text_density": 3.531
+   }
+  },
+  {
+   "uid": "1258f592f0_p4_img0",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    281.0,
+    625.5,
+    546.7,
+    707.0
+   ],
+   "item": 25,
+   "file": "1258f592f0_p4_img0.png"
+  },
+  {
+   "uid": "1258f592f0_p4_img1",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    281.0,
+    707.0,
+    546.7,
+    788.3
+   ],
+   "item": 25,
+   "file": "1258f592f0_p4_img1.png"
+  },
+  {
+   "uid": "1258f592f0_p4_img2",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    340.7,
+    72.1,
+    540.7,
+    192.5
+   ],
+   "item": null,
+   "file": "1258f592f0_p4_img2.png"
+  },
+  {
+   "uid": "1258f592f0_p6_vec0",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    49.5,
+    585.2,
+    545.8,
+    662.4
+   ],
+   "item": 36,
+   "file": "1258f592f0_p6_vec0.png",
+   "features": {
+    "n_chars": 136,
+    "n_curves": 0,
+    "area": 33779.2,
+    "text_density": 4.026
+   }
+  },
+  {
+   "uid": "1258f592f0_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    181.0,
+    705.0,
+    423.2,
+    763.8
+   ],
+   "item": 40,
+   "file": "1258f592f0_p7_vec0.png",
+   "features": {
+    "n_chars": 6,
+    "n_curves": 1,
+    "area": 11890.0,
+    "text_density": 0.505
+   }
+  },
+  {
+   "uid": "1258f592f0_p7_vec1",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    49.5,
+    578.9,
+    545.8,
+    656.1
+   ],
+   "item": 40,
+   "file": "1258f592f0_p7_vec1.png",
+   "features": {
+    "n_chars": 115,
+    "n_curves": 0,
+    "area": 33779.2,
+    "text_density": 3.404
+   }
+  }
+ ]
+}

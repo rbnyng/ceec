@@ -1,0 +1,138 @@
+{
+ "source": "mirror/file_pool/0j076560803522828233/86年學測英文科.pdf",
+ "assets": [
+  {
+   "uid": "2d5d75c6cf_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    104.8,
+    310.8,
+    490.5,
+    599.7
+   ],
+   "item": null,
+   "file": "2d5d75c6cf_p1_vec0.png",
+   "features": {
+    "n_chars": 129,
+    "n_curves": 0,
+    "area": 106103.5,
+    "text_density": 1.216
+   }
+  },
+  {
+   "uid": "2d5d75c6cf_p2_vec12",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    96.0,
+    511.7,
+    135.5
+   ],
+   "item": null,
+   "file": "2d5d75c6cf_p2_vec12.png",
+   "features": {
+    "n_chars": 63,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 4.75
+   }
+  },
+  {
+   "uid": "2d5d75c6cf_p3_vec6",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    461.5,
+    511.7,
+    501.0
+   ],
+   "item": 20,
+   "file": "2d5d75c6cf_p3_vec6.png",
+   "features": {
+    "n_chars": 72,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 5.429
+   }
+  },
+  {
+   "uid": "2d5d75c6cf_p3_vec12",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    190.0,
+    511.7,
+    229.5
+   ],
+   "item": 15,
+   "file": "2d5d75c6cf_p3_vec12.png",
+   "features": {
+    "n_chars": 64,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 4.826
+   }
+  },
+  {
+   "uid": "2d5d75c6cf_p5_vec4",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    252.0,
+    511.7,
+    291.5
+   ],
+   "item": 40,
+   "file": "2d5d75c6cf_p5_vec4.png",
+   "features": {
+    "n_chars": 72,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 5.429
+   }
+  },
+  {
+   "uid": "2d5d75c6cf_p8_vec2",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    627.5,
+    511.7,
+    667.0
+   ],
+   "item": 5,
+   "file": "2d5d75c6cf_p8_vec2.png",
+   "features": {
+    "n_chars": 55,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 4.147
+   }
+  },
+  {
+   "uid": "2d5d75c6cf_p8_vec3",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    314.0,
+    511.7,
+    353.5
+   ],
+   "item": 55,
+   "file": "2d5d75c6cf_p8_vec3.png",
+   "features": {
+    "n_chars": 75,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 5.655
+   }
+  }
+ ]
+}

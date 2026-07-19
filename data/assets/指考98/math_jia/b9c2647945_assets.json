@@ -1,0 +1,119 @@
+{
+ "source": "mirror/file_pool/0j075793025414136566/03-98指考數學甲試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "b9c2647945_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    65.0,
+    160.5,
+    554.4,
+    667.6
+   ],
+   "item": null,
+   "file": "b9c2647945_p1_vec0.png",
+   "features": {
+    "n_chars": 670,
+    "n_curves": 2,
+    "area": 240277.1,
+    "text_density": 2.788
+   }
+  },
+  {
+   "uid": "b9c2647945_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    79.0,
+    169.0,
+    531.6,
+    230.2
+   ],
+   "item": null,
+   "file": "b9c2647945_p2_vec1.png",
+   "features": {
+    "n_chars": 96,
+    "n_curves": 0,
+    "area": 23634.9,
+    "text_density": 4.062
+   }
+  },
+  {
+   "uid": "b9c2647945_p3_vec9",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    79.0,
+    355.2,
+    531.6,
+    433.2
+   ],
+   "item": 3,
+   "file": "b9c2647945_p3_vec9.png",
+   "features": {
+    "n_chars": 149,
+    "n_curves": 0,
+    "area": 31157.6,
+    "text_density": 4.782
+   }
+  },
+  {
+   "uid": "b9c2647945_p5_vec4",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    197.5,
+    570.8,
+    414.0,
+    623.9
+   ],
+   "item": 7,
+   "file": "b9c2647945_p5_vec4.png",
+   "features": {
+    "n_chars": 43,
+    "n_curves": 0,
+    "area": 9410.2,
+    "text_density": 4.569
+   }
+  },
+  {
+   "uid": "b9c2647945_p5_vec5",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    79.0,
+    433.0,
+    531.6,
+    477.3
+   ],
+   "item": 7,
+   "file": "b9c2647945_p5_vec5.png",
+   "features": {
+    "n_chars": 68,
+    "n_curves": 0,
+    "area": 16112.3,
+    "text_density": 4.22
+   }
+  },
+  {
+   "uid": "b9c2647945_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    79.0,
+    122.5,
+    531.6,
+    183.5
+   ],
+   "item": null,
+   "file": "b9c2647945_p7_vec0.png",
+   "features": {
+    "n_chars": 86,
+    "n_curves": 0,
+    "area": 23581.6,
+    "text_density": 3.647
+   }
+  }
+ ]
+}

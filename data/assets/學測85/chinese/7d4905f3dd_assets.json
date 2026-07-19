@@ -1,0 +1,100 @@
+{
+ "source": "mirror/file_pool/0j076578081099319348/85年學測國文科.pdf",
+ "assets": [
+  {
+   "uid": "7d4905f3dd_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    84.3,
+    272.0,
+    511.1,
+    612.0
+   ],
+   "item": null,
+   "file": "7d4905f3dd_p1_vec0.png",
+   "features": {
+    "n_chars": 124,
+    "n_curves": 0,
+    "area": 139053.1,
+    "text_density": 0.892
+   }
+  },
+  {
+   "uid": "7d4905f3dd_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    117.1,
+    538.7,
+    164.6
+   ],
+   "item": null,
+   "file": "7d4905f3dd_p2_vec0.png",
+   "features": {
+    "n_chars": 64,
+    "n_curves": 0,
+    "area": 18718.3,
+    "text_density": 3.419
+   }
+  },
+  {
+   "uid": "7d4905f3dd_p5_vec0",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    549.1,
+    538.7,
+    632.6
+   ],
+   "item": null,
+   "file": "7d4905f3dd_p5_vec0.png",
+   "features": {
+    "n_chars": 115,
+    "n_curves": 0,
+    "area": 35786.6,
+    "text_density": 3.213
+   }
+  },
+  {
+   "uid": "7d4905f3dd_p6_vec0",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    315.1,
+    538.7,
+    398.6
+   ],
+   "item": 20,
+   "file": "7d4905f3dd_p6_vec0.png",
+   "features": {
+    "n_chars": 105,
+    "n_curves": 0,
+    "area": 35786.6,
+    "text_density": 2.934
+   }
+  },
+  {
+   "uid": "7d4905f3dd_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    621.1,
+    538.7,
+    704.6
+   ],
+   "item": null,
+   "file": "7d4905f3dd_p7_vec0.png",
+   "features": {
+    "n_chars": 96,
+    "n_curves": 0,
+    "area": 35786.6,
+    "text_density": 2.683
+   }
+  }
+ ]
+}

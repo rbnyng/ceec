@@ -1,0 +1,119 @@
+{
+ "source": "mirror/file_pool/0j075784638709222204/04-105指考數學乙試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "2c82c4d553_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    50.1,
+    167.8,
+    543.9,
+    725.8
+   ],
+   "item": null,
+   "file": "2c82c4d553_p1_vec0.png",
+   "features": {
+    "n_chars": 550,
+    "n_curves": 62,
+    "area": 267148.6,
+    "text_density": 2.059
+   }
+  },
+  {
+   "uid": "2c82c4d553_p2_vec7",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    57.6,
+    135.1,
+    537.7,
+    199.5
+   ],
+   "item": null,
+   "file": "2c82c4d553_p2_vec7.png",
+   "features": {
+    "n_chars": 93,
+    "n_curves": 0,
+    "area": 26657.0,
+    "text_density": 3.489
+   }
+  },
+  {
+   "uid": "2c82c4d553_p3_vec0",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    385.0,
+    537.7,
+    467.6
+   ],
+   "item": 3,
+   "file": "2c82c4d553_p3_vec0.png",
+   "features": {
+    "n_chars": 138,
+    "n_curves": 0,
+    "area": 35255.4,
+    "text_density": 3.914
+   }
+  },
+  {
+   "uid": "2c82c4d553_p6_vec5",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    108.1,
+    537.7,
+    154.5
+   ],
+   "item": null,
+   "file": "2c82c4d553_p6_vec5.png",
+   "features": {
+    "n_chars": 75,
+    "n_curves": 0,
+    "area": 18195.4,
+    "text_density": 4.122
+   }
+  },
+  {
+   "uid": "2c82c4d553_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    113.0,
+    517.3,
+    481.7,
+    558.3
+   ],
+   "item": null,
+   "file": "2c82c4d553_p7_vec0.png",
+   "features": {
+    "n_chars": 19,
+    "n_curves": 0,
+    "area": 11880.1,
+    "text_density": 1.599
+   }
+  },
+  {
+   "uid": "2c82c4d553_p7_vec5",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    57.6,
+    387.1,
+    537.7,
+    451.5
+   ],
+   "item": null,
+   "file": "2c82c4d553_p7_vec5.png",
+   "features": {
+    "n_chars": 119,
+    "n_curves": 0,
+    "area": 26657.0,
+    "text_density": 4.464
+   }
+  }
+ ]
+}

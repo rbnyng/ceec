@@ -1,0 +1,126 @@
+{
+ "source": "mirror/file_pool/0j075445515414136566/05-96指考歷史定稿.pdf",
+ "assets": [
+  {
+   "uid": "36587c5698_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    267.7,
+    518.4,
+    621.6
+   ],
+   "item": null,
+   "file": "36587c5698_p1_vec0.png",
+   "features": {
+    "n_chars": 109,
+    "n_curves": 0,
+    "area": 149947.7,
+    "text_density": 0.727
+   }
+  },
+  {
+   "uid": "36587c5698_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    129.3,
+    538.7,
+    189.5
+   ],
+   "item": null,
+   "file": "36587c5698_p2_vec0.png",
+   "features": {
+    "n_chars": 96,
+    "n_curves": 0,
+    "area": 24774.4,
+    "text_density": 3.875
+   }
+  },
+  {
+   "uid": "36587c5698_p3_img0",
+   "page": 3,
+   "kind": "image",
+   "bbox": [
+    413.7,
+    633.0,
+    515.8,
+    778.7
+   ],
+   "item": 15,
+   "file": "36587c5698_p3_img0.png"
+  },
+  {
+   "uid": "36587c5698_p5_img0",
+   "page": 5,
+   "kind": "image",
+   "bbox": [
+    374.0,
+    659.2,
+    525.3,
+    789.2
+   ],
+   "item": 31,
+   "file": "36587c5698_p5_img0.png"
+  },
+  {
+   "uid": "36587c5698_p5_vec0",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    314.9,
+    587.4,
+    535.0,
+    655.1
+   ],
+   "item": 30,
+   "file": "36587c5698_p5_vec0.png",
+   "features": {
+    "n_chars": 75,
+    "n_curves": 0,
+    "area": 12662.4,
+    "text_density": 5.923
+   }
+  },
+  {
+   "uid": "36587c5698_p6_vec0",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    657.1,
+    538.7,
+    751.1
+   ],
+   "item": 36,
+   "file": "36587c5698_p6_vec0.png",
+   "features": {
+    "n_chars": 160,
+    "n_curves": 0,
+    "area": 40788.1,
+    "text_density": 3.923
+   }
+  },
+  {
+   "uid": "36587c5698_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    549.3,
+    538.7,
+    609.5
+   ],
+   "item": 40,
+   "file": "36587c5698_p7_vec0.png",
+   "features": {
+    "n_chars": 89,
+    "n_curves": 0,
+    "area": 24774.4,
+    "text_density": 3.592
+   }
+  }
+ ]
+}

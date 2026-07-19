@@ -1,0 +1,218 @@
+{
+ "source": "mirror/file_pool/0j076400575957038887/83年學測社會科.pdf",
+ "assets": [
+  {
+   "uid": "2eba86454e_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    84.3,
+    290.0,
+    511.1,
+    587.0
+   ],
+   "item": null,
+   "file": "2eba86454e_p1_vec0.png",
+   "features": {
+    "n_chars": 143,
+    "n_curves": 0,
+    "area": 121058.9,
+    "text_density": 1.181
+   }
+  },
+  {
+   "uid": "2eba86454e_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    84.0,
+    512.7,
+    122.5
+   ],
+   "item": null,
+   "file": "2eba86454e_p2_vec0.png",
+   "features": {
+    "n_chars": 57,
+    "n_curves": 0,
+    "area": 12862.0,
+    "text_density": 4.432
+   }
+  },
+  {
+   "uid": "2eba86454e_p6_img0",
+   "page": 6,
+   "kind": "image",
+   "bbox": [
+    296.2,
+    282.8,
+    521.2,
+    394.1
+   ],
+   "item": 36,
+   "file": "2eba86454e_p6_img0.png"
+  },
+  {
+   "uid": "2eba86454e_p6_img1",
+   "page": 6,
+   "kind": "image",
+   "bbox": [
+    292.4,
+    398.6,
+    524.0,
+    491.0
+   ],
+   "item": 37,
+   "file": "2eba86454e_p6_img1.png"
+  },
+  {
+   "uid": "2eba86454e_p6_img2",
+   "page": 6,
+   "kind": "image",
+   "bbox": [
+    287.5,
+    507.4,
+    479.7,
+    744.4
+   ],
+   "item": 38,
+   "file": "2eba86454e_p6_img2.png"
+  },
+  {
+   "uid": "2eba86454e_p7_img0",
+   "page": 7,
+   "kind": "image",
+   "bbox": [
+    333.2,
+    71.3,
+    494.9,
+    288.0
+   ],
+   "item": null,
+   "file": "2eba86454e_p7_img0.png"
+  },
+  {
+   "uid": "2eba86454e_p7_img1",
+   "page": 7,
+   "kind": "image",
+   "bbox": [
+    89.9,
+    341.6,
+    505.1,
+    457.4
+   ],
+   "item": 41,
+   "file": "2eba86454e_p7_img1.png"
+  },
+  {
+   "uid": "2eba86454e_p7_img2",
+   "page": 7,
+   "kind": "image",
+   "bbox": [
+    89.9,
+    520.9,
+    505.2,
+    674.3
+   ],
+   "item": 42,
+   "file": "2eba86454e_p7_img2.png"
+  },
+  {
+   "uid": "2eba86454e_p8_img0",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    303.6,
+    55.7,
+    483.6,
+    193.4
+   ],
+   "item": null,
+   "file": "2eba86454e_p8_img0.png"
+  },
+  {
+   "uid": "2eba86454e_p8_img1",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    89.9,
+    201.1,
+    505.0,
+    315.0
+   ],
+   "item": 43,
+   "file": "2eba86454e_p8_img1.png"
+  },
+  {
+   "uid": "2eba86454e_p11_img0",
+   "page": 11,
+   "kind": "image",
+   "bbox": [
+    292.4,
+    81.0,
+    504.2,
+    359.5
+   ],
+   "item": null,
+   "file": "2eba86454e_p11_img0.png"
+  },
+  {
+   "uid": "2eba86454e_p11_img1",
+   "page": 11,
+   "kind": "image",
+   "bbox": [
+    269.9,
+    378.0,
+    512.3,
+    520.7
+   ],
+   "item": 62,
+   "file": "2eba86454e_p11_img1.png"
+  },
+  {
+   "uid": "2eba86454e_p12_vec0",
+   "page": 12,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    84.0,
+    512.7,
+    150.5
+   ],
+   "item": null,
+   "file": "2eba86454e_p12_vec0.png",
+   "features": {
+    "n_chars": 111,
+    "n_curves": 0,
+    "area": 24685.8,
+    "text_density": 4.497
+   }
+  },
+  {
+   "uid": "2eba86454e_p14_img0",
+   "page": 14,
+   "kind": "image",
+   "bbox": [
+    89.9,
+    295.1,
+    328.9,
+    473.5
+   ],
+   "item": 79,
+   "file": "2eba86454e_p14_img0.png"
+  },
+  {
+   "uid": "2eba86454e_p14_img1",
+   "page": 14,
+   "kind": "image",
+   "bbox": [
+    371.5,
+    265.6,
+    505.5,
+    473.5
+   ],
+   "item": 79,
+   "file": "2eba86454e_p14_img1.png"
+  }
+ ]
+}

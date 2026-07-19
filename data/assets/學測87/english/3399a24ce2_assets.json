@@ -1,0 +1,138 @@
+{
+ "source": "mirror/file_pool/0j076561150896887763/87年學測英文科.pdf",
+ "assets": [
+  {
+   "uid": "3399a24ce2_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    104.8,
+    310.8,
+    490.5,
+    599.7
+   ],
+   "item": null,
+   "file": "3399a24ce2_p1_vec0.png",
+   "features": {
+    "n_chars": 143,
+    "n_curves": 0,
+    "area": 106103.5,
+    "text_density": 1.348
+   }
+  },
+  {
+   "uid": "3399a24ce2_p2_vec15",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    114.6,
+    511.7,
+    154.1
+   ],
+   "item": null,
+   "file": "3399a24ce2_p2_vec15.png",
+   "features": {
+    "n_chars": 58,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 4.373
+   }
+  },
+  {
+   "uid": "3399a24ce2_p3_vec11",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    344.5,
+    511.7,
+    384.0
+   ],
+   "item": 20,
+   "file": "3399a24ce2_p3_vec11.png",
+   "features": {
+    "n_chars": 66,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 4.977
+   }
+  },
+  {
+   "uid": "3399a24ce2_p4_vec1",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    454.6,
+    511.7,
+    494.1
+   ],
+   "item": 40,
+   "file": "3399a24ce2_p4_vec1.png",
+   "features": {
+    "n_chars": 65,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 4.901
+   }
+  },
+  {
+   "uid": "3399a24ce2_p7_vec1",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    376.0,
+    511.7,
+    415.5
+   ],
+   "item": null,
+   "file": "3399a24ce2_p7_vec1.png",
+   "features": {
+    "n_chars": 62,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 4.675
+   }
+  },
+  {
+   "uid": "3399a24ce2_p7_vec13",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    100.6,
+    511.7,
+    140.1
+   ],
+   "item": null,
+   "file": "3399a24ce2_p7_vec13.png",
+   "features": {
+    "n_chars": 65,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 4.901
+   }
+  },
+  {
+   "uid": "3399a24ce2_p8_vec0",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    82.7,
+    100.6,
+    511.7,
+    140.1
+   ],
+   "item": null,
+   "file": "3399a24ce2_p8_vec0.png",
+   "features": {
+    "n_chars": 41,
+    "n_curves": 0,
+    "area": 13262.1,
+    "text_density": 3.092
+   }
+  }
+ ]
+}

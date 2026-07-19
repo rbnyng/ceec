@@ -1,0 +1,100 @@
+{
+ "source": "mirror/file_pool/0j075830853787082657/01-104指考國文(定稿).pdf",
+ "assets": [
+  {
+   "uid": "f94de78d6e_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    277.1,
+    518.4,
+    673.5
+   ],
+   "item": null,
+   "file": "f94de78d6e_p1_vec0.png",
+   "features": {
+    "n_chars": 203,
+    "n_curves": 0,
+    "area": 168364.6,
+    "text_density": 1.206
+   }
+  },
+  {
+   "uid": "f94de78d6e_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    57.7,
+    129.5,
+    538.7,
+    191.9
+   ],
+   "item": null,
+   "file": "f94de78d6e_p2_vec1.png",
+   "features": {
+    "n_chars": 90,
+    "n_curves": 0,
+    "area": 25770.1,
+    "text_density": 3.492
+   }
+  },
+  {
+   "uid": "f94de78d6e_p5_vec0",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    57.7,
+    693.4,
+    538.7,
+    772.8
+   ],
+   "item": 17,
+   "file": "f94de78d6e_p5_vec0.png",
+   "features": {
+    "n_chars": 136,
+    "n_curves": 0,
+    "area": 33773.6,
+    "text_density": 4.027
+   }
+  },
+  {
+   "uid": "f94de78d6e_p8_vec1",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    61.3,
+    286.8,
+    535.6,
+    658.8
+   ],
+   "item": null,
+   "file": "f94de78d6e_p8_vec1.png",
+   "features": {
+    "n_chars": 674,
+    "n_curves": 0,
+    "area": 169729.1,
+    "text_density": 3.971
+   }
+  },
+  {
+   "uid": "f94de78d6e_p8_vec7",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    105.3,
+    538.7,
+    150.8
+   ],
+   "item": null,
+   "file": "f94de78d6e_p8_vec7.png",
+   "features": {
+    "n_chars": 71,
+    "n_curves": 0,
+    "area": 17745.8,
+    "text_density": 4.001
+   }
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "source": "mirror/file_pool/0j075449647098961110/01-101指考歷史試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "fe986da924_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    267.7,
+    518.4,
+    676.5
+   ],
+   "item": null,
+   "file": "fe986da924_p1_vec0.png",
+   "features": {
+    "n_chars": 204,
+    "n_curves": 0,
+    "area": 173746.8,
+    "text_density": 1.174
+   }
+  },
+  {
+   "uid": "fe986da924_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    282.3,
+    710.9,
+    516.8,
+    747.3
+   ],
+   "item": 8,
+   "file": "fe986da924_p2_vec0.png",
+   "features": {
+    "n_chars": 63,
+    "n_curves": 0,
+    "area": 6428.1,
+    "text_density": 9.801
+   }
+  },
+  {
+   "uid": "fe986da924_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    129.5,
+    538.7,
+    191.7
+   ],
+   "item": null,
+   "file": "fe986da924_p2_vec1.png",
+   "features": {
+    "n_chars": 90,
+    "n_curves": 0,
+    "area": 25684.6,
+    "text_density": 3.504
+   }
+  },
+  {
+   "uid": "fe986da924_p4_img0",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    369.8,
+    372.5,
+    520.0,
+    469.6
+   ],
+   "item": 21,
+   "file": "fe986da924_p4_img0.png"
+  },
+  {
+   "uid": "fe986da924_p6_vec0",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    529.0,
+    538.7,
+    606.2
+   ],
+   "item": 36,
+   "file": "fe986da924_p6_vec0.png",
+   "features": {
+    "n_chars": 136,
+    "n_curves": 0,
+    "area": 32795.5,
+    "text_density": 4.147
+   }
+  },
+  {
+   "uid": "fe986da924_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    532.6,
+    538.7,
+    609.8
+   ],
+   "item": 40,
+   "file": "fe986da924_p7_vec0.png",
+   "features": {
+    "n_chars": 115,
+    "n_curves": 0,
+    "area": 32795.5,
+    "text_density": 3.507
+   }
+  },
+  {
+   "uid": "fe986da924_p8_vec0",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    82.8,
+    433.4,
+    531.2,
+    627.6
+   ],
+   "item": null,
+   "file": "fe986da924_p8_vec0.png",
+   "features": {
+    "n_chars": 172,
+    "n_curves": 2,
+    "area": 82031.3,
+    "text_density": 2.097
+   }
+  }
+ ]
+}

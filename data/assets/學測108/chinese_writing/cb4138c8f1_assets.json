@@ -1,0 +1,119 @@
+{
+ "source": "mirror/file_pool/0j193645027389558635/01-108學測國寫試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "cb4138c8f1_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    92.9,
+    225.9,
+    502.6,
+    691.7
+   ],
+   "item": null,
+   "file": "cb4138c8f1_p1_vec0.png",
+   "features": {
+    "n_chars": 280,
+    "n_curves": 0,
+    "area": 183898.7,
+    "text_density": 1.523
+   }
+  },
+  {
+   "uid": "cb4138c8f1_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    59.8,
+    378.6,
+    535.5,
+    658.1
+   ],
+   "item": null,
+   "file": "cb4138c8f1_p2_vec0.png",
+   "features": {
+    "n_chars": 155,
+    "n_curves": 0,
+    "area": 127003.9,
+    "text_density": 1.22
+   }
+  },
+  {
+   "uid": "cb4138c8f1_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    57.7,
+    105.1,
+    541.8,
+    188.6
+   ],
+   "item": null,
+   "file": "cb4138c8f1_p2_vec1.png",
+   "features": {
+    "n_chars": 134,
+    "n_curves": 0,
+    "area": 35938.7,
+    "text_density": 3.729
+   }
+  },
+  {
+   "uid": "cb4138c8f1_p3_vec0",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    59.8,
+    85.2,
+    534.1,
+    341.4
+   ],
+   "item": null,
+   "file": "cb4138c8f1_p3_vec0.png",
+   "features": {
+    "n_chars": 134,
+    "n_curves": 0,
+    "area": 115771.4,
+    "text_density": 1.157
+   }
+  },
+  {
+   "uid": "cb4138c8f1_p3_vec1",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    190.2,
+    724.9,
+    403.1,
+    783.4
+   ],
+   "item": null,
+   "file": "cb4138c8f1_p3_vec1.png",
+   "features": {
+    "n_chars": 7,
+    "n_curves": 0,
+    "area": 10337.2,
+    "text_density": 0.677
+   }
+  },
+  {
+   "uid": "cb4138c8f1_p4_vec2",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    386.6,
+    173.8,
+    533.3,
+    238.8
+   ],
+   "item": null,
+   "file": "cb4138c8f1_p4_vec2.png",
+   "features": {
+    "n_chars": 32,
+    "n_curves": 0,
+    "area": 7908.7,
+    "text_density": 4.046
+   }
+  }
+ ]
+}

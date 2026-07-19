@@ -1,0 +1,113 @@
+{
+ "source": "mirror/file_pool/0j075801696328939235/03-105指考數學甲試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "b98f697899_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    54.1,
+    179.7,
+    547.8,
+    746.3
+   ],
+   "item": null,
+   "file": "b98f697899_p1_vec0.png",
+   "features": {
+    "n_chars": 564,
+    "n_curves": 61,
+    "area": 271345.5,
+    "text_density": 2.079
+   }
+  },
+  {
+   "uid": "b98f697899_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    135.1,
+    536.7,
+    199.5
+   ],
+   "item": null,
+   "file": "b98f697899_p2_vec0.png",
+   "features": {
+    "n_chars": 92,
+    "n_curves": 0,
+    "area": 26657.0,
+    "text_density": 3.451
+   }
+  },
+  {
+   "uid": "b98f697899_p4_vec0",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    108.1,
+    537.8,
+    190.5
+   ],
+   "item": null,
+   "file": "b98f697899_p4_vec0.png",
+   "features": {
+    "n_chars": 137,
+    "n_curves": 0,
+    "area": 35235.9,
+    "text_density": 3.888
+   }
+  },
+  {
+   "uid": "b98f697899_p5_vec7",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    479.1,
+    537.7,
+    543.6
+   ],
+   "item": 7,
+   "file": "b98f697899_p5_vec7.png",
+   "features": {
+    "n_chars": 78,
+    "n_curves": 0,
+    "area": 26739.6,
+    "text_density": 2.917
+   }
+  },
+  {
+   "uid": "b98f697899_p8_img0",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    311.4,
+    235.4,
+    452.9,
+    329.9
+   ],
+   "item": null,
+   "file": "b98f697899_p8_img0.png"
+  },
+  {
+   "uid": "b98f697899_p8_vec13",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    108.1,
+    537.7,
+    190.5
+   ],
+   "item": null,
+   "file": "b98f697899_p8_vec13.png",
+   "features": {
+    "n_chars": 122,
+    "n_curves": 0,
+    "area": 35227.0,
+    "text_density": 3.463
+   }
+  }
+ ]
+}

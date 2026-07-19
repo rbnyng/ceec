@@ -1,0 +1,106 @@
+{
+ "source": "mirror/file_pool/0j075821675260451323/93指考國文補考試卷.pdf",
+ "assets": [
+  {
+   "uid": "e93e594ea3_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    239.3,
+    518.4,
+    593.2
+   ],
+   "item": null,
+   "file": "e93e594ea3_p1_vec0.png",
+   "features": {
+    "n_chars": 98,
+    "n_curves": 0,
+    "area": 149947.7,
+    "text_density": 0.654
+   }
+  },
+  {
+   "uid": "e93e594ea3_p2_vec4",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    49.5,
+    95.2,
+    545.9,
+    160.5
+   ],
+   "item": null,
+   "file": "e93e594ea3_p2_vec4.png",
+   "features": {
+    "n_chars": 125,
+    "n_curves": 0,
+    "area": 28011.2,
+    "text_density": 4.463
+   }
+  },
+  {
+   "uid": "e93e594ea3_p4_img0",
+   "page": 4,
+   "kind": "inline_glyph",
+   "bbox": [
+    233.5,
+    264.5,
+    258.0,
+    285.5
+   ],
+   "item": null
+  },
+  {
+   "uid": "e93e594ea3_p4_img1",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    299.6,
+    258.3,
+    328.4,
+    282.7
+   ],
+   "item": null,
+   "file": "e93e594ea3_p4_img1.png"
+  },
+  {
+   "uid": "e93e594ea3_p6_vec0",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    49.5,
+    73.6,
+    545.9,
+    174.9
+   ],
+   "item": null,
+   "file": "e93e594ea3_p6_vec0.png",
+   "features": {
+    "n_chars": 169,
+    "n_curves": 0,
+    "area": 45591.4,
+    "text_density": 3.707
+   }
+  },
+  {
+   "uid": "e93e594ea3_p8_vec3",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    49.5,
+    77.2,
+    545.9,
+    124.5
+   ],
+   "item": null,
+   "file": "e93e594ea3_p8_vec3.png",
+   "features": {
+    "n_chars": 58,
+    "n_curves": 0,
+    "area": 19221.1,
+    "text_density": 3.018
+   }
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "source": "mirror/file_pool/0j052558125979244199/07-100指考公民與社會試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "4d900c7f51_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    98.0,
+    261.7,
+    513.5,
+    594.6
+   ],
+   "item": null,
+   "file": "4d900c7f51_p1_vec0.png",
+   "features": {
+    "n_chars": 76,
+    "n_curves": 0,
+    "area": 132427.7,
+    "text_density": 0.574
+   }
+  },
+  {
+   "uid": "4d900c7f51_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    148.5,
+    305.4,
+    462.3,
+    492.5
+   ],
+   "item": 3,
+   "file": "4d900c7f51_p2_vec0.png",
+   "features": {
+    "n_chars": 180,
+    "n_curves": 0,
+    "area": 54780.0,
+    "text_density": 3.286
+   }
+  },
+  {
+   "uid": "4d900c7f51_p2_vec2",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    79.0,
+    104.1,
+    531.6,
+    144.2
+   ],
+   "item": null,
+   "file": "4d900c7f51_p2_vec2.png",
+   "features": {
+    "n_chars": 84,
+    "n_curves": 0,
+    "area": 14245.0,
+    "text_density": 5.897
+   }
+  },
+  {
+   "uid": "4d900c7f51_p3_vec0",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    98.6,
+    107.8,
+    530.1,
+    246.6
+   ],
+   "item": 6,
+   "file": "4d900c7f51_p3_vec0.png",
+   "features": {
+    "n_chars": 389,
+    "n_curves": 0,
+    "area": 55391.2,
+    "text_density": 7.023
+   }
+  },
+  {
+   "uid": "4d900c7f51_p4_vec0",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    134.4,
+    591.0,
+    477.2,
+    640.6
+   ],
+   "item": 20,
+   "file": "4d900c7f51_p4_vec0.png",
+   "features": {
+    "n_chars": 71,
+    "n_curves": 0,
+    "area": 13941.1,
+    "text_density": 5.093
+   }
+  },
+  {
+   "uid": "4d900c7f51_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    79.0,
+    104.1,
+    531.6,
+    171.2
+   ],
+   "item": null,
+   "file": "4d900c7f51_p7_vec0.png",
+   "features": {
+    "n_chars": 136,
+    "n_curves": 0,
+    "area": 26249.2,
+    "text_density": 5.181
+   }
+  },
+  {
+   "uid": "4d900c7f51_p8_img0",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    155.5,
+    419.8,
+    418.2,
+    556.2
+   ],
+   "item": 48,
+   "file": "4d900c7f51_p8_img0.png"
+  }
+ ]
+}

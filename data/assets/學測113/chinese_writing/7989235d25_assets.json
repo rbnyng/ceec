@@ -1,0 +1,100 @@
+{
+ "source": "mirror/file_pool/0o051428628384018349/07-113學測國寫定稿.pdf",
+ "assets": [
+  {
+   "uid": "7989235d25_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    77.5,
+    231.9,
+    518.1,
+    257.9
+   ],
+   "item": null,
+   "file": "7989235d25_p1_vec0.png",
+   "features": {
+    "n_chars": 25,
+    "n_curves": 0,
+    "area": 7785.9,
+    "text_density": 3.211
+   }
+  },
+  {
+   "uid": "7989235d25_p1_vec1",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    92.9,
+    268.0,
+    502.6,
+    723.7
+   ],
+   "item": null,
+   "file": "7989235d25_p1_vec1.png",
+   "features": {
+    "n_chars": 268,
+    "n_curves": 0,
+    "area": 179876.4,
+    "text_density": 1.49
+   }
+  },
+  {
+   "uid": "7989235d25_p2_vec2",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    57.7,
+    108.7,
+    541.8,
+    189.5
+   ],
+   "item": null,
+   "file": "7989235d25_p2_vec2.png",
+   "features": {
+    "n_chars": 135,
+    "n_curves": 0,
+    "area": 34682.0,
+    "text_density": 3.893
+   }
+  },
+  {
+   "uid": "7989235d25_p2_vec3",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    200.3,
+    37.3,
+    395.3,
+    59.6
+   ],
+   "item": null,
+   "file": "7989235d25_p2_vec3.png",
+   "features": {
+    "n_chars": 18,
+    "n_curves": 0,
+    "area": 2670.1,
+    "text_density": 6.741
+   }
+  },
+  {
+   "uid": "7989235d25_p3_vec0",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    200.3,
+    37.9,
+    395.3,
+    60.2
+   ],
+   "item": null,
+   "file": "7989235d25_p3_vec0.png",
+   "features": {
+    "n_chars": 18,
+    "n_curves": 0,
+    "area": 2670.1,
+    "text_density": 6.741
+   }
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "source": "mirror/file_pool/0j076798186273765810/01-104學測國文定稿.pdf",
+ "assets": [
+  {
+   "uid": "5960290616_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    103.3,
+    304.9,
+    508.8,
+    727.7
+   ],
+   "item": null,
+   "file": "5960290616_p1_vec0.png",
+   "features": {
+    "n_chars": 233,
+    "n_curves": 0,
+    "area": 164879.4,
+    "text_density": 1.413
+   }
+  },
+  {
+   "uid": "5960290616_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    129.3,
+    538.8,
+    194.8
+   ],
+   "item": null,
+   "file": "5960290616_p2_vec1.png",
+   "features": {
+    "n_chars": 90,
+    "n_curves": 0,
+    "area": 27249.9,
+    "text_density": 3.303
+   }
+  },
+  {
+   "uid": "5960290616_p3_img0",
+   "page": 3,
+   "kind": "inline_glyph",
+   "bbox": [
+    489.7,
+    674.2,
+    517.3,
+    687.6
+   ],
+   "item": 8
+  },
+  {
+   "uid": "5960290616_p3_img1",
+   "page": 3,
+   "kind": "image",
+   "bbox": [
+    475.9,
+    618.2,
+    531.2,
+    673.4
+   ],
+   "item": 8,
+   "file": "5960290616_p3_img1.png"
+  },
+  {
+   "uid": "5960290616_p3_img2",
+   "page": 3,
+   "kind": "image",
+   "bbox": [
+    114.4,
+    609.7,
+    254.6,
+    735.0
+   ],
+   "item": 8,
+   "file": "5960290616_p3_img2.png"
+  },
+  {
+   "uid": "5960290616_p3_img3",
+   "page": 3,
+   "kind": "image",
+   "bbox": [
+    259.7,
+    609.7,
+    475.0,
+    735.0
+   ],
+   "item": 8,
+   "file": "5960290616_p3_img3.png"
+  },
+  {
+   "uid": "5960290616_p3_img4",
+   "page": 3,
+   "kind": "image",
+   "bbox": [
+    65.3,
+    607.4,
+    111.5,
+    663.4
+   ],
+   "item": 8,
+   "file": "5960290616_p3_img4.png"
+  },
+  {
+   "uid": "5960290616_p3_img5",
+   "page": 3,
+   "kind": "inline_glyph",
+   "bbox": [
+    65.4,
+    664.2,
+    104.4,
+    677.6
+   ],
+   "item": 8
+  },
+  {
+   "uid": "5960290616_p3_vec0",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    61.0,
+    605.4,
+    521.7,
+    739.4
+   ],
+   "item": 8,
+   "file": "5960290616_p3_vec0.png",
+   "features": {
+    "n_chars": 202,
+    "n_curves": 4,
+    "area": 57032.6,
+    "text_density": 3.542
+   }
+  },
+  {
+   "uid": "5960290616_p5_vec0",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    473.6,
+    388.0,
+    533.9,
+    448.5
+   ],
+   "item": 13,
+   "file": "5960290616_p5_vec0.png",
+   "features": {
+    "n_chars": 18,
+    "n_curves": 0,
+    "area": 2743.7,
+    "text_density": 6.561
+   }
+  },
+  {
+   "uid": "5960290616_p5_vec1",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    603.1,
+    538.8,
+    678.6
+   ],
+   "item": 15,
+   "file": "5960290616_p5_vec1.png",
+   "features": {
+    "n_chars": 136,
+    "n_curves": 0,
+    "area": 31985.9,
+    "text_density": 4.252
+   }
+  },
+  {
+   "uid": "5960290616_p6_vec7",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    370.3,
+    659.6,
+    533.6,
+    685.4
+   ],
+   "item": 20,
+   "file": "5960290616_p6_vec7.png",
+   "features": {
+    "n_chars": 14,
+    "n_curves": 0,
+    "area": 2757.8,
+    "text_density": 5.077
+   }
+  },
+  {
+   "uid": "5960290616_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    461.6,
+    104.7,
+    533.3,
+    145.4
+   ],
+   "item": 21,
+   "file": "5960290616_p7_vec0.png",
+   "features": {
+    "n_chars": 12,
+    "n_curves": 0,
+    "area": 2079.8,
+    "text_density": 5.77
+   }
+  },
+  {
+   "uid": "5960290616_p8_img0",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    129.6,
+    216.0,
+    465.7,
+    304.7
+   ],
+   "item": null,
+   "file": "5960290616_p8_img0.png"
+  },
+  {
+   "uid": "5960290616_p8_vec0",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    357.6,
+    306.1,
+    535.6,
+    332.2
+   ],
+   "item": null,
+   "file": "5960290616_p8_vec0.png",
+   "features": {
+    "n_chars": 20,
+    "n_curves": 0,
+    "area": 3081.1,
+    "text_density": 6.491
+   }
+  },
+  {
+   "uid": "5960290616_p8_vec2",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    61.3,
+    441.5,
+    535.7,
+    590.3
+   ],
+   "item": null,
+   "file": "5960290616_p8_vec2.png",
+   "features": {
+    "n_chars": 236,
+    "n_curves": 0,
+    "area": 65649.9,
+    "text_density": 3.595
+   }
+  },
+  {
+   "uid": "5960290616_p8_vec5",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    57.7,
+    102.1,
+    541.8,
+    147.5
+   ],
+   "item": null,
+   "file": "5960290616_p8_vec5.png",
+   "features": {
+    "n_chars": 73,
+    "n_curves": 0,
+    "area": 17825.8,
+    "text_density": 4.095
+   }
+  }
+ ]
+}

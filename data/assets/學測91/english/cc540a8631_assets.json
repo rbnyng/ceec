@@ -1,0 +1,157 @@
+{
+ "source": "mirror/file_pool/0j076563501493451887/91學測_english.pdf",
+ "assets": [
+  {
+   "uid": "cc540a8631_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    55.5,
+    117.3,
+    545.9,
+    164.6
+   ],
+   "item": null,
+   "file": "cc540a8631_p1_vec0.png",
+   "features": {
+    "n_chars": 68,
+    "n_curves": 0,
+    "area": 18987.3,
+    "text_density": 3.581
+   }
+  },
+  {
+   "uid": "cc540a8631_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    55.5,
+    409.4,
+    545.9,
+    456.8
+   ],
+   "item": 20,
+   "file": "cc540a8631_p2_vec0.png",
+   "features": {
+    "n_chars": 76,
+    "n_curves": 0,
+    "area": 18987.3,
+    "text_density": 4.003
+   }
+  },
+  {
+   "uid": "cc540a8631_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    51.1,
+    192.4,
+    510.9,
+    381.4
+   ],
+   "item": null,
+   "file": "cc540a8631_p2_vec1.png",
+   "features": {
+    "n_chars": 508,
+    "n_curves": 0,
+    "area": 81768.6,
+    "text_density": 6.213
+   }
+  },
+  {
+   "uid": "cc540a8631_p2_vec2",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    55.5,
+    99.1,
+    545.9,
+    182.4
+   ],
+   "item": null,
+   "file": "cc540a8631_p2_vec2.png",
+   "features": {
+    "n_chars": 142,
+    "n_curves": 0,
+    "area": 36353.7,
+    "text_density": 3.906
+   }
+  },
+  {
+   "uid": "cc540a8631_p3_vec1",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    55.5,
+    571.9,
+    545.9,
+    619.2
+   ],
+   "item": 30,
+   "file": "cc540a8631_p3_vec1.png",
+   "features": {
+    "n_chars": 79,
+    "n_curves": 0,
+    "area": 18987.3,
+    "text_density": 4.161
+   }
+  },
+  {
+   "uid": "cc540a8631_p3_vec2",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    55.5,
+    225.1,
+    545.9,
+    290.4
+   ],
+   "item": 30,
+   "file": "cc540a8631_p3_vec2.png",
+   "features": {
+    "n_chars": 105,
+    "n_curves": 0,
+    "area": 27670.5,
+    "text_density": 3.795
+   }
+  },
+  {
+   "uid": "cc540a8631_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    55.5,
+    660.6,
+    545.9,
+    708.0
+   ],
+   "item": null,
+   "file": "cc540a8631_p7_vec0.png",
+   "features": {
+    "n_chars": 64,
+    "n_curves": 0,
+    "area": 18987.3,
+    "text_density": 3.371
+   }
+  },
+  {
+   "uid": "cc540a8631_p7_vec1",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    55.5,
+    117.3,
+    545.9,
+    200.6
+   ],
+   "item": null,
+   "file": "cc540a8631_p7_vec1.png",
+   "features": {
+    "n_chars": 142,
+    "n_curves": 0,
+    "area": 36353.7,
+    "text_density": 3.906
+   }
+  }
+ ]
+}

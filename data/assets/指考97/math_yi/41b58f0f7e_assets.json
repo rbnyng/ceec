@@ -1,0 +1,100 @@
+{
+ "source": "mirror/file_pool/0j075776798813156510/04-97指考數學乙試卷.pdf",
+ "assets": [
+  {
+   "uid": "41b58f0f7e_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    37.5,
+    171.0,
+    557.7,
+    712.3
+   ],
+   "item": null,
+   "file": "41b58f0f7e_p1_vec0.png",
+   "features": {
+    "n_chars": 627,
+    "n_curves": 2,
+    "area": 273156.7,
+    "text_density": 2.295
+   }
+  },
+  {
+   "uid": "41b58f0f7e_p2_vec10",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    144.3,
+    538.7,
+    209.7
+   ],
+   "item": null,
+   "file": "41b58f0f7e_p2_vec10.png",
+   "features": {
+    "n_chars": 101,
+    "n_curves": 0,
+    "area": 27249.0,
+    "text_density": 3.707
+   }
+  },
+  {
+   "uid": "41b58f0f7e_p3_vec4",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    468.1,
+    538.7,
+    569.6
+   ],
+   "item": 3,
+   "file": "41b58f0f7e_p3_vec4.png",
+   "features": {
+    "n_chars": 160,
+    "n_curves": 0,
+    "area": 44315.1,
+    "text_density": 3.611
+   }
+  },
+  {
+   "uid": "41b58f0f7e_p5_vec7",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    342.1,
+    538.7,
+    389.6
+   ],
+   "item": 7,
+   "file": "41b58f0f7e_p5_vec7.png",
+   "features": {
+    "n_chars": 67,
+    "n_curves": 0,
+    "area": 18715.9,
+    "text_density": 3.58
+   }
+  },
+  {
+   "uid": "41b58f0f7e_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    117.3,
+    538.7,
+    182.7
+   ],
+   "item": null,
+   "file": "41b58f0f7e_p7_vec0.png",
+   "features": {
+    "n_chars": 74,
+    "n_curves": 0,
+    "area": 27249.0,
+    "text_density": 2.716
+   }
+  }
+ ]
+}

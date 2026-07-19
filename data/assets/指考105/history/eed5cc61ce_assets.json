@@ -1,0 +1,151 @@
+{
+ "source": "mirror/file_pool/0j075454363688574388/05-105指考歷史定稿.pdf",
+ "assets": [
+  {
+   "uid": "eed5cc61ce_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    267.7,
+    518.4,
+    676.5
+   ],
+   "item": null,
+   "file": "eed5cc61ce_p1_vec0.png",
+   "features": {
+    "n_chars": 204,
+    "n_curves": 0,
+    "area": 173746.8,
+    "text_density": 1.174
+   }
+  },
+  {
+   "uid": "eed5cc61ce_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    129.5,
+    538.7,
+    189.0
+   ],
+   "item": null,
+   "file": "eed5cc61ce_p2_vec0.png",
+   "features": {
+    "n_chars": 136,
+    "n_curves": 0,
+    "area": 24404.6,
+    "text_density": 5.573
+   }
+  },
+  {
+   "uid": "eed5cc61ce_p4_vec0",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    286.8,
+    263.4,
+    535.5,
+    374.4
+   ],
+   "item": 20,
+   "file": "eed5cc61ce_p4_vec0.png",
+   "features": {
+    "n_chars": 97,
+    "n_curves": 0,
+    "area": 24799.0,
+    "text_density": 3.911
+   }
+  },
+  {
+   "uid": "eed5cc61ce_p5_img0",
+   "page": 5,
+   "kind": "image",
+   "bbox": [
+    341.8,
+    402.5,
+    529.0,
+    520.8
+   ],
+   "item": 29,
+   "file": "eed5cc61ce_p5_img0.png"
+  },
+  {
+   "uid": "eed5cc61ce_p5_vec0",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    337.0,
+    397.7,
+    533.5,
+    525.6
+   ],
+   "item": 28,
+   "file": "eed5cc61ce_p5_vec0.png",
+   "features": {
+    "n_chars": 0,
+    "n_curves": 2,
+    "area": 22599.8,
+    "text_density": 0.0
+   }
+  },
+  {
+   "uid": "eed5cc61ce_p6_vec0",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    335.6,
+    210.7,
+    535.5,
+    352.4
+   ],
+   "item": 32,
+   "file": "eed5cc61ce_p6_vec0.png",
+   "features": {
+    "n_chars": 176,
+    "n_curves": 0,
+    "area": 25650.5,
+    "text_density": 6.861
+   }
+  },
+  {
+   "uid": "eed5cc61ce_p6_vec1",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    537.3,
+    538.7,
+    612.8
+   ],
+   "item": 34,
+   "file": "eed5cc61ce_p6_vec1.png",
+   "features": {
+    "n_chars": 136,
+    "n_curves": 0,
+    "area": 31999.1,
+    "text_density": 4.25
+   }
+  },
+  {
+   "uid": "eed5cc61ce_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    541.9,
+    538.7,
+    601.5
+   ],
+   "item": 38,
+   "file": "eed5cc61ce_p7_vec0.png",
+   "features": {
+    "n_chars": 111,
+    "n_curves": 0,
+    "area": 24433.1,
+    "text_density": 4.543
+   }
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "source": "mirror/file_pool/0j075775067925995980/95數學乙試卷.pdf",
+ "assets": [
+  {
+   "uid": "ad1a99ebbd_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    37.5,
+    171.0,
+    557.7,
+    712.3
+   ],
+   "item": null,
+   "file": "ad1a99ebbd_p1_vec0.png",
+   "features": {
+    "n_chars": 620,
+    "n_curves": 2,
+    "area": 273156.7,
+    "text_density": 2.27
+   }
+  },
+  {
+   "uid": "ad1a99ebbd_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    83.5,
+    500.2,
+    465.9,
+    597.6
+   ],
+   "item": 2,
+   "file": "ad1a99ebbd_p2_vec0.png",
+   "features": {
+    "n_chars": 106,
+    "n_curves": 0,
+    "area": 33443.5,
+    "text_density": 3.17
+   }
+  },
+  {
+   "uid": "ad1a99ebbd_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    145.8,
+    538.7,
+    211.2
+   ],
+   "item": null,
+   "file": "ad1a99ebbd_p2_vec1.png",
+   "features": {
+    "n_chars": 103,
+    "n_curves": 0,
+    "area": 27249.0,
+    "text_density": 3.78
+   }
+  },
+  {
+   "uid": "ad1a99ebbd_p3_img0",
+   "page": 3,
+   "kind": "inline_glyph",
+   "bbox": [
+    306.2,
+    478.3,
+    314.4,
+    528.4
+   ],
+   "item": 4
+  },
+  {
+   "uid": "ad1a99ebbd_p3_img1",
+   "page": 3,
+   "kind": "inline_glyph",
+   "bbox": [
+    287.7,
+    531.9,
+    294.9,
+    580.9
+   ],
+   "item": 4
+  },
+  {
+   "uid": "ad1a99ebbd_p3_img2",
+   "page": 3,
+   "kind": "inline_glyph",
+   "bbox": [
+    345.5,
+    470.4,
+    353.2,
+    518.3
+   ],
+   "item": 4
+  },
+  {
+   "uid": "ad1a99ebbd_p3_img3",
+   "page": 3,
+   "kind": "inline_glyph",
+   "bbox": [
+    271.0,
+    455.6,
+    278.6,
+    505.7
+   ],
+   "item": 4
+  },
+  {
+   "uid": "ad1a99ebbd_p3_vec1",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    236.4,
+    461.9,
+    380.9,
+    565.3
+   ],
+   "item": 4,
+   "file": "ad1a99ebbd_p3_vec1.png",
+   "features": {
+    "n_chars": 1,
+    "n_curves": 3,
+    "area": 13027.8,
+    "text_density": 0.077
+   }
+  },
+  {
+   "uid": "ad1a99ebbd_p3_vec3",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    310.6,
+    538.7,
+    394.1
+   ],
+   "item": 3,
+   "file": "ad1a99ebbd_p3_vec3.png",
+   "features": {
+    "n_chars": 151,
+    "n_curves": 0,
+    "area": 35782.0,
+    "text_density": 4.22
+   }
+  },
+  {
+   "uid": "ad1a99ebbd_p4_img0",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    240.7,
+    325.9,
+    376.6,
+    420.4
+   ],
+   "item": 6,
+   "file": "ad1a99ebbd_p4_img0.png"
+  },
+  {
+   "uid": "ad1a99ebbd_p4_img1",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    241.6,
+    470.2,
+    375.8,
+    564.0
+   ],
+   "item": 6,
+   "file": "ad1a99ebbd_p4_img1.png"
+  },
+  {
+   "uid": "ad1a99ebbd_p5_img0",
+   "page": 5,
+   "kind": "image",
+   "bbox": [
+    176.0,
+    194.3,
+    419.2,
+    407.9
+   ],
+   "item": 7,
+   "file": "ad1a99ebbd_p5_img0.png"
+  },
+  {
+   "uid": "ad1a99ebbd_p6_vec2",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    222.7,
+    230.1,
+    372.5,
+    294.8
+   ],
+   "item": null,
+   "file": "ad1a99ebbd_p6_vec2.png",
+   "features": {
+    "n_chars": 0,
+    "n_curves": 1,
+    "area": 8035.5,
+    "text_density": 0.0
+   }
+  },
+  {
+   "uid": "ad1a99ebbd_p6_vec3",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    208.1,
+    558.4,
+    418.8,
+    716.6
+   ],
+   "item": null,
+   "file": "ad1a99ebbd_p6_vec3.png",
+   "features": {
+    "n_chars": 25,
+    "n_curves": 9,
+    "area": 30438.5,
+    "text_density": 0.821
+   }
+  },
+  {
+   "uid": "ad1a99ebbd_p6_vec4",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    112.6,
+    538.7,
+    160.1
+   ],
+   "item": null,
+   "file": "ad1a99ebbd_p6_vec4.png",
+   "features": {
+    "n_chars": 66,
+    "n_curves": 0,
+    "area": 18715.9,
+    "text_density": 3.526
+   }
+  },
+  {
+   "uid": "ad1a99ebbd_p7_img0",
+   "page": 7,
+   "kind": "image",
+   "bbox": [
+    273.8,
+    214.1,
+    531.8,
+    400.1
+   ],
+   "item": null,
+   "file": "ad1a99ebbd_p7_img0.png"
+  },
+  {
+   "uid": "ad1a99ebbd_p7_vec1",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    114.3,
+    538.7,
+    179.7
+   ],
+   "item": null,
+   "file": "ad1a99ebbd_p7_vec1.png",
+   "features": {
+    "n_chars": 91,
+    "n_curves": 0,
+    "area": 27249.0,
+    "text_density": 3.34
+   }
+  }
+ ]
+}

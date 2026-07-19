@@ -1,0 +1,81 @@
+{
+ "source": "mirror/file_pool/0j075822593602168918/94chinese.pdf",
+ "assets": [
+  {
+   "uid": "8e8fd259db_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    278.8,
+    518.4,
+    632.7
+   ],
+   "item": null,
+   "file": "8e8fd259db_p1_vec0.png",
+   "features": {
+    "n_chars": 95,
+    "n_curves": 0,
+    "area": 149947.7,
+    "text_density": 0.634
+   }
+  },
+  {
+   "uid": "8e8fd259db_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    49.5,
+    112.1,
+    545.9,
+    177.6
+   ],
+   "item": null,
+   "file": "8e8fd259db_p2_vec1.png",
+   "features": {
+    "n_chars": 97,
+    "n_curves": 0,
+    "area": 28099.1,
+    "text_density": 3.452
+   }
+  },
+  {
+   "uid": "8e8fd259db_p6_vec0",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    49.5,
+    449.1,
+    545.9,
+    550.5
+   ],
+   "item": 17,
+   "file": "8e8fd259db_p6_vec0.png",
+   "features": {
+    "n_chars": 156,
+    "n_curves": 0,
+    "area": 45650.0,
+    "text_density": 3.417
+   }
+  },
+  {
+   "uid": "8e8fd259db_p8_vec2",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    49.5,
+    393.1,
+    545.9,
+    440.6
+   ],
+   "item": 24,
+   "file": "8e8fd259db_p8_vec2.png",
+   "features": {
+    "n_chars": 43,
+    "n_curves": 0,
+    "area": 19279.7,
+    "text_density": 2.23
+   }
+  }
+ ]
+}

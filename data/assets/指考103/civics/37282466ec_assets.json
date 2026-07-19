@@ -1,0 +1,348 @@
+{
+ "source": "mirror/file_pool/0j052568173636852538/07-103指考公民與社會(定稿).pdf",
+ "assets": [
+  {
+   "uid": "37282466ec_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    273.0,
+    518.4,
+    617.1
+   ],
+   "item": null,
+   "file": "37282466ec_p1_vec0.png",
+   "features": {
+    "n_chars": 110,
+    "n_curves": 0,
+    "area": 145683.1,
+    "text_density": 0.755
+   }
+  },
+  {
+   "uid": "37282466ec_p2_vec1",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    72.0,
+    593.8,
+    533.2,
+    689.5
+   ],
+   "item": 5,
+   "file": "37282466ec_p2_vec1.png",
+   "features": {
+    "n_chars": 175,
+    "n_curves": 0,
+    "area": 39754.4,
+    "text_density": 4.402
+   }
+  },
+  {
+   "uid": "37282466ec_p2_vec4",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    49.5,
+    93.6,
+    544.8,
+    155.1
+   ],
+   "item": null,
+   "file": "37282466ec_p2_vec4.png",
+   "features": {
+    "n_chars": 144,
+    "n_curves": 0,
+    "area": 26080.3,
+    "text_density": 5.521
+   }
+  },
+  {
+   "uid": "37282466ec_p6_vec2",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    303.7,
+    557.8,
+    527.7,
+    640.3
+   ],
+   "item": 35,
+   "file": "37282466ec_p6_vec2.png",
+   "features": {
+    "n_chars": 87,
+    "n_curves": 0,
+    "area": 16097.6,
+    "text_density": 5.405
+   }
+  },
+  {
+   "uid": "37282466ec_p7_img0",
+   "page": 7,
+   "kind": "image",
+   "bbox": [
+    315.1,
+    387.7,
+    536.9,
+    508.2
+   ],
+   "item": 39,
+   "file": "37282466ec_p7_img0.png"
+  },
+  {
+   "uid": "37282466ec_p7_img1",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    523.9,
+    422.8,
+    545.8,
+    439.2
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img2",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    523.8,
+    442.8,
+    545.6,
+    459.2
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img3",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    524.5,
+    460.6,
+    546.4,
+    476.9
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img4",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    524.4,
+    471.6,
+    546.4,
+    487.3
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img5",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    524.3,
+    483.1,
+    548.3,
+    498.7
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img6",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    321.0,
+    388.4,
+    352.6,
+    397.3
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img7",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    320.9,
+    410.2,
+    352.4,
+    419.0
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img8",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    320.9,
+    430.6,
+    352.4,
+    439.4
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img9",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    321.0,
+    451.8,
+    352.6,
+    460.8
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img10",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    318.1,
+    472.6,
+    349.7,
+    481.4
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img11",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    354.2,
+    500.4,
+    370.4,
+    508.2
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img12",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    378.0,
+    500.8,
+    394.2,
+    508.6
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img13",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    401.3,
+    500.8,
+    417.5,
+    508.6
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img14",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    425.4,
+    500.8,
+    441.6,
+    508.6
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img15",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    449.8,
+    501.0,
+    466.0,
+    508.8
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img16",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    473.2,
+    500.9,
+    489.5,
+    508.7
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img17",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    497.5,
+    500.8,
+    513.7,
+    508.6
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_img18",
+   "page": 7,
+   "kind": "inline_glyph",
+   "bbox": [
+    520.6,
+    500.4,
+    536.8,
+    508.3
+   ],
+   "item": 40
+  },
+  {
+   "uid": "37282466ec_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    49.5,
+    246.6,
+    544.8,
+    327.8
+   ],
+   "item": 39,
+   "file": "37282466ec_p7_vec0.png",
+   "features": {
+    "n_chars": 136,
+    "n_curves": 0,
+    "area": 35670.4,
+    "text_density": 3.813
+   }
+  },
+  {
+   "uid": "37282466ec_p7_vec2",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    345.4,
+    388.5,
+    535.5,
+    505.4
+   ],
+   "item": 40,
+   "file": "37282466ec_p7_vec2.png",
+   "features": {
+    "n_chars": 64,
+    "n_curves": 0,
+    "area": 19850.7,
+    "text_density": 3.224
+   }
+  }
+ ]
+}

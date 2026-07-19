@@ -1,0 +1,214 @@
+{
+ "source": "mirror/file_pool/0j075773860587592982/93指考數學乙補考試卷.pdf",
+ "assets": [
+  {
+   "uid": "efe7244b9d_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    51.6,
+    194.5,
+    571.8,
+    735.7
+   ],
+   "item": null,
+   "file": "efe7244b9d_p1_vec0.png",
+   "features": {
+    "n_chars": 572,
+    "n_curves": 2,
+    "area": 273125.9,
+    "text_density": 2.094
+   }
+  },
+  {
+   "uid": "efe7244b9d_p2_vec4",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    147.3,
+    538.7,
+    212.7
+   ],
+   "item": null,
+   "file": "efe7244b9d_p2_vec4.png",
+   "features": {
+    "n_chars": 89,
+    "n_curves": 0,
+    "area": 27249.0,
+    "text_density": 3.266
+   }
+  },
+  {
+   "uid": "efe7244b9d_p3_vec0",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    65.8,
+    348.8,
+    546.3,
+    470.1
+   ],
+   "item": 3,
+   "file": "efe7244b9d_p3_vec0.png",
+   "features": {
+    "n_chars": 165,
+    "n_curves": 0,
+    "area": 53524.8,
+    "text_density": 3.083
+   }
+  },
+  {
+   "uid": "efe7244b9d_p3_vec3",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    319.8,
+    148.5,
+    441.2,
+    263.1
+   ],
+   "item": 3,
+   "file": "efe7244b9d_p3_vec3.png",
+   "features": {
+    "n_chars": 3,
+    "n_curves": 6,
+    "area": 12103.9,
+    "text_density": 0.248
+   }
+  },
+  {
+   "uid": "efe7244b9d_p4_vec3",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    583.1,
+    538.7,
+    630.6
+   ],
+   "item": 6,
+   "file": "efe7244b9d_p4_vec3.png",
+   "features": {
+    "n_chars": 77,
+    "n_curves": 0,
+    "area": 18744.3,
+    "text_density": 4.108
+   }
+  },
+  {
+   "uid": "efe7244b9d_p4_vec4",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    73.5,
+    153.1,
+    533.1,
+    190.1
+   ],
+   "item": 5,
+   "file": "efe7244b9d_p4_vec4.png",
+   "features": {
+    "n_chars": 88,
+    "n_curves": 0,
+    "area": 13115.0,
+    "text_density": 6.71
+   }
+  },
+  {
+   "uid": "efe7244b9d_p5_vec2",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    389.8,
+    669.8,
+    461.5,
+    734.1
+   ],
+   "item": null,
+   "file": "efe7244b9d_p5_vec2.png",
+   "features": {
+    "n_chars": 8,
+    "n_curves": 6,
+    "area": 3586.2,
+    "text_density": 2.231
+   }
+  },
+  {
+   "uid": "efe7244b9d_p5_vec3",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    99.7,
+    451.4,
+    163.7,
+    494.6
+   ],
+   "item": null,
+   "file": "efe7244b9d_p5_vec3.png",
+   "features": {
+    "n_chars": 8,
+    "n_curves": 3,
+    "area": 1968.3,
+    "text_density": 4.065
+   }
+  },
+  {
+   "uid": "efe7244b9d_p5_vec11",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    115.8,
+    558.0,
+    186.9,
+    620.1
+   ],
+   "item": null,
+   "file": "efe7244b9d_p5_vec11.png",
+   "features": {
+    "n_chars": 0,
+    "n_curves": 0,
+    "area": 3416.4,
+    "text_density": 0.0
+   }
+  },
+  {
+   "uid": "efe7244b9d_p6_vec0",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    131.5,
+    327.4,
+    374.0,
+    465.5
+   ],
+   "item": null,
+   "file": "efe7244b9d_p6_vec0.png",
+   "features": {
+    "n_chars": 61,
+    "n_curves": 0,
+    "area": 30487.1,
+    "text_density": 2.001
+   }
+  },
+  {
+   "uid": "efe7244b9d_p6_vec1",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    105.3,
+    538.7,
+    152.7
+   ],
+   "item": null,
+   "file": "efe7244b9d_p6_vec1.png",
+   "features": {
+    "n_chars": 73,
+    "n_curves": 0,
+    "area": 18715.9,
+    "text_density": 3.9
+   }
+  }
+ ]
+}

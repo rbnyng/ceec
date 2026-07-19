@@ -1,0 +1,100 @@
+{
+ "source": "mirror/file_pool/0j075781701841263676/04-103指考數乙(定稿).pdf",
+ "assets": [
+  {
+   "uid": "d815e3d9cd_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    52.0,
+    164.3,
+    545.8,
+    715.4
+   ],
+   "item": null,
+   "file": "d815e3d9cd_p1_vec0.png",
+   "features": {
+    "n_chars": 560,
+    "n_curves": 62,
+    "area": 263796.8,
+    "text_density": 2.123
+   }
+  },
+  {
+   "uid": "d815e3d9cd_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    153.7,
+    538.7,
+    219.2
+   ],
+   "item": null,
+   "file": "d815e3d9cd_p2_vec0.png",
+   "features": {
+    "n_chars": 93,
+    "n_curves": 0,
+    "area": 27249.0,
+    "text_density": 3.413
+   }
+  },
+  {
+   "uid": "d815e3d9cd_p3_vec3",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    114.4,
+    538.7,
+    197.9
+   ],
+   "item": null,
+   "file": "d815e3d9cd_p3_vec3.png",
+   "features": {
+    "n_chars": 138,
+    "n_curves": 0,
+    "area": 35782.1,
+    "text_density": 3.857
+   }
+  },
+  {
+   "uid": "d815e3d9cd_p5_vec6",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    460.4,
+    537.7,
+    524.9
+   ],
+   "item": 7,
+   "file": "d815e3d9cd_p5_vec6.png",
+   "features": {
+    "n_chars": 79,
+    "n_curves": 0,
+    "area": 26739.6,
+    "text_density": 2.954
+   }
+  },
+  {
+   "uid": "d815e3d9cd_p7_vec1",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    114.4,
+    537.7,
+    196.8
+   ],
+   "item": null,
+   "file": "d815e3d9cd_p7_vec1.png",
+   "features": {
+    "n_chars": 122,
+    "n_curves": 0,
+    "area": 35227.0,
+    "text_density": 3.463
+   }
+  }
+ ]
+}

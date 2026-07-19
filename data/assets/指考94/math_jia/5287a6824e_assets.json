@@ -1,0 +1,145 @@
+{
+ "source": "mirror/file_pool/0j075790167188571938/94matha.pdf",
+ "assets": [
+  {
+   "uid": "5287a6824e_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    37.5,
+    171.0,
+    557.7,
+    712.3
+   ],
+   "item": null,
+   "file": "5287a6824e_p1_vec0.png",
+   "features": {
+    "n_chars": 634,
+    "n_curves": 2,
+    "area": 273156.7,
+    "text_density": 2.321
+   }
+  },
+  {
+   "uid": "5287a6824e_p2_vec7",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    129.3,
+    538.7,
+    194.7
+   ],
+   "item": null,
+   "file": "5287a6824e_p2_vec7.png",
+   "features": {
+    "n_chars": 101,
+    "n_curves": 0,
+    "area": 27249.0,
+    "text_density": 3.707
+   }
+  },
+  {
+   "uid": "5287a6824e_p3_img0",
+   "page": 3,
+   "kind": "image",
+   "bbox": [
+    367.7,
+    498.4,
+    452.7,
+    611.6
+   ],
+   "item": 5,
+   "file": "5287a6824e_p3_img0.png"
+  },
+  {
+   "uid": "5287a6824e_p3_vec1",
+   "page": 3,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    99.1,
+    538.7,
+    182.6
+   ],
+   "item": null,
+   "file": "5287a6824e_p3_vec1.png",
+   "features": {
+    "n_chars": 165,
+    "n_curves": 0,
+    "area": 35782.0,
+    "text_density": 4.611
+   }
+  },
+  {
+   "uid": "5287a6824e_p6_img0",
+   "page": 6,
+   "kind": "image",
+   "bbox": [
+    355.8,
+    443.8,
+    497.6,
+    560.8
+   ],
+   "item": null,
+   "file": "5287a6824e_p6_img0.png"
+  },
+  {
+   "uid": "5287a6824e_p6_vec1",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    355.4,
+    192.6,
+    516.9,
+    260.3
+   ],
+   "item": null,
+   "file": "5287a6824e_p6_vec1.png",
+   "features": {
+    "n_chars": 30,
+    "n_curves": 0,
+    "area": 9162.8,
+    "text_density": 3.274
+   }
+  },
+  {
+   "uid": "5287a6824e_p6_vec3",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    117.1,
+    538.7,
+    164.6
+   ],
+   "item": null,
+   "file": "5287a6824e_p6_vec3.png",
+   "features": {
+    "n_chars": 78,
+    "n_curves": 0,
+    "area": 18715.9,
+    "text_density": 4.168
+   }
+  },
+  {
+   "uid": "5287a6824e_p7_vec5",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    129.3,
+    538.7,
+    194.7
+   ],
+   "item": null,
+   "file": "5287a6824e_p7_vec5.png",
+   "features": {
+    "n_chars": 90,
+    "n_curves": 0,
+    "area": 27249.0,
+    "text_density": 3.303
+   }
+  }
+ ]
+}

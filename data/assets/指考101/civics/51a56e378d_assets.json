@@ -1,0 +1,100 @@
+{
+ "source": "mirror/file_pool/0j052558639137324116/07-101指考公民與社會試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "51a56e378d_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    294.1,
+    518.4,
+    608.1
+   ],
+   "item": null,
+   "file": "51a56e378d_p1_vec0.png",
+   "features": {
+    "n_chars": 110,
+    "n_curves": 0,
+    "area": 132651.0,
+    "text_density": 0.829
+   }
+  },
+  {
+   "uid": "51a56e378d_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    370.3,
+    430.6,
+    518.9,
+    492.1
+   ],
+   "item": 4,
+   "file": "51a56e378d_p2_vec0.png",
+   "features": {
+    "n_chars": 42,
+    "n_curves": 0,
+    "area": 7523.8,
+    "text_density": 5.582
+   }
+  },
+  {
+   "uid": "51a56e378d_p2_vec2",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    99.7,
+    537.7,
+    156.1
+   ],
+   "item": null,
+   "file": "51a56e378d_p2_vec2.png",
+   "features": {
+    "n_chars": 90,
+    "n_curves": 0,
+    "area": 22907.5,
+    "text_density": 3.929
+   }
+  },
+  {
+   "uid": "51a56e378d_p7_vec1",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.6,
+    265.6,
+    537.7,
+    336.4
+   ],
+   "item": 39,
+   "file": "51a56e378d_p7_vec1.png",
+   "features": {
+    "n_chars": 148,
+    "n_curves": 0,
+    "area": 29691.8,
+    "text_density": 4.985
+   }
+  },
+  {
+   "uid": "51a56e378d_p7_vec2",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    95.5,
+    380.4,
+    527.0,
+    442.9
+   ],
+   "item": 40,
+   "file": "51a56e378d_p7_vec2.png",
+   "features": {
+    "n_chars": 158,
+    "n_curves": 4,
+    "area": 23071.2,
+    "text_density": 6.848
+   }
+  }
+ ]
+}

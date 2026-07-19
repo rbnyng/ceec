@@ -1,0 +1,138 @@
+{
+ "source": "mirror/file_pool/0j075446871664881609/05-98指考歷史試卷定稿.pdf",
+ "assets": [
+  {
+   "uid": "eeae896459_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    76.9,
+    267.7,
+    518.3,
+    621.5
+   ],
+   "item": null,
+   "file": "eeae896459_p1_vec0.png",
+   "features": {
+    "n_chars": 109,
+    "n_curves": 0,
+    "area": 149901.3,
+    "text_density": 0.727
+   }
+  },
+  {
+   "uid": "eeae896459_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    129.4,
+    538.7,
+    192.9
+   ],
+   "item": null,
+   "file": "eeae896459_p2_vec0.png",
+   "features": {
+    "n_chars": 96,
+    "n_curves": 0,
+    "area": 26278.6,
+    "text_density": 3.653
+   }
+  },
+  {
+   "uid": "eeae896459_p4_vec0",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    288.6,
+    381.7,
+    505.1,
+    455.9
+   ],
+   "item": 20,
+   "file": "eeae896459_p4_vec0.png",
+   "features": {
+    "n_chars": 106,
+    "n_curves": 0,
+    "area": 13815.0,
+    "text_density": 7.673
+   }
+  },
+  {
+   "uid": "eeae896459_p5_vec0",
+   "page": 5,
+   "kind": "vector_region",
+   "bbox": [
+    84.3,
+    456.1,
+    470.1,
+    499.6
+   ],
+   "item": 28,
+   "file": "eeae896459_p5_vec0.png",
+   "features": {
+    "n_chars": 62,
+    "n_curves": 0,
+    "area": 13418.0,
+    "text_density": 4.621
+   }
+  },
+  {
+   "uid": "eeae896459_p7_vec0",
+   "page": 7,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    105.2,
+    538.7,
+    204.9
+   ],
+   "item": null,
+   "file": "eeae896459_p7_vec0.png",
+   "features": {
+    "n_chars": 160,
+    "n_curves": 0,
+    "area": 43456.3,
+    "text_density": 3.682
+   }
+  },
+  {
+   "uid": "eeae896459_p8_vec0",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    383.8,
+    528.8,
+    532.0,
+    627.5
+   ],
+   "item": null,
+   "file": "eeae896459_p8_vec0.png",
+   "features": {
+    "n_chars": 47,
+    "n_curves": 0,
+    "area": 12715.4,
+    "text_density": 3.696
+   }
+  },
+  {
+   "uid": "eeae896459_p8_vec1",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    56.7,
+    105.2,
+    538.7,
+    168.9
+   ],
+   "item": null,
+   "file": "eeae896459_p8_vec1.png",
+   "features": {
+    "n_chars": 90,
+    "n_curves": 0,
+    "area": 26392.3,
+    "text_density": 3.41
+   }
+  }
+ ]
+}
