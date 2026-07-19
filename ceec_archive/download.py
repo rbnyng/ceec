@@ -71,7 +71,15 @@ def main(limit: int | None = None, phase: str = "all"):
         if already and already.get("ok") and Path(already.get("local_path", "")).exists():
             stats["skip"] += 1
             continue
-        rec = f.download(href, dest_for(href), label=f"{coll}|{l['label']}")
+        try:
+            rec = f.download(href, dest_for(href), label=f"{coll}|{l['label']}")
+        except Exception as e:
+            # one broken connection must not kill a multi-hour run
+            print(f"EXC {type(e).__name__} {href}", flush=True)
+            stats["fail"] += 1
+            import time
+            time.sleep(10)
+            continue
         stats["ok" if rec["ok"] else "fail"] += 1
         if not rec["ok"]:
             print(f"FAIL [{rec['status']}/{rec['magic_class']}] {href}", flush=True)

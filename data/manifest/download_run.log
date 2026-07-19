@@ -7,3 +7,92 @@ progress 600/3273 ok=600 skip=0 fail=0
 progress 700/3273 ok=700 skip=0 fail=0
 progress 900/3273 ok=888 skip=12 fail=0
 progress 1000/3273 ok=988 skip=12 fail=0
+progress 1100/3273 ok=1088 skip=12 fail=0
+progress 1200/3273 ok=1188 skip=12 fail=0
+progress 1300/3273 ok=1288 skip=12 fail=0
+progress 1400/3273 ok=1388 skip=12 fail=0
+progress 1500/3273 ok=1488 skip=12 fail=0
+progress 1600/3273 ok=1588 skip=12 fail=0
+progress 1700/3273 ok=1688 skip=12 fail=0
+progress 1800/3273 ok=1788 skip=12 fail=0
+progress 1900/3273 ok=1888 skip=12 fail=0
+progress 2000/3273 ok=1988 skip=12 fail=0
+progress 2100/3273 ok=2088 skip=12 fail=0
+progress 2200/3273 ok=2188 skip=12 fail=0
+progress 2300/3273 ok=2288 skip=12 fail=0
+FAIL [404/html_error] http://dev.iifun.com.tw/ceec/files/file_pool/1/0j075789184642128984/93%e8%a3%9c%e8%80%83%e5%8f%83%e8%80%83%e7%ad%94%e6%a1%88.pdf
+progress 2400/3273 ok=2387 skip=12 fail=1
+progress 2500/3273 ok=2487 skip=12 fail=1
+progress 2600/3273 ok=2587 skip=12 fail=1
+progress 2700/3273 ok=2687 skip=12 fail=1
+progress 2800/3273 ok=2787 skip=12 fail=1
+progress 2900/3273 ok=2887 skip=12 fail=1
+progress 3000/3273 ok=2987 skip=12 fail=1
+FAIL [200/html_error] /files/file_pool/1/0q061514180776620070/115sat_%e8%aa%9e%e9%9f%b3_%e5%9c%8b%e7%b6%9c_%e6%96%87%e5%ad%97%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q061514671954478024/115sat_%e8%aa%9e%e9%9f%b3_%e5%9c%8b%e7%b6%9c_%e5%9c%96%e6%96%87%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q061507860077217595/115sat_%e8%aa%9e%e9%9f%b3_%e5%9c%8b%e5%af%ab_%e6%96%87%e5%ad%97%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q061508041155065540/115sat_%e8%aa%9e%e9%9f%b3_%e5%9c%8b%e5%af%ab_%e5%9c%96%e6%96%87%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q061499984996410496/115sat_%e8%aa%9e%e9%9f%b3_%e8%8b%b1%e6%96%87_%e6%96%87%e5%ad%97%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q061500125174268441/115sat_%e8%aa%9e%e9%9f%b3_%e8%8b%b1%e6%96%87_%e5%9c%96%e6%96%87%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q061488525290310499/115sat_%e8%aa%9e%e9%9f%b3_%e6%95%b8b_%e6%96%87%e5%ad%97%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q061488616479168444/115sat_%e8%aa%9e%e9%9f%b3_%e6%95%b8b_%e5%9c%96%e6%96%87%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q054540226139811147/115sat_%e8%aa%9e%e9%9f%b3_%e6%95%b8a_%e6%96%87%e5%ad%97%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q054540377317669192/115sat_%e8%aa%9e%e9%9f%b3_%e6%95%b8a_%e5%9c%96%e6%96%87%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q054509596529018371/115sat_%e8%aa%9e%e9%9f%b3_%e7%a4%be%e6%9c%83_%e6%96%87%e5%ad%97%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q054509727708866326/115sat_%e8%aa%9e%e9%9f%b3_%e7%a4%be%e6%9c%83_%e5%9c%96%e6%96%87%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q054500955823444267/115sat_%e8%aa%9e%e9%9f%b3_%e8%87%aa%e7%84%b6_%e6%96%87%e5%ad%97%e7%89%88.7z
+FAIL [200/html_error] /files/file_pool/1/0q054501075001292211/115sat_%e8%aa%9e%e9%9f%b3_%e8%87%aa%e7%84%b6_%e5%9c%96%e6%96%87%e7%89%88.7z
+progress 3100/3273 ok=3073 skip=12 fail=15
+Traceback (most recent call last):
+  File "/root/.local/lib/python3.11/site-packages/urllib3/response.py", line 903, in _error_catcher
+    yield
+  File "/root/.local/lib/python3.11/site-packages/urllib3/response.py", line 1049, in _raw_read
+    raise IncompleteRead(self._fp_bytes_read, self.length_remaining)
+urllib3.exceptions.IncompleteRead: IncompleteRead(5095424 bytes read, 91314366 more expected)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/.local/lib/python3.11/site-packages/requests/models.py", line 822, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "/root/.local/lib/python3.11/site-packages/urllib3/response.py", line 1257, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.local/lib/python3.11/site-packages/urllib3/response.py", line 1149, in read
+    data = self._raw_read(amt)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/.local/lib/python3.11/site-packages/urllib3/response.py", line 1027, in _raw_read
+    with self._error_catcher():
+  File "/usr/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/root/.local/lib/python3.11/site-packages/urllib3/response.py", line 927, in _error_catcher
+    raise ProtocolError(arg, e) from e
+urllib3.exceptions.ProtocolError: ('Connection broken: IncompleteRead(5095424 bytes read, 91314366 more expected)', IncompleteRead(5095424 bytes read, 91314366 more expected))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/user/ceec/ceec_archive/download.py", line 89, in <module>
+    main(**kw)
+  File "/home/user/ceec/ceec_archive/download.py", line 74, in main
+    rec = f.download(href, dest_for(href), label=f"{coll}|{l['label']}")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/ceec/ceec_archive/fetch.py", line 107, in download
+    resp = self.session.get(url, timeout=120)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.local/lib/python3.11/site-packages/requests/sessions.py", line 605, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.local/lib/python3.11/site-packages/requests/sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.local/lib/python3.11/site-packages/requests/sessions.py", line 749, in send
+    r.content
+  File "/root/.local/lib/python3.11/site-packages/requests/models.py", line 904, in content
+    self._content = b"".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b""
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.local/lib/python3.11/site-packages/requests/models.py", line 824, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: ('Connection broken: IncompleteRead(5095424 bytes read, 91314366 more expected)', IncompleteRead(5095424 bytes read, 91314366 more expected))
