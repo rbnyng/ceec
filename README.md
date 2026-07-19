@@ -107,6 +107,23 @@ Per-paper details in `data/parsed/run_report.json`.
 - Legacy `.doc` papers are converted via LibreOffice for cross-checking;
   the PDF stays primary there because conversion strips semantic styles.
 
+## Browsing: the semantic tree
+
+`archive/` is a human-navigable view over the raw mirror, built by
+`ceec_archive/build_tree.py` from index labels (never filenames):
+
+```
+archive/學測/115/國綜/試題內容.pdf … 選擇題答案.pdf
+archive/學測/115/統計資料/選擇題選項分析/各科選擇題選項分析.xls
+archive/學測/103/特殊試題/國文/試題內容(文字).zip
+archive/指考/109/國文(補考)/…
+```
+
+The files are hardlinks of `mirror/file_pool/` blobs (identical content,
+so git stores them once). `data/manifest/tree_map.jsonl` maps every
+semantic path back to its pool path, source URL, and sha256. The 37
+oversize audio files appear in the map with `in_git: false`.
+
 ## In-repo mirror
 
 `mirror/file_pool/` holds the raw archive: the full document layer and all
