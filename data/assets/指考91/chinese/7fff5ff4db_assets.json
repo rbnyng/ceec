@@ -1,0 +1,62 @@
+{
+ "source": "mirror/file_pool/0j075819119835272712/91chinese.pdf",
+ "assets": [
+  {
+   "uid": "7fff5ff4db_p1_vec6",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    49.6,
+    112.3,
+    545.7,
+    159.7
+   ],
+   "item": null,
+   "file": "7fff5ff4db_p1_vec6.png",
+   "features": {
+    "n_chars": 103,
+    "n_curves": 0,
+    "area": 19214.0,
+    "text_density": 5.361
+   }
+  },
+  {
+   "uid": "7fff5ff4db_p4_vec2",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    49.6,
+    88.1,
+    545.7,
+    171.4
+   ],
+   "item": null,
+   "file": "7fff5ff4db_p4_vec2.png",
+   "features": {
+    "n_chars": 210,
+    "n_curves": 0,
+    "area": 36787.8,
+    "text_density": 5.708
+   }
+  },
+  {
+   "uid": "7fff5ff4db_p6_vec6",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    49.6,
+    88.3,
+    545.7,
+    117.7
+   ],
+   "item": null,
+   "file": "7fff5ff4db_p6_vec6.png",
+   "features": {
+    "n_chars": 6,
+    "n_curves": 0,
+    "area": 10427.1,
+    "text_density": 0.575
+   }
+  }
+ ]
+}

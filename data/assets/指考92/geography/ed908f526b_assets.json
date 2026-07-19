@@ -1,0 +1,256 @@
+{
+ "source": "mirror/file_pool/0j052598139833703495/92geo.pdf",
+ "assets": [
+  {
+   "uid": "ed908f526b_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    77.0,
+    243.1,
+    518.4,
+    597.0
+   ],
+   "item": null,
+   "file": "ed908f526b_p1_vec0.png",
+   "features": {
+    "n_chars": 74,
+    "n_curves": 0,
+    "area": 149952.9,
+    "text_density": 0.493
+   }
+  },
+  {
+   "uid": "ed908f526b_p2_img0",
+   "page": 2,
+   "kind": "image",
+   "bbox": [
+    390.8,
+    589.3,
+    528.4,
+    689.4
+   ],
+   "item": null,
+   "file": "ed908f526b_p2_img0.png"
+  },
+  {
+   "uid": "ed908f526b_p2_vec0",
+   "page": 2,
+   "kind": "vector_region",
+   "bbox": [
+    49.6,
+    82.0,
+    545.8,
+    147.4
+   ],
+   "item": null,
+   "file": "ed908f526b_p2_vec0.png",
+   "features": {
+    "n_chars": 120,
+    "n_curves": 0,
+    "area": 28000.9,
+    "text_density": 4.286
+   }
+  },
+  {
+   "uid": "ed908f526b_p3_img0",
+   "page": 3,
+   "kind": "image",
+   "bbox": [
+    380.8,
+    226.7,
+    524.9,
+    327.0
+   ],
+   "item": 10,
+   "file": "ed908f526b_p3_img0.png"
+  },
+  {
+   "uid": "ed908f526b_p3_img1",
+   "page": 3,
+   "kind": "image",
+   "bbox": [
+    315.4,
+    658.6,
+    533.6,
+    767.6
+   ],
+   "item": 15,
+   "file": "ed908f526b_p3_img1.png"
+  },
+  {
+   "uid": "ed908f526b_p4_img0",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    388.0,
+    67.4,
+    539.9,
+    187.3
+   ],
+   "item": null,
+   "file": "ed908f526b_p4_img0.png"
+  },
+  {
+   "uid": "ed908f526b_p4_img1",
+   "page": 4,
+   "kind": "image",
+   "bbox": [
+    253.9,
+    215.6,
+    539.8,
+    309.4
+   ],
+   "item": 18,
+   "file": "ed908f526b_p4_img1.png"
+  },
+  {
+   "uid": "ed908f526b_p4_vec1",
+   "page": 4,
+   "kind": "vector_region",
+   "bbox": [
+    246.3,
+    378.2,
+    544.4,
+    448.6
+   ],
+   "item": 19,
+   "file": "ed908f526b_p4_vec1.png",
+   "features": {
+    "n_chars": 77,
+    "n_curves": 0,
+    "area": 18098.5,
+    "text_density": 4.254
+   }
+  },
+  {
+   "uid": "ed908f526b_p6_img0",
+   "page": 6,
+   "kind": "image",
+   "bbox": [
+    372.5,
+    81.8,
+    537.0,
+    301.7
+   ],
+   "item": null,
+   "file": "ed908f526b_p6_img0.png"
+  },
+  {
+   "uid": "ed908f526b_p6_img1",
+   "page": 6,
+   "kind": "image",
+   "bbox": [
+    317.4,
+    646.2,
+    536.8,
+    768.2
+   ],
+   "item": 36,
+   "file": "ed908f526b_p6_img1.png"
+  },
+  {
+   "uid": "ed908f526b_p6_vec3",
+   "page": 6,
+   "kind": "vector_region",
+   "bbox": [
+    318.4,
+    423.6,
+    544.4,
+    522.5
+   ],
+   "item": 34,
+   "file": "ed908f526b_p6_vec3.png",
+   "features": {
+    "n_chars": 111,
+    "n_curves": 0,
+    "area": 19822.0,
+    "text_density": 5.6
+   }
+  },
+  {
+   "uid": "ed908f526b_p7_img0",
+   "page": 7,
+   "kind": "image",
+   "bbox": [
+    409.2,
+    141.5,
+    542.9,
+    246.6
+   ],
+   "item": 38,
+   "file": "ed908f526b_p7_img0.png"
+  },
+  {
+   "uid": "ed908f526b_p7_img1",
+   "page": 7,
+   "kind": "image",
+   "bbox": [
+    379.2,
+    581.3,
+    537.2,
+    726.4
+   ],
+   "item": 43,
+   "file": "ed908f526b_p7_img1.png"
+  },
+  {
+   "uid": "ed908f526b_p7_img2",
+   "page": 7,
+   "kind": "image",
+   "bbox": [
+    317.4,
+    377.6,
+    538.2,
+    477.6
+   ],
+   "item": 41,
+   "file": "ed908f526b_p7_img2.png"
+  },
+  {
+   "uid": "ed908f526b_p8_img0",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    284.8,
+    85.1,
+    525.5,
+    238.8
+   ],
+   "item": null,
+   "file": "ed908f526b_p8_img0.png"
+  },
+  {
+   "uid": "ed908f526b_p8_img1",
+   "page": 8,
+   "kind": "image",
+   "bbox": [
+    137.9,
+    552.6,
+    462.5,
+    626.6
+   ],
+   "item": 48,
+   "file": "ed908f526b_p8_img1.png"
+  },
+  {
+   "uid": "ed908f526b_p8_vec2",
+   "page": 8,
+   "kind": "vector_region",
+   "bbox": [
+    133.5,
+    548.2,
+    466.8,
+    631.0
+   ],
+   "item": 48,
+   "file": "ed908f526b_p8_vec2.png",
+   "features": {
+    "n_chars": 0,
+    "n_curves": 0,
+    "area": 24320.9,
+    "text_density": 0.0
+   }
+  }
+ ]
+}

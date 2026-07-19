@@ -1,0 +1,24 @@
+{
+ "source": "mirror/file_pool/0j052574932018529090/91chemcov.pdf",
+ "assets": [
+  {
+   "uid": "ae93d9e5d5_p1_vec0",
+   "page": 1,
+   "kind": "vector_region",
+   "bbox": [
+    102.9,
+    229.8,
+    517.7,
+    518.4
+   ],
+   "item": null,
+   "file": "ae93d9e5d5_p1_vec0.png",
+   "features": {
+    "n_chars": 114,
+    "n_curves": 0,
+    "area": 114131.8,
+    "text_density": 0.999
+   }
+  }
+ ]
+}
