@@ -110,9 +110,13 @@ Per-paper details in `data/parsed/run_report.json`.
 ## In-repo mirror
 
 `mirror/file_pool/` holds the raw archive: the full document layer and all
-audio ZIPs ≤100MB. The 29 audio files above GitHub's 100MB blob limit are
-listed in `.gitignore` and carry checksums in the manifest; they exist only
-in offline copies (candidates for GitHub Release assets, 2GB/file).
+audio ZIPs ≤100MB — 3,213 files in-repo of 3,250 mirrored (~14GB on disk).
+Final crawl completeness: 3,250 of 3,273 indexed links; the 23 failures are
+verified server-side dead links (every `.7z` in the index — the newest
+115 學測 / 114 分科 audio — plus the 93補考 answer key). The 37 audio files
+above GitHub's 100MB blob limit are listed in `.gitignore` and carry
+checksums in the manifest; they exist only in offline copies (candidates
+for GitHub Release assets, 2GB/file).
 
 ## Findings vs. the exploratory handoff
 

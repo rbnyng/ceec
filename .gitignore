@@ -4,6 +4,10 @@ __pycache__/
 data/manifest/probe.jsonl
 mirror/_converted/
 # files exceeding GitHub's 100MB hard limit:
+mirror/file_pool/0j077654646985036904/107drse_語音_化學_文字版.zip
+mirror/file_pool/0j077704698813156510/103drse_語音_英文_文字版.zip
+mirror/file_pool/0j077722755934800145/107drse_語音_國文_文字版.zip
+mirror/file_pool/0j077726176812061774/100sat_語音_社會_文字.zip
 mirror/file_pool/0j077728432893869773/101sat_語音_社會_文字版.zip
 mirror/file_pool/0j077733312311685842/103sat_語音_社會_文字版.zip
 mirror/file_pool/0j077734971308361355/104sat_語音_社會_文字版.zip
@@ -12,12 +16,15 @@ mirror/file_pool/0j077737917557916498/106sat_語音_社會_文字版.zip
 mirror/file_pool/0j077737918192895426/106sat_語音_社會_圖文版.zip
 mirror/file_pool/0j077737918736764443/106sat_語音_社會_點字版.zip
 mirror/file_pool/0j077740047722450956/107sat_語音_社會_文字版.zip
+mirror/file_pool/0j077746173512651539/101sat_語音_自然_文字版.zip
 mirror/file_pool/0j077756668128437565/102sat_語音_自然_文字版.zip
 mirror/file_pool/0j077760948393862122/103sat_語音_自然_文字版.zip
 mirror/file_pool/0j077762227389558635/104sat_語音_自然_文字版.zip
 mirror/file_pool/0j077763184553517166/105sat_語音_自然.zip
 mirror/file_pool/0j077764727632830147/106sat_語音_自然_文字版.zip
 mirror/file_pool/0j077766397897374705/107sat_語音_自然_文字版.zip
+mirror/file_pool/0j099621125784063657/100sat_語音_英文_文字.zip
+mirror/file_pool/0j099671369042244673/102sat_語音_英文_文字版.zip
 mirror/file_pool/0j099673625658910709/103sat_語音_英文_文字版.zip
 mirror/file_pool/0j099709438952538129/107sat_語音_國選_文字版.zip
 mirror/file_pool/0j196623408254435115/108sat_語音_國選_文字版.zip

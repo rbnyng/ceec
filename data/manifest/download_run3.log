@@ -23,3 +23,4 @@ FAIL [200/html_error] /files/file_pool/1/0p227553377968481325/114%e5%88%86%e7%a7
 FAIL [200/html_error] /files/file_pool/1/0p227535388870728116/114%e5%88%86%e7%a7%91%e6%b8%ac%e9%a9%97_%e8%aa%9e%e9%9f%b3_%e7%89%a9%e7%90%86_%e6%96%87%e5%ad%97%e7%89%88.7z
 FAIL [200/html_error] /files/file_pool/1/0p227532267527436604/114%e5%88%86%e7%a7%91%e6%b8%ac%e9%a9%97_%e8%aa%9e%e9%9f%b3_%e5%8c%96%e5%ad%b8_%e6%96%87%e5%ad%97%e7%89%88.7z
 FAIL [200/html_error] /files/file_pool/1/0p227527867718023029/114%e5%88%86%e7%a7%91%e6%b8%ac%e9%a9%97_%e8%aa%9e%e9%9f%b3_%e7%94%9f%e7%89%a9_%e6%96%87%e5%ad%97%e7%89%88.7z
+done: {'ok': 106, 'skip': 3143, 'fail': 24}
